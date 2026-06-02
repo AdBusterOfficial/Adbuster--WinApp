@@ -1,0 +1,49 @@
+AdBuster 2.0 PRO – Proprietary License Agreement
+
+Copyright (c) 2026
+AdBuster Development Team / Dublin, Ireland / D.P‑G
+All Rights Reserved.
+
+This software (“AdBuster PRO”) is licensed, not sold.
+By installing, accessing, or using this software, you agree to the terms of this Proprietary License Agreement.
+
+1. GRANT OF LICENSE
+You are granted a non-exclusive, non-transferable, revocable license to use AdBuster PRO for personal or commercial purposes, subject to the restrictions below.
+
+2. RESTRICTIONS
+You are strictly prohibited from:
+- copying or redistributing the software in any form,
+- modifying, altering, or creating derivative works,
+- reverse engineering, decompiling, or attempting to extract the source code,
+- selling, sublicensing, leasing, or transferring the software to third parties,
+- sharing license keys, activation files, or access credentials.
+
+3. OWNERSHIP
+All rights, title, and interest in AdBuster PRO, including all algorithms, logic, code, and documentation, remain the exclusive property of D.P‑G / AdBuster Development Team.
+No rights are transferred to the user other than those explicitly stated in this agreement.
+
+4. UPDATES AND CHANGES
+The licensor may provide updates, improvements, or patches at its discretion.
+Such updates remain subject to this license unless stated otherwise.
+
+5. TERMINATION
+This license is automatically terminated if you violate any of its terms.
+Upon termination, you must immediately cease all use of the software and delete all copies.
+
+6. NO WARRANTY
+AdBuster PRO is provided “AS IS”, without any warranties, express or implied, including but not limited to fitness for a particular purpose, performance, or reliability.
+
+7. LIMITATION OF LIABILITY
+In no event shall the authors or copyright holders be liable for any damages, losses, or claims arising from the use of this software.
+
+8. COMMERCIAL RIGHTS
+The licensor retains full rights to:
+- sell commercial licenses,
+- issue enterprise agreements,
+- transfer or sell ownership of the software,
+- change licensing terms for future versions.
+
+9. CONTACT
+AdBuster Development Team — Dublin, Ireland — D.P‑G
+📩 Contact: Official Contact Form
+© 2026 — All rights reserved.
