@@ -29,4 +29,5 @@ This license is automatically terminated if you violate any of its terms.
 Upon termination, you must stop using the software and delete all copies.
 
 7) CONTACT
-For support or inquiries, contact the author directly.
+For support or inquiries, please use the official contact form:
+https://sites.google.com/view/adbuster-winapp/contact
