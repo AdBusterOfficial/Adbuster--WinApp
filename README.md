@@ -9,8 +9,9 @@ When normal audio returns, the volume is restored smoothly and naturally.
 
 No cloud.  
 No accounts.  
+No telemetry.  
 No data collection.  
-Everything runs locally.
+Everything runs locally on your PC.
 
 ---
 
