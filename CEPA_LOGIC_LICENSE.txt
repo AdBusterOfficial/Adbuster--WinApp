@@ -1,0 +1,47 @@
+CEPA Logic — Proprietary License Agreement
+© 2026 DP‑G / AdBuster Development Team — All Rights Reserved.
+
+CEPA Logic (Contextual Event Pattern Analysis Logic) is a proprietary 
+context-driven analytical framework used for interpreting, mapping, and 
+predicting event–context relationships. By accessing or using CEPA Logic, 
+you agree to the terms of this Proprietary License Agreement.
+
+1. INTELLECTUAL PROPERTY
+All algorithms, conceptual structures, interpretative rules, contextual 
+mapping methods, pattern logic, and internal components of CEPA Logic 
+remain the exclusive intellectual property of DP‑G / AdBuster Development Team.
+
+2. NO REDISTRIBUTION
+You are strictly prohibited from copying, publishing, uploading, mirroring, 
+or distributing CEPA Logic or any of its components without explicit 
+written permission.
+
+3. NO REVERSE ENGINEERING
+Reverse engineering, decompiling, disassembling, analyzing, or attempting 
+to derive the internal logic or methodology of CEPA Logic is strictly forbidden.
+
+4. NO MODIFICATION
+Modification, alteration, or creation of derivative works based on CEPA Logic 
+is not permitted.
+
+5. CONFIDENTIALITY
+All CEPA Logic documentation, diagrams, descriptions, and technical materials 
+are classified as confidential. Sharing them with third parties requires 
+a signed NDA (Non‑Disclosure Agreement).
+
+6. COMMERCIAL USE
+Commercial use of CEPA Logic — including OEM integration, product embedding, 
+licensing, resale, or technology transfer — requires a separate commercial 
+agreement with the AdBuster Development Team.
+
+7. NO TRANSFER OF RIGHTS
+This license does not grant any ownership, rights, or claims to CEPA Logic. 
+All rights remain exclusively with DP‑G / AdBuster Development Team.
+
+8. ENFORCEMENT
+Any violation of this license may result in immediate termination of access, 
+legal action, and claims for damages.
+
+TRADE SECRET NOTICE
+CEPA Logic is protected as a proprietary trade secret under applicable 
+intellectual property laws. Unauthorized use is strictly prohibited.
