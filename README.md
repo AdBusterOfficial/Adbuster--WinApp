@@ -66,12 +66,11 @@ https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest/download/Ad
 
 ### 9. CEPA Logic License
 
-This repository includes an additional proprietary license covering the **CEPA Logic**  
+This repository includes an additional proprietary license covering the **CEPA Logic**
 (Contextual Event Pattern Analysis Logic) analytical framework.
 
-CEPA Logic is an original contextual event–pattern interpretation method developed by DP‑G  
-and used within AdBuster PRO for decision logic and contextual audio regulation.
+For full terms, see the dedicated license file:
 
-For full terms, see:  
-➡️ **CEPA_LOGIC_LICENSE.txt**
+➡️ [CEPA_LOGIC_LICENSE.txt](./CEPA_LOGIC_LICENSE.txt)
+
 
