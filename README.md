@@ -54,7 +54,7 @@ Everything runs locally on your PC.
 ### 6. Full Application View – All Modules Working Together
 ![Full App View](https://github.com/user-attachments/assets/5de05bd7-acf5-4345-872b-0c55b403f451)
 
-### 7. 🎥 Demo Video (15 seconds)
+### 7. Demo Video (15 seconds)
 
 Short demo recorded quickly on a phone — quality is low, but it clearly shows how the app reacts to loudness spikes and sends IR volume commands.
 
