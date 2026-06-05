@@ -1,0 +1,135 @@
+# AdBuster PRO — Architecture Overview (Public Preview)
+
+This document provides a high‑level overview of the internal architecture of
+AdBuster PRO. It does NOT include source code, algorithms, or implementation
+details. All processing is performed locally on the user’s device.
+
+---
+
+## 1. System Overview
+
+AdBuster PRO is a Windows application that automatically stabilizes TV audio
+by detecting abnormal loudness patterns and sending infrared volume commands
+to a Broadlink device.
+
+The system operates entirely offline and consists of three core components:
+
+- Audio Engine (real‑time audio analysis)
+- CEPA Decision Engine (human‑like volume logic)
+- IR Control Engine (Broadlink integration)
+
+No cloud services, accounts, or external servers are used.
+
+---
+
+## 2. Audio Engine (High-Level Description)
+
+The audio engine continuously monitors the incoming audio signal and extracts
+simplified metrics such as:
+
+- smoothed loudness level
+- short‑term variations
+- long‑term stability indicators
+
+These metrics are used by the decision engine to determine whether the current
+audio resembles normal program content or a commercial break.
+
+Implementation details and formulas are proprietary.
+
+---
+
+## 3. CEPA Decision Engine (Conceptual Overview)
+
+CEPA (Contextual Event Pattern Analysis) is a rule‑based decision layer that
+mimics human perception of loudness changes.
+
+Its responsibilities include:
+
+- interpreting audio patterns
+- distinguishing natural fluctuations from disruptive spikes
+- determining when a volume adjustment is necessary
+- preventing over‑correction
+- restoring volume smoothly after loud segments
+
+Exact logic, thresholds, and algorithms are proprietary.
+
+---
+
+## 4. Machine Learning Layer (PRO Version)
+
+The PRO version includes an enhanced ML model that improves detection accuracy
+by analyzing long‑term audio behavior.
+
+The ML layer:
+
+- processes simplified audio metrics
+- identifies patterns typical for commercial breaks
+- assists CEPA in decision-making
+
+The model runs locally and does not upload or transmit any data.
+
+Model architecture and training methods are proprietary.
+
+---
+
+## 5. IR Control Engine (Broadlink Integration)
+
+AdBuster PRO communicates with Broadlink IR devices to send:
+
+- volume down
+- volume up
+- mute
+
+The IR engine includes:
+
+- device discovery
+- IR code learning
+- command throttling
+- connection watchdog
+
+Low‑level IR handling and server implementation are proprietary.
+
+---
+
+## 6. User Interface (Overview)
+
+The application includes a Windows GUI that provides:
+
+- real‑time audio visualization
+- threshold controls
+- calibration tools
+- mode selection (AUTO / ML / MUSIC / AD)
+- Broadlink device status
+
+The interface is built using standard Windows UI frameworks.
+
+---
+
+## 7. Privacy & Security
+
+AdBuster PRO is fully offline:
+
+- no cloud
+- no telemetry
+- no audio recording
+- no external communication
+
+All processing happens locally on the user’s PC.
+
+---
+
+## 8. Licensing & PRO Features
+
+The PRO version unlocks:
+
+- advanced ML model
+- extended history analysis
+- additional CEPA features
+- enhanced stability logic
+
+The full source code is proprietary and not publicly available.
+
+---
+
+© 2026 AdBuster Team Dublin / D.P‑G — All rights reserved.
+
