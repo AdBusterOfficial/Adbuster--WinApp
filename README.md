@@ -73,4 +73,22 @@ For full terms, see the dedicated license file:
 
 ➡️ [CEPA_LOGIC_LICENSE.txt](./CEPA_LOGIC_LICENSE.txt)
 
+### 10. For Investors & Partners
+
+AdBuster 2.0 PRO is a unique offline technology that combines real‑time microphone analysis,
+contextual CEPA logic, on‑device machine learning and Broadlink IR control to automatically
+stabilize TV audio. The system works on any Windows PC or laptop and supports virtually any
+IR‑based TV.
+
+**Opportunities:**
+- Licensing for TV, audio and smart‑home manufacturers  
+- Integration with streaming platforms and media devices  
+- Unique IP: CEPA + ML + IR control pipeline  
+- Open to commercial proposals and partnership discussions  
+
+📩 **Contact:**  
+[Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
+
+© 2026 — All rights reserved.
+
 
