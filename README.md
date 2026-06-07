@@ -65,15 +65,25 @@ or implementation details.
                              │
                              ▼
                 ┌────────────────────────┐
-                │   IR Control Engine    │
-                │ (Broadlink commands)   │
+                │  AdBuster App Logic    │
+                │ (decides: vol up/down) │
                 └────────────┬───────────┘
-                             │
+                             │  HTTP request
+                             ▼
+                ┌────────────────────────┐
+                │   Flask Server         │
+                │   (VolMaster API)      │
+                └────────────┬───────────┘
+                             │  IR command
+                             ▼
+                ┌────────────────────────┐
+                │ Broadlink IR Blaster   │
+                └────────────┬───────────┘
+                             │  infrared
                              ▼
                 ┌────────────────────────┐
                 │     TV / Audio Device  │
                 └────────────────────────┘
-```
 
 ---
 
