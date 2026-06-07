@@ -34,6 +34,49 @@ Everything runs locally on your PC.
 
 ---
 
+## 🧩 Architecture Diagram (High‑Level)
+
+Below is a simplified architecture diagram showing how the main components  
+of AdBuster PRO interact. This diagram does not reveal internal algorithms  
+or implementation details.
+
+```
+                ┌────────────────────────┐
+                │      Audio Input       │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │     Audio Engine       │
+                │  (metrics extraction)  │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │   ML Model (PRO)       │
+                │ (pattern recognition)  │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │     CEPA Engine        │
+                │ (contextual decisions) │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │   IR Control Engine    │
+                │ (Broadlink commands)   │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │     TV / Audio Device  │
+                └────────────────────────┘
+```
+
+---
+
 ## 📸 Screenshots
 
 ### 1. AdBuster PRO – Main Interface (A)
@@ -61,8 +104,12 @@ Short demo recorded quickly on a phone — quality is low, but it clearly shows 
 ▶️ Download the video:  
 https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest/download/AdBuster_demo.mp4
 
+---
+
 ### 8. Documentation
 ➡️ Full documentation is available in the [docs](docs) folder.
+
+---
 
 ### 9. CEPA Logic License
 
@@ -73,6 +120,8 @@ For full terms, see the dedicated license file:
 
 ➡️ [CEPA_LOGIC_LICENSE.txt](./CEPA_LOGIC_LICENSE.txt)
 
+---
+
 ### 10. CEPA Logic — Technical Overview
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
@@ -80,17 +129,14 @@ A full technical explanation of how CEPA Logic works — including decision flow
 
 This file contains:
 
-detailed description of CEPA architecture
+- detailed description of CEPA architecture  
+- explanation of all decision types (BOOST, BLOCK, DELAY, SMOOTH, ALLOW)  
+- real‑time data flow  
+- human‑reaction analogy  
+- example code  
+- step‑by‑step event walkthrough  
 
-explanation of all decision types (BOOST, BLOCK, DELAY, SMOOTH, ALLOW)
-
-real‑time data flow
-
-human‑reaction analogy
-
-example code
-
-step‑by‑step event walkthrough
+---
 
 ### 11. For Investors & Partners
 
@@ -109,5 +155,3 @@ IR‑based TV.
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
 © 2026 — All rights reserved.
-
-
