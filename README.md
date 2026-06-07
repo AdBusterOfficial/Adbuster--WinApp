@@ -82,7 +82,7 @@ or implementation details.
                              │  infrared
                              ▼
                 ┌────────────────────────┐
-                │     TV / Audio Device  │
+                │   TV / Audio Device    │
                 └────────────────────────┘
 
 ---
