@@ -28,9 +28,13 @@ Everything runs locally on your PC.
 
 ## 🛠️ How It Works
 1. A microphone listens to the TV audio.  
-2. When a sudden loudness spike is detected (typical for ads), AdBuster PRO sends IR volume‑down commands.  
-3. When the audio returns to normal, the app restores the previous volume level.  
-4. All logic is processed locally — no cloud, no external servers.
+2. When a sudden loudness spike is detected (typical for ads), AdBuster PRO decides whether to lower the volume.  
+3. The app sends a command to the local Flask server (VolMaster).  
+4. VolMaster forwards the IR command to the Broadlink device.  
+5. Broadlink sends the IR signal to the TV.  
+6. When audio returns to normal, the app restores the previous volume level.
+
+All logic is processed locally — no cloud, no external servers.
 
 ---
 
@@ -64,15 +68,15 @@ or implementation details.
                 └────────────┬───────────┘
                              │
                              ▼
-                ┌────────────────────────┐
-                │  AdBuster App Logic    │
-                │ (decides: vol up/down) │
-                └────────────┬───────────┘
+                ┌──────────────────────────────┐
+                │     AdBuster App Logic       │
+                │ (decides: vol up / vol down) │
+                └────────────┬─────────────────┘
                              │  HTTP request
                              ▼
                 ┌────────────────────────┐
-                │   Flask Server         │
-                │   (VolMaster API)      │
+                │     Flask Server       │
+                │     (VolMaster API)    │
                 └────────────┬───────────┘
                              │  IR command
                              ▼
@@ -82,8 +86,9 @@ or implementation details.
                              │  infrared
                              ▼
                 ┌────────────────────────┐
-                │   TV / Audio Device    │
+                │     TV / Audio Device  │
                 └────────────────────────┘
+```
 
 ---
 
