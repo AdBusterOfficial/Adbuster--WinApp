@@ -73,7 +73,26 @@ For full terms, see the dedicated license file:
 
 ➡️ [CEPA_LOGIC_LICENSE.txt](./CEPA_LOGIC_LICENSE.txt)
 
-### 10. For Investors & Partners
+### 10. CEPA Logic — Technical Overview
+A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
+
+➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
+
+This file contains:
+
+detailed description of CEPA architecture
+
+explanation of all decision types (BOOST, BLOCK, DELAY, SMOOTH, ALLOW)
+
+real‑time data flow
+
+human‑reaction analogy
+
+example code
+
+step‑by‑step event walkthrough
+
+### 11. For Investors & Partners
 
 AdBuster 2.0 PRO is a unique offline technology that combines real‑time microphone analysis,
 contextual CEPA logic, on‑device machine learning and Broadlink IR control to automatically
