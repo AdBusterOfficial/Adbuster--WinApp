@@ -45,52 +45,66 @@ of AdBuster PRO interact. This diagram does not reveal internal algorithms
 or implementation details.
 
 ```
-                ┌────────────────────────┐
-                │      Audio Input       │
-                └────────────┬───────────┘
-                             │
-                             ▼
-                ┌────────────────────────┐
-                │     Audio Engine       │
-                │  (metrics extraction)  │
-                └────────────┬───────────┘
-                             │
-                             ▼
-                ┌────────────────────────┐
-                │   ML Model (PRO)       │
-                │ (pattern recognition)  │
-                └────────────┬───────────┘
-                             │
-                             ▼
-                ┌────────────────────────┐
-                │     CEPA Engine        │
-                │ (contextual decisions) │
-                └────────────┬───────────┘
-                             │
-                             ▼
-                ┌──────────────────────────────┐
-                │     AdBuster App Logic       │
-                │ (decides: vol up / vol down) │
-                └────────────┬─────────────────┘
-                             │  HTTP request
-                             ▼
-                ┌────────────────────────┐
-                │     Flask Server       │
-                │     (VolMaster API)    │
-                └────────────┬───────────┘
-                             │  IR command
-                             ▼
-                ┌────────────────────────┐
-                │ Broadlink IR Blaster   │
-                └────────────┬───────────┘
-                             │  infrared
-                             ▼
-                ┌────────────────────────┐
-                │     TV / Audio Device  │
-                └────────────────────────┘
-```
+┌────────────────────────────┐
+│        MICROPHONE          │
+│    (raw audio signal)      │
+└──────────────┬─────────────┘
+               │ audio frames
+               ▼
+┌────────────────────────────┐
+│        AUDIO ENGINE        │
+│  RMS / mean / std / range  │
+│   smoothing / GUI level    │
+└──────────────┬─────────────┘
+               │ features
+               ▼
+┌────────────────────────────┐
+│       ML CONTROLLER        │
+│      (ml_controller.py)    │
+│ - collects RMS history     │
+│ - calls ml_pro_update()    │
+│ - confirms AD / NORMAL     │
+│ - toggles ad_mode          │
+└──────────────┬─────────────┘
+               │ AD / NORMAL state
+               ▼
+┌────────────────────────────┐
+│         CEPA ENGINE        │
+│ - contextual analysis      │
+│ - deadzone / stable zone   │
+│ - spike detection          │
+│ - anti-spam limits         │
+│ - VOL_UP / VOL_DOWN        │
+└──────────────┬─────────────┘
+               │ decision
+               ▼
+┌────────────────────────────┐
+│     AdBuster App Logic     │
+│ - pending_cmds queue       │
+│ - cooldown timers          │
+│ - 2x up/down safety limits │
+│ - sends HTTP commands      │
+└──────────────┬─────────────┘
+               │ HTTP GET /send?cmd=...
+               ▼
+┌────────────────────────────┐
+│      VolMaster Server      │
+│   (Flask API, port 5000)   │
+└──────────────┬─────────────┘
+               │ IR command
+               ▼
+┌────────────────────────────┐
+│   Broadlink IR Blaster     │
+│ (RM Mini / RM Pro series)  │
+└──────────────┬─────────────┘
+               │ infrared signal
+               ▼
+┌────────────────────────────┐
+│      TV / Audio Device     │
+│   (volume changes applied) │
+└────────────────────────────┘
 
----
+```
 
 ## 📸 Screenshots
 
