@@ -5,7 +5,13 @@
 
 <h1 align="center">AdBuster 2.0 PRO – TV Volume Stabilizer</h1>
 
-<p align="center">A small Windows tool that lowers loud TV ads automatically and restores normal volume smoothly.</p>
+<p align="center">
+  Offline audio stabilization engine powered by ML/AI and CEPA Logic.
+</p>
+
+<p align="center">
+  A small Windows tool that lowers loud TV ads automatically and restores normal volume smoothly.
+</p>
 
 ---
 
