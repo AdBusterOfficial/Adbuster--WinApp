@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9af9e7e2-2091-43f6-bb97-bdb2a31181e1" width="200">
+</p>
+
+<h1 align="center">AdBuster 2.0 PRO – TV Volume Stabilizer</h1>
+
 # AdBuster 2.0 PRO
 A small Windows tool that lowers loud TV ads automatically and restores normal volume smoothly.
 
