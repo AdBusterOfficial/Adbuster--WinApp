@@ -190,7 +190,36 @@ IR‑based TV.
 - Licensing for TV, audio and smart‑home manufacturers  
 - Integration with streaming platforms and media devices  
 - Unique IP: CEPA + ML + IR control pipeline  
-- Open to commercial proposals and partnership discussions  
+- Open to commercial proposals and partnership discussions.
+
+---
+
+### 12. Support & Contributions
+
+AdBuster 2.0 PRO is an independent R&D project developed with passion, countless hours of testing, and a strong focus on offline privacy‑first technology.
+
+If you find this project useful, you can support its development in several ways:
+
+### ☕ Support the project
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc58417d-c23a-4a4a-a3da-c0e5a4111b29" width="200">
+</p>
+
+- Donate via PayPal (QR code above)
+- Buy me a coffee
+- Share the project with others
+- Star the repository ⭐
+
+### 🤝 Contribute
+- Report issues
+- Suggest new features
+- Propose integrations (TV, audio, smart‑home, IR devices)
+- Help test Broadlink compatibility
+
+Every form of support helps the project grow and evolve.
+
+Thank you for being part of the journey.
+
 
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
