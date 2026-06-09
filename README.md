@@ -183,4 +183,4 @@ IR‑based TV.
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
-© 2026 — All rights reserved.
+© 2026 — D.P‑G. All rights reserved.
