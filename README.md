@@ -214,12 +214,13 @@ If you find this project useful, you can support its development in several ways
 - Report issues
 - Suggest new features
 - Propose integrations (TV, audio, smart‑home, IR devices)
-- Help test Broadlink compatibility
+- Help test compatibility with Broadlink IR devices
 
 Every form of support helps the project grow and evolve.
 
 Thank you for being part of the journey.
 
+---
 
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
