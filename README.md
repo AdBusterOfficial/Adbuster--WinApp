@@ -204,6 +204,7 @@ This was the moment AdBuster truly began.
 
 ## 📚 Table of Contents
 
+- [7. Demo Video](#7-demo-video-15-seconds)
 - [8. Documentation](#8-documentation)
 - [9. CEPA Logic License](#9-cepa-logic-license)
 - [10. CEPA Logic — Technical Overview](#10-cepa-logic--technical-overview)
