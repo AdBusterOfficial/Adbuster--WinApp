@@ -39,13 +39,13 @@ Everything runs locally on your PC.
 
 ## 📚 Table of Contents
 
-- [📌 Overview](#-overview)
-- [🚀 Quick Start](#-quick-start)
-- [🎯 Key Features](#-key-features)
-- [🛠️ How It Works](#-how-it-works)
-- [🧩 Architecture Diagram (High‑Level)](#-architecture-diagram-high-level)
-- [🎬 Behind the Scenes: How AdBuster Started](#-behind-the-scenes-how-adbuster-started)
-- [📸 Screenshots](#-screenshots)
+- [📌 Overview](#overview)
+- [🚀 Quick Start](#quick-start)
+- [🎯 Key Features](#key-features)
+- [🛠️ How It Works](#how-it-works)
+- [🧩 Architecture Diagram (High‑Level)](#architecture-diagram-high-level)
+- [🎬 Behind the Scenes: How AdBuster Started](#behind-the-scenes-how-adbuster-started)
+- [📸 Screenshots](#screenshots)
 - [8. Documentation](#8-documentation)
 - [9. CEPA Logic License](#9-cepa-logic-license)
 - [10. CEPA Logic — Technical Overview](#10-cepa-logic--technical-overview)
@@ -496,7 +496,7 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 ---
 
-📩 **Contact:**  
+## 📩 Contact
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
 
