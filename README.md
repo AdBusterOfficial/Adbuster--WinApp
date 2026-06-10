@@ -200,6 +200,24 @@ This was the moment AdBuster truly began.
 ## 6. Full Application View – All Modules Working Together
 ![Full App View](https://github.com/user-attachments/assets/5de05bd7-acf5-4345-872b-0c55b403f451)
 
+---
+
+## 📚 Table of Contents
+
+- [8. Documentation](#8-documentation)
+- [9. CEPA Logic License](#9-cepa-logic-license)
+- [10. CEPA Logic — Technical Overview](#10-cepa-logic--technical-overview)
+- [11. For Investors & Partners](#11-for-investors--partners)
+- [12. Support & Contributions](#12-support--contributions)
+- [13. Installation (EXE Version)](#13-installation-exe-version)
+- [14. Changelog](#14-changelog)
+- [15. Roadmap](#15-roadmap)
+- [16. FAQ (Frequently Asked Questions)](#16-faq-frequently-asked-questions)
+- [17. System Requirements](#17-system-requirements)
+- [📩 Contact](#contact)
+
+---
+
 ## 7. Demo Video (15 seconds)
 
 Short demo recorded quickly on a phone — quality is low, but it clearly shows how the app reacts to loudness spikes and sends IR volume commands.
