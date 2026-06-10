@@ -37,6 +37,29 @@ Everything runs locally on your PC.
 
 ---
 
+## 📚 Table of Contents
+
+- **[📌 Overview](ca://s?q=przejdz_do_Overview)**
+- **[🚀 Quick Start](ca://s?q=przejdz_do_Quick_Start)**
+- **[🎯 Key Features](ca://s?q=przejdz_do_Key_Features)**
+- **[🛠️ How It Works](ca://s?q=przejdz_do_How_It_Works)**
+- **[🧩 Architecture Diagram](ca://s?q=przejdz_do_Architecture_Diagram)**
+- **[🎬 Behind the Scenes](ca://s?q=przejdz_do_Behind_the_Scenes)**
+- **[📸 Screenshots](ca://s?q=przejdz_do_Screenshots)**
+- **[📄 Documentation](ca://s?q=przejdz_do_Documentation)**
+- **[🔐 CEPA Logic License](ca://s?q=przejdz_do_CEPA_License)**
+- **[📘 CEPA Technical Overview](ca://s?q=przejdz_do_CEPA_Overview)**
+- **[💼 For Investors & Partners](ca://s?q=przejdz_do_Investors)**
+- **[🤝 Support & Contributions](ca://s?q=przejdz_do_Support)**
+- **[💾 Installation](ca://s?q=przejdz_do_Installation)**
+- **[📝 Changelog](ca://s?q=przejdz_do_Changelog)**
+- **[🧭 Roadmap](ca://s?q=przejdz_do_Roadmap)**
+- **[❓ FAQ](ca://s?q=przejdz_do_FAQ)**
+- **[💻 System Requirements](ca://s?q=przejdz_do_System_Requirements)**
+- **[📩 Contact](ca://s?q=przejdz_do_Contact)**
+
+---
+
 ## 🚀 Quick Start
 
 1. Download the latest release from the Releases page.
