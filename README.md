@@ -37,6 +37,16 @@ Everything runs locally on your PC.
 
 ---
 
+## 🚀 Quick Start
+
+1. Download the latest release from the Releases page.
+2. Unzip the folder anywhere on your PC.
+3. Run Start.bat to launch all modules automatically.
+4. (Optional) Configure your Broadlink IR device for volume control.
+5. Start watching TV — AdBuster will detect loud ads and stabilize audio in real time.
+
+---
+
 ## 🎯 Key Features
 - 🔊 **Real‑time loudness detection**  
 - 📉 **Automatic volume reduction during commercials**  
