@@ -215,7 +215,7 @@ This was the moment AdBuster truly began.
 - [15. Roadmap](#15-roadmap)
 - [16. FAQ (Frequently Asked Questions)](#16-faq-frequently-asked-questions)
 - [17. System Requirements](#17-system-requirements)
-- [📩 Contact](#contact)
+- [📩 Contact](#contact-section)
 
 ---
 
@@ -491,7 +491,10 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 ---
 
+<a id="contact-section"></a>
 ## 📩 Contact
+
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
