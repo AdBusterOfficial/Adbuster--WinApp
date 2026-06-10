@@ -234,12 +234,15 @@ Thank you for being part of the journey.
 
 ## 13. Installation (EXE Version)
 
-AdBuster 2.0 PRO is a portable Windows application.  
+AdBuster 2.0 PRO is a portable Windows application.
 No installation, no Python, and no additional software are required.
 
 ### 1. Download
 Download the latest ZIP package from the Releases page:
 https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest
+
+ZIP file name:
+AdBuster_2.0_PRO_Test.zip
 
 ### 2. Extract
 Unzip the downloaded file to any folder on your PC  
