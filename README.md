@@ -43,7 +43,7 @@ Everything runs locally on your PC.
 - [🚀 Quick Start](#quick-start)
 - [🎯 Key Features](#key-features)
 - [🛠️ How It Works](#how-it-works)
-- [🧩 Architecture Diagram (High‑Level)](#architecture-diagram-high-level)
+- [🧩 Architecture Diagram (High‑Level)](#architecture-diagram-highlevel)
 - [🎬 Behind the Scenes: How AdBuster Started](#behind-the-scenes-how-adbuster-started)
 - [📸 Screenshots](#screenshots)
 - [8. Documentation](#8-documentation)
