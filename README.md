@@ -361,6 +361,55 @@ Additional interface components for monitoring, diagnostics and customization:
 
 ---
 
+## 16. FAQ (Frequently Asked Questions)
+
+### 1. Does AdBuster require installation?
+No. AdBuster 2.0 PRO is fully portable.  
+Just unzip the folder and run Start.bat.
+
+### 2. Do I need Python or any external libraries?
+No. Everything is already compiled into standalone executables.
+
+### 3. Does AdBuster work without internet?
+Yes.  
+After the initial Broadlink setup, the entire system works 100% offline.
+
+### 4. Does AdBuster collect or send any data?
+No.  
+There is no telemetry, no analytics, no cloud communication.
+
+### 5. Why do I need Start.bat?
+Because Start.bat launches all required modules in the correct order:
+- AdBuster.exe (UI)
+- Aduster.exe (audio engine)
+- VolMaster.exe (Flask server)
+
+Running executables manually may break communication.
+
+### 6. My Broadlink device is not detected — what should I check?
+Check:
+- MAC address must be UPPERCASE and without separators  
+- IP address must be correct  
+- Port 5000 must be free  
+- Broadlink must be on the same Wi‑Fi network
+
+### 7. Does AdBuster support Broadlink RM4 Mini and RM4 Pro?
+Yes — both models are fully supported.
+
+### 8. Can I use AdBuster without a Broadlink device?
+Yes.  
+AdBuster will still analyze audio and detect ads, but IR volume control will be disabled.
+
+### 9. Can I move the folder after creating the shortcut?
+Yes, but if you move the folder to a different location, you must recreate the shortcut.  
+Windows shortcuts store the full path, so moving the folder breaks the old shortcut.
+
+### 10. Does AdBuster modify system audio?
+No.  
+It only reads audio levels — it does not change system volume or audio drivers.
+
+---
+
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
