@@ -128,50 +128,6 @@ or implementation details.
 
 ```
 
-🎬 Behind the Scenes: How AdBuster Started
-
-AdBuster didn’t begin as a polished application.
-The very first prototype was extremely rough — a small script running on outdated hardware, barely keeping up with real‑time audio.
-
-It had:
-- no interface  
-- no machine learning  
-- no CEPA Logic  
-- no prediction  
-- no visualization  
-
-Just one idea:
-
-**“What if the computer could stop loud commercials for me?”**
-
-Early tests were unpredictable.  
-Sometimes the system reacted too late, sometimes too early, sometimes perfectly — and sometimes it made everything worse.
-
-But the idea was alive.
-
-### The Turning Point
-
-Everything changed after one key realization:
-
-**Volume spikes aren’t random — they follow patterns.**
-
-Commercials, trailers, boosted mixes… they all share the same traits:
-- compressed dynamics  
-- boosted mid‑range  
-- constant high energy  
-- predictable timing  
-- repetitive structure  
-
-Once this became clear, the direction was obvious:
-
-**AdBuster needed machine learning.**
-
-Not because ML is trendy — but because it was the only way to detect these patterns in real time.
-
-This was the moment AdBuster truly began.
-
-```
-
 ## 📸 Screenshots
 
 ## 1. AdBuster PRO – Main Interface (A)
