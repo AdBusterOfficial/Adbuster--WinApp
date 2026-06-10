@@ -494,5 +494,4 @@ It only reads audio levels — it does not change system volume or audio drivers
 ## 📩 Contact
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
-
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
