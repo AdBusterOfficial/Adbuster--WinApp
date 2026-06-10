@@ -128,7 +128,7 @@ or implementation details.
 
 ```
 
-🎬 Behind the Scenes: How AdBuster Started
+## 🎬 Behind the Scenes: How AdBuster Started
 
 AdBuster didn’t begin as a polished application.
 The very first prototype was extremely rough — a small script running on outdated hardware, barely keeping up with real‑time audio.
