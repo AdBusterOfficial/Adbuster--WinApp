@@ -120,25 +120,25 @@ or implementation details.
 
 ## 📸 Screenshots
 
-### 1. AdBuster PRO – Main Interface (A)
+## 1. AdBuster PRO – Main Interface (A)
 ![AdBuster PRO – Main UI A](https://github.com/user-attachments/assets/ed7a78b9-ce35-45b2-8649-b8c81b22ce54)
 
-### 2. AdBuster PRO – Main Interface (B)
+## 2. AdBuster PRO – Main Interface (B)
 ![AdBuster PRO – Main UI B](https://github.com/user-attachments/assets/7759397f-512e-4bb3-aa04-ad17a88b15ca)
 
-### 3. CEPA Setup – Personalization Wizard
+## 3. CEPA Setup – Personalization Wizard
 ![CEPA Setup](https://github.com/user-attachments/assets/151b605e-613f-4db7-9b64-b563d2a3eeb4)
 
-### 4. AdBuster ML PRO – Machine Learning Panel
+## 4. AdBuster ML PRO – Machine Learning Panel
 ![AdBuster ML PRO](https://github.com/user-attachments/assets/918031dd-67c9-4e87-8f1d-8ba32a104473)
 
-### 5. VolMaster – Broadlink Server
+## 5. VolMaster – Broadlink Server
 ![VolMaster Server](https://github.com/user-attachments/assets/91e95bbd-05d1-4c6a-84a6-dcb276ccf96e)
 
-### 6. Full Application View – All Modules Working Together
+## 6. Full Application View – All Modules Working Together
 ![Full App View](https://github.com/user-attachments/assets/5de05bd7-acf5-4345-872b-0c55b403f451)
 
-### 7. Demo Video (15 seconds)
+## 7. Demo Video (15 seconds)
 
 Short demo recorded quickly on a phone — quality is low, but it clearly shows how the app reacts to loudness spikes and sends IR volume commands.
 
@@ -147,12 +147,12 @@ https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest/download/Ad
 
 ---
 
-### 8. Documentation
+## 8. Documentation
 ➡️ Full documentation is available in the [docs](docs) folder.
 
 ---
 
-### 9. CEPA Logic License
+## 9. CEPA Logic License
 
 This repository includes an additional proprietary license covering the **CEPA Logic**
 (Contextual Event Pattern Analysis Logic) analytical framework.
@@ -163,7 +163,7 @@ For full terms, see the dedicated license file:
 
 ---
 
-### 10. CEPA Logic — Technical Overview
+## 10. CEPA Logic — Technical Overview
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
 ➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
@@ -179,7 +179,7 @@ This file contains:
 
 ---
 
-### 11. For Investors & Partners
+## 11. For Investors & Partners
 
 AdBuster 2.0 PRO is a unique offline technology that combines real‑time microphone analysis,
 contextual CEPA logic, on‑device machine learning and Broadlink IR control to automatically
@@ -194,7 +194,7 @@ IR‑based TV.
 
 ---
 
-### 12. Support & Contributions
+## 12. Support & Contributions
 
 AdBuster 2.0 PRO is an independent R&D project developed with passion, countless hours of testing, and a strong focus on offline privacy‑first technology.
 
@@ -222,7 +222,55 @@ Thank you for being part of the journey.
 
 ---
 
+## 13. Changelog
+
+### v2.0 — Current Release
+- Added ML/AI PRO mode
+- Added CEPA Logic integration
+- Added Broadlink IR control (VolMaster)
+- Improved real‑time audio stabilizer
+- Added 10‑second audio plot visualization
+- New UI layout and redesigned modules
+- Full offline processing (no cloud, no telemetry)
+
+### v1.5
+- Improved volume detection accuracy
+- Added basic CEPA logic
+- Added early Broadlink IR tests
+- UI improvements
+
+### v1.0
+- Initial release of AdBuster PRO
+- Basic real‑time volume stabilizer
+- First working Windows build
+
+---
+
+## 14. Roadmap
+
+### CEPA Logic v2
+A redesigned decision‑making engine with improved context awareness, better handling of borderline audio states, and more adaptive thresholds. The goal is to make CEPA less binary and more “human‑like” in how it reacts to dynamic audio environments.
+
+### ML Auto‑Training Mode
+A local, offline training pipeline that allows the model to refine itself based on the user’s environment. The system will collect short audio snapshots, classify them, and update the model without sending any data outside the device.
+
+### Multi‑Device IR Support
+Extended IR control layer supporting multiple TVs, soundbars, receivers and Broadlink‑compatible devices. The goal is to allow users to define multiple profiles and switch between them dynamically.
+
+### Enhanced Broadlink Integration
+A more robust IR communication layer with improved retry logic, faster command dispatching, and better handling of Broadlink device discovery. This includes support for additional Broadlink models and improved error recovery.
+
+### New UI Modules
+Additional interface components for monitoring, diagnostics and customization:
+- real‑time CEPA decision graph  
+- ML confidence visualizer  
+- IR command monitor  
+- advanced audio calibration panel  
+
+---
+
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
+
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
