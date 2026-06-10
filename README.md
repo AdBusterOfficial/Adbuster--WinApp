@@ -215,9 +215,12 @@ If you find this project useful, you can support its development in several ways
   <img src="https://github.com/user-attachments/assets/cc58417d-c23a-4a4a-a3da-c0e5a4111b29" width="200">
 </p>
 
-- Donate via PayPal (QR code above)
-- Buy me a coffee
-- Share the project with others
+You can support the development directly via PayPal:
+
+➡️ **https://www.paypal.com/paypalme/AKED189**
+
+- Buy me a coffee  
+- Share the project with others  
 - Star the repository ⭐
 
 ### 🤝 Contribute
@@ -407,6 +410,15 @@ Windows shortcuts store the full path, so moving the folder breaks the old short
 ### 10. Does AdBuster modify system audio?
 No.  
 It only reads audio levels — it does not change system volume or audio drivers.
+
+---
+
+## 17. System Requirements
+
+- Windows 7, 8, 10 or 11 (64‑bit recommended)
+- Built‑in laptop microphone or any external USB microphone
+- Broadlink RM series IR blaster (required for full functionality), e.g. RM3 or RM4 models with IR support
+- No internet required after initial Broadlink setup
 
 ---
 
