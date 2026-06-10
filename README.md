@@ -232,7 +232,7 @@ Thank you for being part of the journey.
 
 ---
 
-##13. Installation (EXE Version)
+## 13. Installation (EXE Version)
 
 AdBuster 2.0 PRO is a portable Windows application.  
 No installation, no Python, and no additional software are required.
