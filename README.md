@@ -39,24 +39,24 @@ Everything runs locally on your PC.
 
 ## 📚 Table of Contents
 
-- **[📌 Overview](ca://s?q=przejdz_do_Overview)**
-- **[🚀 Quick Start](ca://s?q=przejdz_do_Quick_Start)**
-- **[🎯 Key Features](ca://s?q=przejdz_do_Key_Features)**
-- **[🛠️ How It Works](ca://s?q=przejdz_do_How_It_Works)**
-- **[🧩 Architecture Diagram](ca://s?q=przejdz_do_Architecture_Diagram)**
-- **[🎬 Behind the Scenes](ca://s?q=przejdz_do_Behind_the_Scenes)**
-- **[📸 Screenshots](ca://s?q=przejdz_do_Screenshots)**
-- **[📄 Documentation](ca://s?q=przejdz_do_Documentation)**
-- **[🔐 CEPA Logic License](ca://s?q=przejdz_do_CEPA_License)**
-- **[📘 CEPA Technical Overview](ca://s?q=przejdz_do_CEPA_Overview)**
-- **[💼 For Investors & Partners](ca://s?q=przejdz_do_Investors)**
-- **[🤝 Support & Contributions](ca://s?q=przejdz_do_Support)**
-- **[💾 Installation](ca://s?q=przejdz_do_Installation)**
-- **[📝 Changelog](ca://s?q=przejdz_do_Changelog)**
-- **[🧭 Roadmap](ca://s?q=przejdz_do_Roadmap)**
-- **[❓ FAQ](ca://s?q=przejdz_do_FAQ)**
-- **[💻 System Requirements](ca://s?q=przejdz_do_System_Requirements)**
-- **[📩 Contact](ca://s?q=przejdz_do_Contact)**
+- [📌 Overview](#-overview)
+- [🚀 Quick Start](#-quick-start)
+- [🎯 Key Features](#-key-features)
+- [🛠️ How It Works](#-how-it-works)
+- [🧩 Architecture Diagram (High‑Level)](#-architecture-diagram-high-level)
+- [🎬 Behind the Scenes: How AdBuster Started](#-behind-the-scenes-how-adbuster-started)
+- [📸 Screenshots](#-screenshots)
+- [8. Documentation](#8-documentation)
+- [9. CEPA Logic License](#9-cepa-logic-license)
+- [10. CEPA Logic — Technical Overview](#10-cepa-logic--technical-overview)
+- [11. For Investors & Partners](#11-for-investors--partners)
+- [12. Support & Contributions](#12-support--contributions)
+- [13. Installation (EXE Version)](#13-installation-exe-version)
+- [14. Changelog](#14-changelog)
+- [15. Roadmap](#15-roadmap)
+- [16. FAQ (Frequently Asked Questions)](#16-faq-frequently-asked-questions)
+- [17. System Requirements](#17-system-requirements)
+- [📩 Contact](#contact)
 
 ---
 
