@@ -170,8 +170,6 @@ Not because ML is trendy — but because it was the only way to detect these pat
 
 This was the moment AdBuster truly began.
 
-```
-
 ## 📸 Screenshots
 
 ## 1. AdBuster PRO – Main Interface (A)
