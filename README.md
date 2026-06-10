@@ -246,7 +246,7 @@ Unzip the downloaded file to any folder on your PC
 (e.g., Desktop, Documents, or a dedicated Tools folder).
 
 ### 3. Create a Desktop Shortcut (Recommended)
-1. Open the extracted TV_Volume_Stabilizer folder.  
+1. Open the extracted application folder (the folder created after unzipping AdBuster_2.0_PRO_Test.zip).  
 2. Right‑click Start.bat → Send to → Desktop (create shortcut).  
 3. (Optional) Right‑click the shortcut → Properties → Change Icon…  
    Select the included icon file: AdBuster.ico.
