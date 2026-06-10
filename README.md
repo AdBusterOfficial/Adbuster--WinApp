@@ -216,8 +216,7 @@ If you find this project useful, you can support its development in several ways
 </p>
 
 You can support the development directly via PayPal:
-
-➡️ **https://www.paypal.com/paypalme/AKED189**
+[Donate via PayPal](https://www.paypal.com/paypalme/AKED189)
 
 - Buy me a coffee  
 - Share the project with others  
