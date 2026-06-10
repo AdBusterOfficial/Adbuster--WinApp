@@ -6,6 +6,16 @@
 <h1 align="center">AdBuster 2.0 PRO – TV Volume Stabilizer</h1>
 
 <p align="center">
+  <!-- BADGES TUTAJ -->
+  <img src="https://img.shields.io/badge/version-2.0-blue">
+  <img src="https://img.shields.io/badge/platform-Windows-blue">
+  <img src="https://img.shields.io/badge/python-3.10%2B-yellow">
+  <img src="https://img.shields.io/badge/license-PRO%20%2F%20Proprietary-red">
+  <img src="https://img.shields.io/badge/status-active-success">
+  <img src="https://img.shields.io/badge/privacy-100%25%20offline-orange">
+</p>
+
+<p align="center">
   Offline audio stabilization engine powered by ML/AI and CEPA Logic.
 </p>
 
