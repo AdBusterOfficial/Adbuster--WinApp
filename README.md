@@ -232,7 +232,86 @@ Thank you for being part of the journey.
 
 ---
 
-## 13. Changelog
+##13. Installation (EXE Version)
+
+AdBuster 2.0 PRO is a portable Windows application.  
+No installation, no Python, and no additional software are required.
+
+### 1. Download
+Download the latest ZIP package from the Releases page:
+https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest
+
+### 2. Extract
+Unzip the downloaded file to any folder on your PC  
+(e.g., Desktop, Documents, or a dedicated Tools folder).
+
+### 3. Create a Desktop Shortcut (Recommended)
+1. Open the extracted TV_Volume_Stabilizer folder.  
+2. Right‑click Start.bat → Send to → Desktop (create shortcut).  
+3. (Optional) Right‑click the shortcut → Properties → Change Icon…  
+   Select the included icon file: AdBuster.ico.
+
+The shortcut will work regardless of where the folder is located.
+
+### 4. Launching the Application
+Always start AdBuster using:
+
+Start.bat
+
+This launcher automatically starts all required modules:
+- AdBuster.exe (main UI)  
+- Aduster.exe (audio engine)  
+- VolMaster.exe (Broadlink Flask server)
+
+These executables must remain in the same folder and should never be run manually.
+
+### 5. Broadlink Requirement (IR Control)
+If you use AdBuster with a Broadlink IR device  
+(for example: Broadlink RM4 Mini or Broadlink RM4 Pro):
+
+1. Configure the Broadlink IR device in the official Broadlink mobile app (one‑time setup).  
+2. Connect the Broadlink device to your Wi‑Fi network.  
+3. Place the Broadlink IR blaster near your TV or audio device.
+
+After completing these steps, AdBuster will automatically communicate with the Broadlink IR device.
+
+### 6. Flask Server Configuration (IP, MAC, Port 5000)
+VolMaster (Flask server) must be configured with:
+
+- Broadlink IP address (example: 192.168.1.25)  
+- Broadlink MAC address in UPPERCASE, without separators  
+  Correct: 47A1B2CDE3F4  
+  Incorrect: 47:A1:B2:CD:E3:F4  
+  Incorrect: 47-a1-b2-cd-e3-f4  
+  Incorrect: 47a1b2cde3f4 (lowercase)
+
+- Port 5000 (default communication port)
+
+If the MAC address contains colons, dashes, lowercase letters, or symbols,  
+the server will not detect the device.
+
+### 7. How the System Works
+When you run Start.bat, the system launches:
+
+- AdBuster.exe → main interface  
+- Aduster.exe → audio analysis engine  
+- VolMaster.exe → Flask server for Broadlink IR  
+
+These modules communicate with each other and must stay together in the same folder.  
+The Flask server listens on port 5000 and handles all IR communication.
+
+### 8. Offline Operation
+After the initial Broadlink setup:
+
+- No internet is required  
+- No cloud services  
+- No accounts  
+- No telemetry  
+- All processing is fully local
+
+---
+
+## 14. Changelog
 
 ### v2.0 — Current Release
 - Added ML/AI PRO mode
@@ -256,7 +335,7 @@ Thank you for being part of the journey.
 
 ---
 
-## 14. Roadmap
+## 15. Roadmap
 
 ### CEPA Logic v2
 A redesigned decision‑making engine with improved context awareness, better handling of borderline audio states, and more adaptive thresholds. The goal is to make CEPA less binary and more “human‑like” in how it reacts to dynamic audio environments.
