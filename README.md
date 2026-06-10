@@ -255,6 +255,7 @@ Unzip the downloaded file to any folder on your PC
 2. Right‑click Start.bat → Send to → Desktop (create shortcut).  
 3. (Optional) Right‑click the shortcut → Properties → Change Icon…  
    Select the included icon file: AdBuster.ico.
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/refs/heads/main/AdBuster.ico" width="32" height="32"> 
 
 The shortcut will work regardless of where the folder is located.
 
