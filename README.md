@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="840">
 </p>
 
@@ -587,8 +587,11 @@ This section provides a transparent look into the internal structure of the engi
 
 ---
 
-<p align="center">
+<br>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="840">
 </p>
+
 
 
