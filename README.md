@@ -250,14 +250,21 @@ A full technical explanation of how CEPA Logic works — including decision flow
 ➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
 <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA.png" width="280">
 
-This file contains:
+Intended Audience
+This document is intended for:
+- audio DSP engineers
+- machine learning engineers working with audio classification
+- smart‑home and consumer electronics R&D teams
+- OEM partners evaluating CEPA Logic for integration
+- automation and embedded systems developers
 
-- detailed description of CEPA architecture  
-- explanation of all decision types (BOOST, BLOCK, DELAY, SMOOTH, ALLOW)  
-- real‑time data flow  
-- human‑reaction analogy  
-- example code  
-- step‑by‑step event walkthrough  
+This file contains:
+- detailed description of CEPA architecture
+- explanation of all decision types (BOOST, BLOCK, DELAY, SMOOTH, ALLOW)
+- real‑time data flow
+- human‑reaction analogy
+- example code
+- step‑by‑step event walkthrough 
 
 ---
 
