@@ -250,8 +250,7 @@ A full technical explanation of how CEPA Logic works — including decision flow
 ➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
 <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA.png" width="280">
 
-
-Intended Audience
+### Intended Audience
 This document is intended for:
 - audio DSP engineers
 - machine learning engineers working with audio classification
