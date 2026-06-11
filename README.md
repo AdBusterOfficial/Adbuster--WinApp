@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="720">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9af9e7e2-2091-43f6-bb97-bdb2a31181e1" width="200">
