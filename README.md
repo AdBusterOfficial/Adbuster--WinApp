@@ -583,6 +583,7 @@ This section provides a transparent look into the internal structure of the engi
 ---
 
 <p align="center">
-  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="420">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="840">
 </p>
+
 
