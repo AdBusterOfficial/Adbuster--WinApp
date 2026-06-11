@@ -284,8 +284,8 @@ No other Windows application offers automatic ad detection, audio analysis, and 
 AdBuster 2.0 PRO stands alone as the only Windows application capable of detecting loud commercials and automatically controlling TV volume through Broadlink devices.  
 All other tools are limited to basic, manual IR control and cannot be compared to the intelligent automation provided by AdBuster.
 
-For a Full Comparison, See the PDF Below:
-▶️ [WinApps Similar to AdBuster 2.0 PRO (PDF)](WinApps%20Similar%20to%20AdBuster%202.0%20PRO.pdf)
+▶️ For a Full Comparison, See the PDF Below:
+ [WinApps Similar to AdBuster 2.0 PRO (PDF)](WinApps%20Similar%20to%20AdBuster%202.0%20PRO.pdf)
 
 ---
 
