@@ -499,3 +499,57 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
+---
+
+## 🧩 Technical Transparency
+
+AdBuster 2.0 PRO uses real, structured machine‑learning models that run fully offline.  
+To provide transparency, below are internal diagnostic previews showing how the engine loads and verifies its analytical components.
+
+---
+
+### 🔍 Standard Model (model.pkl)
+
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/AdBuster_model.pkl_in.png" width="420">
+
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/AdBuster_model.pkl_out.png" width="420">
+
+The standard engine is based on a real `RandomForestClassifier` with:
+- 150 estimators  
+- 50 input features  
+- Local-only execution  
+- Functions: `predict()`, `predict_proba()`, `fit()`, `score()`, `feature_importances_`
+
+> "This preview confirms that the file exists, loads properly, and is recognized by the system."
+
+---
+
+### 🔷 Deep Model (model_deep.pkl) — PRO Module
+
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/AdBuster_model_deep.pkl_in.png" width="420">
+
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/AdBuster_model_deep.pkl_out.png" width="420">
+
+The PRO version unlocks an enhanced `DeepAudioModel`:
+- 30 layers  
+- 4 output classes  
+- Advanced preprocessing & internal state logic  
+- Fully offline  
+- Activated only with a valid PRO key  
+
+> "The preview demonstrates that the deep model is a real, functional component used by AdBuster PRO."
+
+---
+
+### 🛡️ Why This Matters
+
+These previews confirm that:
+- AdBuster PRO uses authentic analytical models  
+- The deep module is a more advanced engine available after activation  
+- Everything runs locally on the user’s device  
+- No user audio or personal data is stored or transmitted  
+- The technology behind the app is genuine and professionally designed  
+
+This section provides a transparent look into the internal structure of the engine powering AdBuster PRO.
+
+
