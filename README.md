@@ -315,7 +315,7 @@ If you find this project useful, you can support its development in several ways
   <img src="https://github.com/user-attachments/assets/cc58417d-c23a-4a4a-a3da-c0e5a4111b29" width="200">
 </p>
 
-You can support the development directly via PayPal:
+▶️ You can support the development directly via PayPal:
 [Donate via PayPal](https://www.paypal.com/paypalme/AKED189)
 
 - Buy me a coffee  
