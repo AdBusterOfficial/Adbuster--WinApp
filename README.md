@@ -580,4 +580,9 @@ These previews confirm that:
 
 This section provides a transparent look into the internal structure of the engine powering AdBuster PRO.
 
+---
+
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="420">
+</p>
 
