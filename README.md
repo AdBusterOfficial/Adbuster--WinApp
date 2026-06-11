@@ -266,10 +266,10 @@ This file contains:
 - example code
 - step‑by‑step event walkthrough
 
-### Are There Any Windows Applications Similar to AdBuster 2.0 PRO?
+ ### Are There Any Windows Applications Similar to AdBuster 2.0 PRO?
 No other Windows application offers automatic ad detection, audio analysis, and Broadlink-based volume control. Existing tools can only send manual IR commands and do not provide any intelligent automation.
 
-### Comparison With Similar Windows Tools
+ ### Comparison With Similar Windows Tools
 
 | Feature                           | Other Tools        | AdBuster 2.0 PRO                      |
 |-----------------------------------|--------------------|---------------------------------------|
