@@ -247,6 +247,7 @@ For full terms, see the dedicated license file:
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
 ➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
+![CEPA Logic](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA.png)
 
 This file contains:
 
