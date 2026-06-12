@@ -603,10 +603,13 @@ If one server is slow or unavailable, try another mirror.
 
 ## Technical Summary (QR Code)
 
-<div style="text-align:center; background:#0d1117; padding:20px; border-radius:12px;">
+<p align="center">
   <img src="Technical%20Summary_QR_code.png" width="260">
-  <p style="color:#c9d1d9;">Scan to read the CEPA + ML technical summary.</p>
-</div>
+</p>
+
+<p align="center">
+  Scan to read the CEPA + ML technical summary.
+</p>
 
 ---
 
