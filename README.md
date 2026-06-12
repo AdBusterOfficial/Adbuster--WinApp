@@ -226,7 +226,7 @@ This was the moment AdBuster truly began.
 - [🧩 Technical Transparency](#-technical-transparency)
 - [🔍 Standard Model (model.pkl)](#-standard-model-modelpkl)
 - [🔷 Deep Model (model_deep.pkl) — PRO Module](#-deep-model-model_deeppkl--pro-module)
-- [🛡️ Why This Matters](#-why-this-matters)
+- [🛡️ Why This Matters](#%F0%9F%9B%A1%EF%B8%8F-why-this-matters)
 - [Download Mirrors (QR Codes)](#download-mirrors-qr-codes)
 - [Technical Summary (QR Code)](#technical-summary-qr-code)
 - [Architecture Overview (Short Version)](#architecture-overview-short-version)
