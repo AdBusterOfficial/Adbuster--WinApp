@@ -539,8 +539,6 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
-
 ---
 
 ## 🧩 Technical Transparency
@@ -698,7 +696,7 @@ Fully offline:
 
 ---
 
-© 2026 AdBuster Team Dublin / D.P‑G
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
 
