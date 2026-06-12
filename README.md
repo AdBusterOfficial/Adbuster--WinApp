@@ -588,6 +588,19 @@ This section provides a transparent look into the internal structure of the engi
 
 ---
 
+## Download Mirrors (QR Codes)
+
+If one server is slow or unavailable, try another mirror.
+
+| Server | QR Code |
+|--------|---------|
+| OneDrive (Main) | ![](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ONEDRIVE_SERVER.png) |
+| MEGA | ![](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/MEGA_SERVER.png) |
+| Dropbox | ![](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/DROPBOX_SERVER.png) |
+| Google Drive | ![](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/GOOGLE_DRIVE_SERVER.png) |
+
+---
+
 <br>
 
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
