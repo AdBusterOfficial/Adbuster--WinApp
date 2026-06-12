@@ -601,6 +601,14 @@ If one server is slow or unavailable, try another mirror.
 
 ---
 
+## Technical Summary (QR Code)
+
+Scan to read the CEPA + ML technical summary.
+
+![Technical Summary QR](Technical%20Summary_QR_code.png)
+
+---
+
 <br>
 
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
