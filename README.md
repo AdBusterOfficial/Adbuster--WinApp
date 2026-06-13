@@ -39,7 +39,7 @@ No cloud.
 No accounts.  
 No telemetry.  
 No data collection.  
-Everything runs locally on your PC.
+Everything runs locally on your PC or laptop.
 
 ---
 
