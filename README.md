@@ -637,78 +637,76 @@ If one server is slow or unavailable, try another mirror.
 
 ## Architecture Overview (Short Version)
 
-AdBuster PRO is an offline Windows application that stabilizes TV audio by detecting abnormal loudness patterns and sending IR volume commands to a Broadlink device, which then controls the TV.
+AdBuster PRO is an offline Windows application that stabilizes TV audio by detecting abnormal
+loudness patterns and sending IR volume commands to a Broadlink device, which then controls the TV.
 
----
-
-### System Components
-- Audio Engine — real‑time loudness metrics  
-- CEPA Engine — contextual decision logic  
-- IR Engine — Broadlink TV volume control  
-
+## System Components
+- Audio Engine — real‑time loudness metrics
+- CEPA Engine — contextual decision logic
+- ML Layer (FREE + PRO/Aduster) — pattern recognition support
+- IR Engine (VolMaster) — Broadlink TV volume control
 All processing happens locally.
 
----
-
-### Audio Engine
+## Audio Engine
 Extracts simplified metrics:
-- smoothed loudness  
-- short‑term variation  
-- long‑term stability  
+- smoothed loudness
+- short‑term variation
+- long‑term stability
 
 Used to distinguish normal content from loud segments.
 
----
-
-### CEPA Decision Engine
+## CEPA Decision Engine
 Human‑like logic that:
-- interprets audio patterns  
-- detects disruptive spikes  
-- avoids over‑correction  
-- restores volume smoothly  
+- interprets audio patterns
+- detects disruptive spikes
+- avoids over‑correction
+- restores volume smoothly
 
 Exact rules are proprietary.
 
----
+## ML Layer
 
-### ML Layer (PRO)
-Offline ML model that:
-- analyzes long‑term audio behavior  
-- identifies commercial‑like patterns  
-- assists CEPA in decisions  
+### FREE ML Layer
+- analyzes short‑ and mid‑term audio behavior
+- helps CEPA classify loudness patterns
+- runs fully offline (model.pkl)
+
+### PRO ML Layer — Aduster Engine
+The PRO module (Aduster) is an offline machine‑learning engine that:
+- analyzes long‑term audio behavior
+- identifies commercial‑like patterns
+- assists CEPA in difficult edge cases
+- uses the PRO model (model_deep.pkl)
 
 Model architecture is proprietary.
 
----
+## IR Control Engine (Broadlink Integration / VolMaster)
 
-### IR Control Engine (Broadlink Integration)
+AdBuster PRO does not control the Broadlink device itself.
+It sends IR volume commands (up / down / mute) to the Broadlink unit,
+and the Broadlink device applies those commands to the TV hardware.
 
-AdBuster PRO does **not** control the Broadlink device itself.  
-It sends IR volume commands (up / down / mute) **to** the Broadlink unit,  
-and the Broadlink device applies those commands **to the TV**.
+The IR engine (VolMaster) handles:
+- Broadlink device discovery
+- IR code learning (optional)
+- command throttling
+- connection watchdog
+- local LAN communication (no cloud)
 
-The IR engine handles:
-- Broadlink discovery  
-- IR code learning  
-- command throttling  
-- connection watchdog  
-
----
-
-### User Interface
+## User Interface
 Provides:
-- real‑time visualization  
-- calibration tools  
-- mode selection (AUTO / ML / MUSIC / AD)  
-- Broadlink status  
+- real‑time visualization
+- calibration tools
+- mode selection (AUTO / ML / MUSIC / AD)
+- Broadlink status
 
----
-
-### Privacy
+## Privacy
 Fully offline:
-- no cloud  
-- no telemetry  
-- no audio recording  
+- no cloud
+- no accounts
+- no telemetry
+- no data collection
+- no audio recording (audio is analyzed in real time and never stored)
 
 ---
 
