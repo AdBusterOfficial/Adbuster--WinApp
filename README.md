@@ -645,6 +645,7 @@ loudness patterns and sending IR volume commands to a Broadlink device, which th
 - CEPA Engine — contextual decision logic
 - ML Layer (FREE + PRO/Aduster) — pattern recognition support
 - IR Engine (VolMaster) — Broadlink TV volume control
+
 All processing happens locally.
 
 ## Audio Engine
