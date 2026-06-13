@@ -221,6 +221,7 @@ This was the moment AdBuster truly began.
 - [15. Roadmap](#15-roadmap)
 - [16. FAQ (Frequently Asked Questions)](#16-faq-frequently-asked-questions)
 - [17. System Requirements](#17-system-requirements)
+- [18. Broadlink Support](#18-broadlink-support)
 - [📩 Contact](#contact-section)
 
 - [🧩 Technical Transparency](#-technical-transparency)
@@ -533,6 +534,20 @@ It only reads audio levels — it does not change system volume or audio drivers
 - No internet required after initial Broadlink setup
 
 ---
+
+## 18. Broadlink Support
+
+Broadlink is a compact Wi‑Fi IR blaster that replaces your TV or audio remote.
+It receives a command over Wi‑Fi and instantly sends the matching infrared signal
+to your TV, soundbar, receiver, or set‑top box — exactly as if you pressed the button
+on the physical remote. Everything works locally, without cloud, delays, or internet access.
+
+AdBuster supports all Broadlink devices that include an IR blaster and operate in local LAN mode.
+This includes RM4 Mini, RM4 Pro, RM Mini 3, RM Pro+, RM4C Mini, and older RM2 models.
+RF‑only or cloud‑only devices are not supported.
+
+---
+
 <br>
 <a id="contact-section"></a>
 
