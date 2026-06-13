@@ -534,7 +534,6 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 ---
 <br>
-<br>
 <a id="contact-section"></a>
 
 ## 📩 Contact
