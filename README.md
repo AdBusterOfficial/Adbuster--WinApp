@@ -64,6 +64,48 @@ Everything runs locally on your PC or laptop.
 
 ---
 
+## ⭐ Why This System Is Unique
+
+AdBuster 2.0 PRO is not a typical audio tool.  
+It is the only Windows application that combines:
+
+### 🔹 Real‑time audio analysis (DSP)
+A dedicated audio engine extracts loudness, stability, spikes and long‑term patterns in real time — fully offline.
+
+### 🔹 CEPA Logic — human‑like decision framework
+A proprietary contextual reasoning layer that interprets audio events the same way a human would:
+- detects disruptive spikes  
+- avoids over‑correction  
+- restores volume smoothly  
+- adapts to context and time of day  
+
+### 🔹 Offline machine learning (FREE + PRO)
+Two independent ML engines:
+- **model.pkl** — lightweight, short‑term classifier  
+- **model_deep.pkl** — PRO‑level long‑term pattern recognizer  
+
+Both run 100% locally.
+
+### 🔹 Broadlink IR automation
+AdBuster is the only Windows tool that:
+- detects loud commercials  
+- decides what to do  
+- sends IR commands automatically  
+- stabilizes TV volume without user interaction  
+
+### 🔹 Fully offline architecture
+No cloud.  
+No telemetry.  
+No accounts.  
+No data collection.  
+All processing happens on the user’s device.
+
+### 🔹 Unique CEPA + ML + IR pipeline
+This combination does not exist in any other Windows application or smart‑home tool.  
+AdBuster 2.0 PRO stands alone as a complete, intelligent, privacy‑first audio stabilization system.
+
+---
+
 ## 🛠️ How It Works
 1. A microphone listens to the TV audio.  
 2. When a sudden loudness spike is detected (typical for ads), AdBuster PRO decides whether to lower the volume.  
