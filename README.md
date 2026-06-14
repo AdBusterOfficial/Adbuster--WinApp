@@ -741,11 +741,7 @@ Provides:
 
 ## Privacy
 Fully offline:
-- no cloud
-- no accounts
-- no telemetry
-- no data collection
-- no audio recording (audio is analyzed in real time and never stored)
+- all audio is processed locally in real time and never recorded, transmitted, or stored
 
 ---
 
