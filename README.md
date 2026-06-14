@@ -94,10 +94,6 @@ AdBuster is the only Windows tool that:
 - stabilizes TV volume without user interaction  
 
 ### 🔹 Fully offline architecture
-No cloud.  
-No telemetry.  
-No accounts.  
-No data collection.  
 All processing happens on the user’s device.
 
 ### 🔹 Unique CEPA + ML + IR pipeline
