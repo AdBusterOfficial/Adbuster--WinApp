@@ -29,7 +29,8 @@ This license is automatically terminated if you violate any of its terms.
 Upon termination, you must stop using the software and delete all copies.
 
 7) NO COMPETITIVE USE  
-You are not permitted to use this software, its behavior, or any of its components to develop, train, assist, or improve any competing product, service, or technology that performs similar functionality to AdBuster PRO.
+You are not permitted to use this software, its behavior, or any of its components to develop, train, assist, 
+or improve any competing product, service, or technology that performs similar functionality to AdBuster PRO.
 
 8) CONTACT
 For support or inquiries, please use the official contact form:
