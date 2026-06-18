@@ -188,7 +188,6 @@ CEPA (Contextual Event Pattern Analysis) interprets audio behavior
 and makes human‑like volume control decisions.  
 This diagram represents CEPA’s internal logic only.
 
-```
 
 ## 🎬 Behind the Scenes: How AdBuster Started
 
