@@ -180,12 +180,11 @@ or implementation details.
 │   (volume changes applied) │
 └────────────────────────────┘
 
-## CEPA Logic Diagram (Decision Flow)
-
+🧠 CEPA Logic Diagram (Decision Flow)
 Below is a simplified decision‑flow diagram showing how
-CEPA interprets audio behavior and makes human‑like
-volume control decisions. This diagram shows CEPA’s
-internal logic only.
+CEPA (Contextual Event Pattern Analysis) interprets audio behavior
+and makes human‑like volume control decisions.
+This diagram represents CEPA’s internal logic only.
 
 ┌────────────────────────────┐
 │         CEPA INPUTS        │
