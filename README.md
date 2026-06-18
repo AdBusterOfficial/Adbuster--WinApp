@@ -181,6 +181,7 @@ or implementation details.
 └────────────────────────────┘
 
 ```
+
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
 Below is a simplified decision‑flow diagram showing how  
@@ -189,7 +190,6 @@ and makes human‑like volume control decisions.
 This diagram represents CEPA’s internal logic only.
 
 ```
-
 ┌────────────────────────────────────────────┐
 │                 CEPA INPUTS                │
 │  - RMS trend (short / long)                │
@@ -244,9 +244,7 @@ This diagram represents CEPA’s internal logic only.
 │                 CEPA OUTPUT                │
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
-
-
-
+```
 
 ## 🎬 Behind the Scenes: How AdBuster Started
 
