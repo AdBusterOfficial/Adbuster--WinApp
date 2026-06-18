@@ -182,6 +182,70 @@ or implementation details.
 
 ```
 
+🧠 CEPA Logic Diagram (Decision Flow)
+
+Below is a simplified decision‑flow diagram showing how
+CEPA (Contextual Event Pattern Analysis) interprets audio behavior
+and makes human‑like volume control decisions.
+This diagram represents CEPA’s internal logic only.
+
+┌────────────────────────────────────────────┐
+│                 CEPA INPUTS                │
+│  - RMS trend (short / long)                │
+│  - sudden spikes                           │
+│  - drift up / drift down                   │
+│  - AD / NORMAL mode                        │
+│  - recent volume actions (history)         │
+│  - cooldown & safety state                 │
+└───────────────────────────────┬────────────┘
+                                │
+                                ▼
+┌────────────────────────────────────────────┐
+│             PERCEPTUAL CONTEXT             │
+│  - is volume stable?                       │
+│  - is change gradual or sudden?            │
+│  - is this a spike or real increase?       │
+│  - is this a natural fluctuation?          │
+│  - is this AD mode (react faster)?         │
+└───────────────────────────────┬────────────┘
+                                │ context_state
+                                ▼
+┌────────────────────────────────────────────┐
+│             HUMAN‑LIKE FILTERS             │
+│  - ignore micro‑fluctuations               │
+│  - ignore short spikes                     │
+│  - apply deadzone (no reaction zone)       │
+│  - apply stable zone (PASS)                │
+│  - apply hysteresis (avoid oscillation)    │
+└───────────────────────────────┬────────────┘
+                                │ filtered_event
+                                ▼
+┌────────────────────────────────────────────┐
+│             SAFETY & LIMITS                │
+│  - anti‑spam window (no rapid repeats)     │
+│  - cooldown timers                         │
+│  - 2x up/down protection                   │
+│  - block unsafe actions                    │
+└───────────────────────────────┬────────────┘
+                                │ allowed / blocked
+                                ▼
+┌────────────────────────────────────────────┐
+│               DECISION ENGINE              │
+│  - if spike → VOL_DOWN                     │
+│  - if drift up → VOL_DOWN                  │
+│  - if drift down → VOL_UP                  │
+│  - if stable → PASS                        │
+│  - if unsafe → PASS                        │
+└───────────────────────────────┬────────────┘
+                                │ final_action
+                                ▼
+┌────────────────────────────────────────────┐
+│                 CEPA OUTPUT                │
+│        VOL_UP / VOL_DOWN / PASS            │
+└────────────────────────────────────────────┘
+
+```
+
 ## 🎬 Behind the Scenes: How AdBuster Started
 
 AdBuster didn’t begin as a polished application.
