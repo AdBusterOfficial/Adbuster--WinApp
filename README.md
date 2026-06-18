@@ -180,6 +180,62 @@ or implementation details.
 │   (volume changes applied) │
 └────────────────────────────┘
 
+## CEPA Logic Diagram (Decision Flow)
+
+Below is a simplified decision‑flow diagram showing how
+CEPA interprets audio behavior and makes human‑like
+volume control decisions. This diagram shows CEPA’s
+internal logic only.
+
+┌────────────────────────────┐
+│         CEPA INPUTS        │
+│ - RMS trend                │
+│ - spikes                   │
+│ - drift up/down            │
+│ - AD/NORMAL mode           │
+│ - history actions          │
+│ - cooldown state           │
+└──────────────┬─────────────┘
+               ▼
+┌────────────────────────────┐
+│     PERCEPTUAL CONTEXT     │
+│ - stable?                  │
+│ - gradual or sudden?       │
+│ - spike or real rise?      │
+│ - natural fluctuation?     │
+│ - AD mode faster?          │
+└──────────────┬─────────────┘
+               ▼
+┌────────────────────────────┐
+│     HUMAN‑LIKE FILTERS     │
+│ - ignore micro noise       │
+│ - ignore short spikes      │
+│ - deadzone                 │
+│ - stable zone (PASS)       │
+│ - hysteresis               │
+└──────────────┬─────────────┘
+               ▼
+┌────────────────────────────┐
+│      SAFETY & LIMITS       │
+│ - anti‑spam window         │
+│ - cooldown timers          │
+│ - 2x up/down limit         │
+│ - block unsafe actions     │
+└──────────────┬─────────────┘
+               ▼
+┌────────────────────────────┐
+│      DECISION ENGINE       │
+│ - spike → DOWN             │
+│ - drift up → DOWN          │
+│ - drift down → UP          │
+│ - stable → PASS            │
+│ - unsafe → PASS            │
+└──────────────┬─────────────┘
+               ▼
+┌────────────────────────────┐
+│        CEPA OUTPUT         │
+│   VOL_UP / VOL_DOWN / PASS │
+└────────────────────────────┘
 
 ```
 
