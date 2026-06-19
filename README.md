@@ -916,6 +916,14 @@ Fully offline:
 
 ---
 
+## Licensing
+
+AdBuster 2.0 PRO is **not open‑source**.  
+The repository is public for transparency, but all code, models and CEPA Logic are covered by a **proprietary license**.  
+No redistribution, modification or commercial use is permitted.
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
