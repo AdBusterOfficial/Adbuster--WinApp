@@ -247,7 +247,6 @@ This diagram represents CEPA’s internal logic only.
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
 
----
 
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
 
