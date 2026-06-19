@@ -249,6 +249,7 @@ This diagram represents CEPA’s internal logic only.
 
 ```
 
+
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
 
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
