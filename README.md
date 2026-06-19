@@ -284,8 +284,7 @@ CEPA processes audio events through a structured, human‑like reasoning pipelin
 
 9. **Output final action**  
    Send IR command via VolMaster → Broadlink → TV.
-
-```
+   
 
 ## 🎬 Behind the Scenes: How AdBuster Started
 
