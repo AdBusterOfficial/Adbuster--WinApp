@@ -247,11 +247,7 @@ This diagram represents CEPA’s internal logic only.
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
 
-```
-
-[CEPA Logic Diagram](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPA_diagram.png?raw=true)
-
-(...)
+...
 
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
 
