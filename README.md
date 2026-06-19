@@ -251,6 +251,73 @@ This diagram represents CEPA’s internal logic only.
 
 [CEPA Diagram (detailed PNG version)](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/refs/heads/main/CEPA_diagram.png)
 
+```
+
+## CEPA Logic — Real‑World Behaviour Example
+
+This example demonstrates how CEPA Logic interprets and reacts to signal behaviour over time.  
+CEPA does not operate on loudness alone — it evaluates *patterns, context and temporal behaviour*.
+
+### Step‑by‑Step Behaviour Analysis
+
+**00:00 — Stable dialogue**  
+- RMS stable, natural dynamics  
+- CEPA state: *Passive Observe*  
+- No action
+
+**00:03 — Small spike**  
+- Classified as *micro‑fluctuation*  
+- Natural behaviour → ignored
+
+**00:05 — Second spike**  
+- Still *micro‑fluctuation*  
+- No trend or pattern → ignored
+
+**00:07 — Gradual RMS rise**  
+- CEPA detects *drift‑up*  
+- Opens a context window  
+- No action yet (trend not confirmed)
+
+**00:09 — Sudden jump + compressed dynamics**  
+- Unnatural behaviour detected  
+- Classified as a *meaningful event*  
+- Marked as an AD‑pattern candidate
+
+**00:10 — ML confirmation**  
+- ML confirms AD mode  
+- ML does not control volume — it only validates CEPA’s interpretation
+
+**00:10.2 — VOL_DOWN (1 step)**  
+- Minimal, deterministic correction  
+- No prediction
+
+**00:10.6 — Stability check**  
+- CEPA evaluates whether the signal is returning to a natural zone
+
+**00:11 — Second VOL_DOWN (smooth correction)**  
+- Perceptual smoothing  
+- Prevents oscillation and over‑correction
+
+**00:12 — Stable zone reached**  
+- CEPA closes the context window  
+- Returns to passive observation  
+- State: *PASS*
+
+### Key Principles Demonstrated
+
+- CEPA reacts to **behaviour**, not loudness  
+- Micro‑fluctuations are ignored  
+- Trends (drift‑up) trigger context evaluation  
+- Unnatural behaviour triggers event classification  
+- ML only confirms — never controls  
+- Corrections are minimal and perceptually smooth  
+- Stability is always re‑checked before further action
+
+### Essence of CEPA Logic
+
+**A deterministic, perception‑inspired framework that evaluates how the signal behaves over time, not how loud it is at any given moment.**
+
+
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
 
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
