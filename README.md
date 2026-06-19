@@ -246,6 +246,44 @@ This diagram represents CEPA’s internal logic only.
 │                 CEPA OUTPUT                │
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
+
+```
+
+## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
+
+CEPA processes audio events through a structured, human‑like reasoning pipeline:
+
+1. **Collect audio metrics**  
+   Short‑term and long‑term RMS, spikes, drift, stability.
+
+2. **Detect event type**  
+   Sudden spike, gradual rise, gradual fall, or stable behaviour.
+
+3. **Read ML classification**  
+   AD / NORMAL mode from the ML controller.
+
+4. **Evaluate recent actions**  
+   Cooldowns, anti‑spam window, last volume changes.
+
+5. **Build perceptual context**  
+   Stable vs unstable, natural vs artificial change, spike vs fluctuation.
+
+6. **Apply human‑like filters**  
+   Ignore micro‑noise, ignore short spikes, apply deadzone & hysteresis.
+
+7. **Enforce safety rules**  
+   2× up/down protection, cooldown timers, block unsafe actions.
+
+8. **Decision Engine**  
+   - spike → **VOL_DOWN**  
+   - drift up → **VOL_DOWN**  
+   - drift down → **VOL_UP**  
+   - stable → **PASS**  
+   - unsafe → **PASS**
+
+9. **Output final action**  
+   Send IR command via VolMaster → Broadlink → TV.
+
 ```
 
 ## 🎬 Behind the Scenes: How AdBuster Started
