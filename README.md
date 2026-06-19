@@ -251,7 +251,6 @@ This diagram represents CEPA’s internal logic only.
 
 [CEPA Diagram (detailed PNG version)](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/refs/heads/main/CEPA_diagram.png)
 
-```
 
 ## CEPA Logic — Real‑World Behaviour Example
 
