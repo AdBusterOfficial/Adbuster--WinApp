@@ -189,6 +189,8 @@ CEPA (Contextual Event Pattern Analysis) interprets audio behavior
 and makes human‑like volume control decisions.  
 This diagram represents CEPA’s internal logic only.
 
+**CEPA focuses on contextual interpretation of loudness behavior, not raw classification, which makes the system robust to natural volume fluctuations.**
+
 ```
 ┌────────────────────────────────────────────┐
 │                 CEPA INPUTS                │
