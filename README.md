@@ -247,12 +247,9 @@ This diagram represents CEPA’s internal logic only.
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
 
-
-### Full graphical version:
-[CEPA_diagram.png](CEPA_diagram.png)
+```
 
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
-
 
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
 
