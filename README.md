@@ -247,6 +247,14 @@ This diagram represents CEPA’s internal logic only.
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
 
+### Full graphical version (PNG)
+
+![CEPA Logic Diagram](CEPA_diagram.png)
+
+**This diagram shows the full CEPA Logic flow — from raw audio input, through pattern analysis and ML confirmation, to the final human‑like volume decision (VOL_UP / VOL_DOWN / PASS).**
+
+
+
 ```
 
 ## ⚙️ CEPA Algorithm (Human‑Like Decision Process)
