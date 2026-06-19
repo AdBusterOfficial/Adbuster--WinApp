@@ -247,6 +247,8 @@ This diagram represents CEPA’s internal logic only.
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
 
+---
+
 [CEPA Logic Diagram](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA_diagram.png)
 
 ```
