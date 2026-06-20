@@ -179,7 +179,7 @@ or implementation details.
 │      TV / Audio Device     │
 │   (volume changes applied) │
 └────────────────────────────┘
-...
+
 
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
