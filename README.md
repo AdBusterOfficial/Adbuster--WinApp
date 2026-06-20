@@ -537,7 +537,7 @@ Short demo recorded quickly on a phone — quality is low, but it clearly shows 
 ---
 
 ## 8. Documentation
-➡️ Full documentation is available in the [docs](docs) folder.
+➡️ Full documentation is available in the [docs](docs) file.
 
 ---
 
