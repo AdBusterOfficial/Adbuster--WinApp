@@ -182,7 +182,7 @@ or implementation details.
 
 ...
 
-### 🧠 CEPA Logic Diagram (Decision Flow)
+## 🧠 CEPA Logic Diagram (Decision Flow)
 
 Below is a simplified decision‑flow diagram showing how  
 CEPA (Contextual Event Pattern Analysis) interprets audio behavior  
