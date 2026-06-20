@@ -114,7 +114,7 @@ All logic is processed locally — no cloud, no external servers.
 
 ---
 
-## 🧩 Architecture Diagram (High‑Level)
+## 📐 Architecture Diagram (High‑Level)
 
 Below is a simplified architecture diagram showing how the main components  
 of AdBuster PRO interact. This diagram does not reveal internal algorithms  
