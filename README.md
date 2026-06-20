@@ -989,7 +989,7 @@ The repository is public for transparency, but all code, models and CEPA Logic a
 No redistribution, modification or commercial use is permitted.
 
 CEPA Logic is additionally covered by a separate proprietary license:  
-**[CEPA Logic_license](CEPA_LOGIC_LICENSE.txt)**
+**[CEPA Logic license](CEPA_LOGIC_LICENSE.txt)**
 
 ---
 
