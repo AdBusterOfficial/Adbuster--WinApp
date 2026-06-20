@@ -139,11 +139,18 @@ or implementation details.
 │      (ml_controller.py)    │
 │ - collects RMS history     │
 │ - calls ml_pro_update()    │
-│ - confirms AD / NORMAL     │
 │ - toggles ad_mode          │
 └──────────────┬─────────────┘
-               │ AD / NORMAL state
+               │ RMS history
                ▼
+      ┌────────────────────────────┐
+      │         ADUSTER ML         │
+      │   (model.pkl / deep.pkl)   │
+      │ - long-term pattern check  │
+      │ - AD / NORMAL classifier   │
+      └──────────────┬─────────────┘
+                     │ AD / NORMAL state
+                     ▼
 ┌────────────────────────────┐
 │         CEPA ENGINE        │
 │ - contextual analysis      │
