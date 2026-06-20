@@ -217,7 +217,7 @@ Role: pattern validation + long‑term statistical context
 
 ### 📡 VolMaster — IR Control Server
 Local Flask server communicating with Broadlink RM devices
-Sends VOL_UP, VOL_DOWN, MUTE, POWER
+Sends VOL_UP, VOL_DOWN,
 Works with any IR‑based TV or audio device
 Provides /send?cmd=... and /status endpoints
 Role: execution layer (IR control)
