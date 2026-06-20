@@ -216,11 +216,11 @@ Does not control volume
 Role: pattern validation + long‑term statistical context
 
 ### 📡 VolMaster — IR Control Server
-Local Flask server communicating with Broadlink RM devices
-Sends VOL_UP, VOL_DOWN,
-Works with any IR‑based TV or audio device
-Provides /send?cmd=... and /status endpoints
-Role: execution layer (IR control)
+Local Flask server that communicates with Broadlink RM devices.
+Sends VOL_UP / VOL_DOWN IR commands.
+Compatible with any IR‑based TV or audio device.
+Exposes /send?cmd=... and /status endpoints.
+Role: execution layer responsible for IR command delivery.
 
 ### 🧠 CEPA — The Decision‑Making Brain
 CEPA (Contextual Event Pattern Analysis) is not a separate module.
