@@ -199,7 +199,7 @@ or implementation details.
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
 At the center sits CEPA, the decision‑making brain that connects everything.
 
-1. AdBuster — Detection Engine
+### 🔧 AdBuster — Detection Engine
 Captures audio from the microphone
 Computes RMS, peaks, dynamics, drift and spikes
 Builds short‑ and long‑term loudness history
@@ -207,7 +207,7 @@ Generates structured audio events for CEPA
 Handles smoothing, deadzone, stable zone, cooldowns and safety limits
 Role: real‑time detection + runtime logic
 
-2. Aduster ML — Machine Learning Engine
+### 🤖 Aduster ML — Machine Learning Engine
 Uses on‑device models (model.pkl and model_deep.pkl)
 Classifies AD / NORMAL behaviour based on RMS history
 Validates CEPA’s interpretation
@@ -215,7 +215,7 @@ Does not send IR commands
 Does not control volume
 Role: pattern validation + long‑term statistical context
 
-3. VolMaster — IR Control Server
+### 📡 VolMaster — IR Control Server
 Local Flask server communicating with Broadlink RM devices
 Sends VOL_UP, VOL_DOWN, MUTE, POWER
 Works with any IR‑based TV or audio device
