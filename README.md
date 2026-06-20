@@ -472,7 +472,7 @@ This was the moment AdBuster truly began.
 ## 3. CEPA Setup – Personalization Wizard
 ![CEPA Setup](https://github.com/user-attachments/assets/151b605e-613f-4db7-9b64-b563d2a3eeb4)
 
-## 4. AdBuster ML PRO – Machine Learning Panel
+## 4. Aduster ML PRO – Machine Learning Panel
 ![AdBuster ML PRO](https://github.com/user-attachments/assets/918031dd-67c9-4e87-8f1d-8ba32a104473)
 
 ## 5. VolMaster – Broadlink Server
