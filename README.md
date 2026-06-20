@@ -27,7 +27,7 @@
 
 <p align="center">
   ⚠️ CEPA Logic is covered by an additional proprietary license included in this repository.<br>
-  See: CEPA_LOGIC_LICENSE.txt
+  See: <a href="CEPA_LOGIC_LICENSE.txt">CEPA_LOGIC_LICENSE.txt</a>
 </p>
 
 <p align="center">
