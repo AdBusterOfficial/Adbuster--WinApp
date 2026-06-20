@@ -236,7 +236,6 @@ AdBuster then forwards the final command to VolMaster, which executes it via IR.
 In simple terms:
 AdBuster detects → Aduster ML validates → CEPA decides → VolMaster executes.
 
-
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
 Below is a simplified decision‑flow diagram showing how  
