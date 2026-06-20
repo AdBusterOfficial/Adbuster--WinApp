@@ -529,7 +529,7 @@ This repository includes an additional proprietary license covering the **CEPA L
 
 For full terms, see the dedicated license file:
 
-➡️ [CEPA logic license](./CEPA_LOGIC_LICENSE.txt)
+➡️ [CEPA_LOGIC_LICENSE.txt](./CEPA_LOGIC_LICENSE.txt)
 
 ---
 
