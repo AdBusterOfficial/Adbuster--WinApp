@@ -180,7 +180,6 @@ or implementation details.
 │   (volume changes applied) │
 └────────────────────────────┘
 
-```
 🧩 Architecture Overview — 3 Modules + CEPA Brain
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
 At the center sits CEPA, the decision‑making brain that connects everything.
@@ -260,8 +259,6 @@ AdBuster then forwards the final command to VolMaster, which executes it via IR.
 
 In simple terms
 AdBuster detects → Aduster ML validates → CEPA decides → VolMaster executes.
-
-```
 
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
