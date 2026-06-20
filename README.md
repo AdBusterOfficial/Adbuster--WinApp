@@ -179,7 +179,7 @@ or implementation details.
 │      TV / Audio Device     │
 │   (volume changes applied) │
 └────────────────────────────┘
-...
+```
 
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
@@ -190,7 +190,7 @@ This diagram represents CEPA’s internal logic only.
 
 **CEPA interprets loudness behavior in context, rather than reacting to raw classification signals — making the system stable, human‑like, and resistant to natural volume fluctuations.**
 
-...
+```
 ┌────────────────────────────────────────────┐
 │                 CEPA INPUTS                │
 │  - RMS trend (short / long)                │
@@ -248,6 +248,7 @@ This diagram represents CEPA’s internal logic only.
 ```
 
 [CEPA Diagram (detailed PNG version)](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/refs/heads/main/CEPA_diagram.png)
+
 
 ## 🔍 CEPA Logic — Real‑World Behaviour Example
 
