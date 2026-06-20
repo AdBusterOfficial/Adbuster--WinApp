@@ -222,7 +222,7 @@ Works with any IR‑based TV or audio device
 Provides /send?cmd=... and /status endpoints
 Role: execution layer (IR control)
 
-🧠 CEPA — The Decision‑Making Brain
+### 🧠 CEPA — The Decision‑Making Brain
 CEPA (Contextual Event Pattern Analysis) is not a separate module.
 It is the internal intelligence layer inside AdBuster 2.0 PRO.
 
