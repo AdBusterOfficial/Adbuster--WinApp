@@ -181,6 +181,7 @@ or implementation details.
 └────────────────────────────┘
 
 ```
+
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
 Below is a simplified decision‑flow diagram showing how  
