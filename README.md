@@ -27,7 +27,7 @@
 
 <p align="center">
   ⚠️ CEPA Logic is covered by an additional proprietary license included in this repository.<br>
-  See: <a href="CEPA_LOGIC_LICENSE.txt">CEPA_LOGIC_LICENSE.txt</a>
+  See: <a href="CEPA logic license">CEPA_LOGIC_LICENSE.txt</a>
 </p>
 
 <p align="center">
@@ -989,7 +989,7 @@ The repository is public for transparency, but all code, models and CEPA Logic a
 No redistribution, modification or commercial use is permitted.
 
 CEPA Logic is additionally covered by a separate proprietary license:  
-**[CEPA_LOGIC_LICENSE.txt](CEPA_LOGIC_LICENSE.txt)**
+**[CEPA Logic_license](CEPA_LOGIC_LICENSE.txt)**
 
 ---
 
