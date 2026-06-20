@@ -139,6 +139,7 @@ or implementation details.
 │      (ml_controller.py)    │
 │ - collects RMS history     │
 │ - calls ml_pro_update()    │
+│ - sends RMS to Aduster ML  │
 │ - toggles ad_mode          │
 └──────────────┬─────────────┘
                │ RMS history
