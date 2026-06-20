@@ -194,7 +194,6 @@ or implementation details.
 └────────────────────────────┘
 
 ```
-
 ## 🧩 Architecture Overview — 3 Modules + CEPA Brain
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
 At the center sits CEPA, the decision‑making brain that connects everything.
