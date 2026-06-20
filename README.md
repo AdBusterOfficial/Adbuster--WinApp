@@ -26,6 +26,11 @@
 </p>
 
 <p align="center">
+  ⚠️ CEPA Logic is covered by an additional proprietary license included in this repository.<br>
+  See: CEPA_LOGIC_LICENSE.txt
+</p>
+
+<p align="center">
   A small Windows tool that lowers loud TV ads automatically and restores normal volume smoothly.
 </p>
 
