@@ -179,75 +179,7 @@ or implementation details.
 │      TV / Audio Device     │
 │   (volume changes applied) │
 └────────────────────────────┘
-
-## 🧩 Architecture Overview — 3 Modules + CEPA Brain
-
-AdBuster 2.0 PRO is built from three independent modules that work together in real time.  
-At the center sits CEPA, the decision‑making brain that connects everything.
-
----
-
-### 1. AdBuster — Detection Engine
-- Captures audio from the microphone  
-- Computes RMS, peaks, dynamics, drift and spikes  
-- Builds short‑ and long‑term loudness history  
-- Generates structured audio events for CEPA  
-- Handles smoothing, deadzone, stable zone, cooldowns and safety limits  
-
-Role: real‑time detection + runtime logic
-
----
-
-### 2. Aduster ML — Machine Learning Engine
-- Uses on‑device models (model.pkl and model_deep.pkl)  
-- Classifies AD / NORMAL behaviour based on RMS history  
-- Validates CEPA’s interpretation  
-- Does not send IR commands  
-- Does not control volume  
-
-Role: pattern validation + long‑term statistical context
-
----
-
-### 3. VolMaster — IR Control Server
-- Local Flask server communicating with Broadlink RM devices  
-- Sends VOL_UP, VOL_DOWN, MUTE, POWER  
-- Works with any IR‑based TV or audio device  
-- Provides /send?cmd=... and /status endpoints  
-
-Role: execution layer (IR control)
-
----
-
-## 🧠 CEPA — The Decision‑Making Brain
-
-CEPA (Contextual Event Pattern Analysis) is not a separate module.  
-It is the internal intelligence layer inside AdBuster 2.0 PRO.
-
-CEPA receives:
-- audio events from AdBuster  
-- AD / NORMAL state from Aduster ML  
-- recent actions, cooldowns and safety limits from the app logic  
-
-CEPA performs:
-- contextual pattern analysis  
-- human‑like filtering  
-- anomaly detection  
-- stability evaluation  
-- safety enforcement  
-
-CEPA decides:
-- VOL_DOWN  
-- VOL_UP  
-- PASS  
-- BLOCK  
-
-AdBuster then forwards the final command to VolMaster, which executes it via IR.
-
----
-
-### In simple terms
-AdBuster detects → Aduster ML validates → CEPA decides → VolMaster executes.
+```
 
 ## 🧠 CEPA Logic Diagram (Decision Flow)
 
@@ -256,8 +188,9 @@ CEPA (Contextual Event Pattern Analysis) interprets audio behavior
 and makes human‑like volume control decisions.  
 This diagram represents CEPA’s internal logic only.
 
-CEPA interprets loudness behavior in context, rather than reacting to raw classification signals — making the system stable, human‑like, and resistant to natural volume fluctuations.
+**CEPA interprets loudness behavior in context, rather than reacting to raw classification signals — making the system stable, human‑like, and resistant to natural volume fluctuations.**
 
+```
 ┌────────────────────────────────────────────┐
 │                 CEPA INPUTS                │
 │  - RMS trend (short / long)                │
@@ -286,7 +219,7 @@ CEPA interprets loudness behavior in context, rather than reacting to raw classi
 │  - apply deadzone (no reaction zone)       │
 │  - apply stable zone (PASS)                │
 │  - apply hysteresis (avoid oscillation)    │
-└────────────────────────────────────────────┘
+└───────────────────────────────┬────────────┘
                                 │ filtered_event
                                 ▼
 ┌────────────────────────────────────────────┐
@@ -295,7 +228,7 @@ CEPA interprets loudness behavior in context, rather than reacting to raw classi
 │  - cooldown timers                         │
 │  - 2x up/down protection                   │
 │  - block unsafe actions                    │
-└────────────────────────────────────────────┘
+└───────────────────────────────┬────────────┘
                                 │ allowed / blocked
                                 ▼
 ┌────────────────────────────────────────────┐
@@ -305,13 +238,14 @@ CEPA interprets loudness behavior in context, rather than reacting to raw classi
 │  - if drift down → VOL_UP                  │
 │  - if stable → PASS                        │
 │  - if unsafe → PASS                        │
-└────────────────────────────────────────────┘
+└───────────────────────────────┬────────────┘
                                 │ final_action ...
                                 ▼
 ┌────────────────────────────────────────────┐
 │                 CEPA OUTPUT                │
 │        VOL_UP / VOL_DOWN / PASS            │
 └────────────────────────────────────────────┘
+```
 
 [CEPA Diagram (detailed PNG version)](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/refs/heads/main/CEPA_diagram.png)
 
