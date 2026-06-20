@@ -194,7 +194,7 @@ or implementation details.
 └────────────────────────────┘
 
 ```
-### 🎚️ Command Policy (How It Works)
+### 🎚️ IR Command Policy 
 
 AdBuster’s automation layer uses **only two IR commands**:
 
