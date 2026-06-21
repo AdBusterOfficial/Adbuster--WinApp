@@ -762,7 +762,7 @@ Extended IR control layer supporting multiple TVs, soundbars, receivers and Broa
 ### 🔧 Enhanced Broadlink Integration
 A more robust IR communication layer with improved retry logic, faster command dispatching, and better handling of Broadlink device discovery. This includes support for additional Broadlink models and improved error recovery.
 
-### 🖥️ New UI Modules
+### 🪟 New UI Modules
 Additional interface components for monitoring, diagnostics and customization:
 - real‑time CEPA decision graph  
 - ML confidence visualizer  
