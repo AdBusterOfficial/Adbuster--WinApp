@@ -518,7 +518,7 @@ This was the moment AdBuster truly began.
 - [18. Broadlink Support](#18-broadlink-support)
 - [📩 Contact](#contact-section)
 
-- [🧩 Technical Transparency](#-technical-transparency)
+- [📘 Technical Transparency](#-technical-transparency)
 - [🔍 Standard Model (model.pkl)](#-standard-model-modelpkl)
 - [🔷 Deep Model (model_deep.pkl) — PRO Module](#-deep-model-model_deeppkl--pro-module)
 - [📌 Why This Matters](#-why-this-matters)
