@@ -194,7 +194,7 @@ or implementation details.
 └────────────────────────────┘
 
 ```
-### 🎚️ IR Command Policy 
+### 📞 IR Command Policy 
 
 AdBuster’s automation layer uses **only two IR commands**:
 
@@ -218,7 +218,7 @@ Automatic volume changes are always constrained by:
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
 At the center sits CEPA, the decision‑making brain that connects everything.
 
-### 🔧 AdBuster — Detection Engine
+### 🧮 AdBuster — Detection Engine
 Captures audio from the microphone
 Computes RMS, peaks, dynamics, drift and spikes
 Builds short‑ and long‑term loudness history
@@ -226,7 +226,7 @@ Generates structured audio events for CEPA
 Handles smoothing, deadzone, stable zone, cooldowns and safety limits
 Role: real‑time detection + runtime logic
 
-### 🤖 Aduster ML — Machine Learning Engine
+### 🧿 Aduster ML — Machine Learning Engine
 Uses on‑device models (model.pkl and model_deep.pkl)
 Classifies AD / NORMAL behaviour based on RMS history
 Validates CEPA’s interpretation
@@ -234,7 +234,7 @@ Does not send IR commands
 Does not control volume
 Role: pattern validation + long‑term statistical context
 
-### 📡 VolMaster — IR Control Server
+### 🧰 VolMaster — IR Control Server
 Local Flask server that communicates with Broadlink RM devices.
 Sends VOL_UP / VOL_DOWN IR commands.
 Compatible with any IR‑based TV or audio device.
@@ -759,7 +759,7 @@ A local, offline training pipeline that allows the model to refine itself based 
 ### 📡 Multi‑Device IR Support
 Extended IR control layer supporting multiple TVs, soundbars, receivers and Broadlink‑compatible devices. The goal is to allow users to define multiple profiles and switch between them dynamically.
 
-### 🔧 Enhanced Broadlink Integration
+### 📶 Enhanced Broadlink Integration
 A more robust IR communication layer with improved retry logic, faster command dispatching, and better handling of Broadlink device discovery. This includes support for additional Broadlink models and improved error recovery.
 
 ### 🛰️ New UI Modules
@@ -942,7 +942,7 @@ loudness patterns and sending IR volume commands to a Broadlink device, which th
 
 All processing happens locally.
 
-### 🎚️ Audio Engine
+### 🧱 Audio Engine
 Extracts simplified metrics:
 - smoothed loudness
 - short‑term variation
@@ -975,7 +975,7 @@ The PRO module (Aduster) is an offline machine‑learning engine that:
 
 Model architecture is proprietary.
 
-### 📡 IR Control Engine (Broadlink Integration / VolMaster)
+### 🧲 IR Control Engine (Broadlink Integration / VolMaster)
 
 AdBuster PRO does not control the Broadlink device itself.
 It sends IR volume commands (up / down / mute) to the Broadlink unit,
