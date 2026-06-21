@@ -528,7 +528,7 @@ This was the moment AdBuster truly began.
 
 ---
 
-## 🗂️ Demo Video (15 seconds)
+## 📹 Demo Video (15 seconds)
 
 Short demo recorded quickly on a phone — quality is low, but it clearly shows how the app reacts to loudness spikes and sends IR volume commands.
 
