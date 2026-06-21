@@ -750,7 +750,7 @@ After the initial Broadlink setup:
 
 ## 🗂️ Roadmap
 
-### 🚀 CEPA Logic v2
+### 🗃️ CEPA Logic v2
 A redesigned decision‑making engine with improved context awareness, better handling of borderline audio states, and more adaptive thresholds. The goal is to make CEPA less binary and more “human‑like” in how it reacts to dynamic audio environments.
 
 ### 🧬 ML Auto‑Training Mode
