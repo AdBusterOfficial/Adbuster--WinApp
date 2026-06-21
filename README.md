@@ -1,20 +1,3 @@
-<div style="width:100%;padding:30px 22px;background:radial-gradient(circle at 0% 0%,#0a0f1f 0,#11172b 45%,#05060a 100%);border-radius:14px;border:1px solid rgba(245,193,75,0.35);box-shadow:0 18px 40px rgba(0,0,0,0.65);text-align:center;box-sizing:border-box;">
-
-  <div style="font-size:32px;font-weight:900;letter-spacing:0.10em;color:#ffffff;margin-bottom:8px;">
-    AdBuster&nbsp;2.0&nbsp;PRO
-  </div>
-
-  <div style="font-size:12px;letter-spacing:0.28em;text-transform:uppercase;color:#f5c14b;margin-bottom:14px;opacity:0.95;">
-    powered&nbsp;by&nbsp;CEPA&nbsp;Logic
-  </div>
-
-  <div style="font-size:15px;color:#e6e9f7;opacity:0.95;max-width:640px;margin:0 auto;">
-    Human‑like real‑time TV sound stabilization.
-  </div>
-
-</div>
-
-
 
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="840">
