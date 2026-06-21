@@ -1001,6 +1001,42 @@ Fully offline:
 
 ---
 
+## 🔒 CEPA & AdBuster — Protected Components (Technical Summary)
+
+This project contains proprietary, non‑open‑source components.  
+The following elements are protected and may not be copied, modified, analyzed, or reverse‑engineered.
+
+### 1. CEPA Logic (Decision Engine)
+Internal decision system responsible for audio pattern interpretation and reaction logic:
+- rule sets  
+- threshold logic  
+- decision flow  
+- ML feature extraction  
+- model parameters  
+- implementation details  
+
+These components are closed‑source and not publicly accessible.
+
+### 2. AdBuster PRO Runtime Modules
+Executable modules and internal communication layers:
+- audio analysis pipelines  
+- ML1 / ML PRO model files  
+- IR control logic  
+- inter‑process communication  
+- proprietary executables and binaries  
+
+Users may run the software but may not decompile, extract, or redistribute these modules.
+
+## 🛡️ Purpose
+This protection prevents:
+- unauthorized cloning  
+- reverse engineering  
+- extraction of CEPA logic  
+- reuse of proprietary ML models  
+- replication of internal algorithms
+
+---
+
 ## Licensing
 
 AdBuster 2.0 PRO is not open‑source.  
