@@ -1,56 +1,73 @@
 CEPA Logic — Proprietary License & Trade Secret Agreement
 © 2026 DP‑G / AdBuster Development Team — All Rights Reserved.
 
-CEPA Logic (Contextual Event Pattern Analysis Logic) is a proprietary, confidential, and protected trade secret.  
-By accessing, viewing, or using CEPA Logic or any related materials, you agree to the following terms.
+CEPA Logic (Contextual Event Pattern Analysis Logic) is a proprietary, 
+confidential, and protected trade secret. By accessing, viewing, or using 
+CEPA Logic or any related materials, you agree to the following terms.
 
 1. INTELLECTUAL PROPERTY
-All algorithms, conceptual structures, interpretative rules, contextual mapping methods, decision logic, and internal components of CEPA Logic remain the exclusive intellectual property of DP‑G / AdBuster Development Team.
-No rights are granted other than those explicitly stated.
+All components of CEPA Logic — including algorithms, conceptual structures, 
+interpretative rules, contextual mapping methods, decision logic, and 
+internal mechanisms — remain the exclusive intellectual property of 
+DP‑G / AdBuster Development Team. No rights are granted other than those 
+explicitly stated in this agreement.
 
 2. NO REDISTRIBUTION
-You may not copy, publish, upload, mirror, disclose, or distribute CEPA Logic or any related materials without explicit written permission.
+You may not copy, publish, upload, mirror, disclose, or distribute CEPA Logic 
+or any related materials without explicit written permission.
 
 3. NO REVERSE ENGINEERING
-Reverse engineering, decompiling, disassembling, analyzing, or attempting to derive the internal logic, methodology, 
-or behavior of CEPA Logic is strictly prohibited.
-This includes behavioral analysis, pattern extraction, or modeling of CEPA’s decision processes.
+Reverse engineering, decompiling, disassembling, analyzing, or attempting 
+to derive the internal logic, methodology, or behavior of CEPA Logic is 
+strictly prohibited. This includes behavioral analysis, pattern extraction, 
+or modeling of CEPA’s decision processes.
 
 4. NO MODIFICATION
-You may not modify, alter, adapt, or create derivative works based on CEPA Logic or any of its conceptual structures.
+You may not modify, alter, adapt, or create derivative works based on 
+CEPA Logic or any of its conceptual structures.
 
 5. CONFIDENTIALITY
-All CEPA Logic documentation, diagrams, descriptions, and technical materials are confidential.  
-Sharing them with third parties requires a signed NDA (Non‑Disclosure Agreement).
+All CEPA Logic documentation, diagrams, descriptions, and technical 
+materials are confidential. Sharing them with third parties requires a 
+signed NDA (Non‑Disclosure Agreement).
 
 6. NO ACADEMIC OR RESEARCH USE
-You may not use CEPA Logic for academic, research, benchmarking, evaluation, or analytical purposes without written permission.
+You may not use CEPA Logic for academic, research, benchmarking, 
+evaluation, or analytical purposes without written permission.
 
 7. NO MACHINE LEARNING USE
-You may not use CEPA Logic or any of its outputs to train, fine‑tune, evaluate, or assist any machine learning model or AI system.
+You may not use CEPA Logic or any of its outputs to train, fine‑tune, 
+evaluate, or assist any machine learning model or AI system.
 
 8. COMMERCIAL USE
-Commercial use — including OEM integration, product embedding, licensing, resale, or technology transfer — requires a separate commercial agreement.
+Commercial use — including OEM integration, product embedding, licensing, 
+resale, or technology transfer — requires a separate commercial agreement.
 
 9. NO TRANSFER OF RIGHTS
-This license does not grant any ownership, rights, or claims to CEPA Logic.  
+This license does not grant any ownership, rights, or claims to CEPA Logic. 
 All rights remain exclusively with DP‑G / AdBuster Development Team.
 
 10. NO COMPETITIVE DEVELOPMENT
-You are strictly prohibited from using CEPA Logic, its methodologies, conceptual structures, or any derived knowledge to design, develop, train, 
-or support any competing analytical framework, decision engine, or context‑driven system intended to replicate or approximate CEPA Logic functionality.
+You are strictly prohibited from using CEPA Logic, its methodologies, 
+conceptual structures, or any derived knowledge to design, develop, train, 
+or support any competing analytical framework, decision engine, or 
+context‑driven system intended to replicate or approximate CEPA Logic 
+functionality.
 
 11. TERMINATION
-Any violation of this agreement results in immediate termination of all rights and access.  
-Upon termination, you must cease all use and destroy all materials.
+Any violation of this agreement results in immediate termination of all 
+rights and access. Upon termination, you must cease all use and destroy 
+all materials.
 
 12. LIMITATION OF LIABILITY
-The licensor is not liable for any damages, losses, or claims arising from the use, interpretation, or misapplication of CEPA Logic.
+The licensor is not liable for any damages, losses, or claims arising from 
+the use, interpretation, or misapplication of CEPA Logic.
 
 13. GOVERNING LAW
-This agreement is governed exclusively by the laws of Ireland.  
-Any disputes shall be resolved in Irish courts.
+This agreement is governed exclusively by the laws of Ireland. Any disputes 
+shall be resolved in Irish courts.
 
 TRADE SECRET NOTICE
-CEPA Logic is protected as a proprietary trade secret under applicable intellectual property laws.  
-Unauthorized use, disclosure, or reproduction is strictly prohibited.
+CEPA Logic is protected as a proprietary trade secret under applicable 
+intellectual property laws. Unauthorized use, disclosure, or reproduction 
+is strictly prohibited.
