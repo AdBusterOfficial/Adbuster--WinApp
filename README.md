@@ -528,7 +528,7 @@ This was the moment AdBuster truly began.
 
 ---
 
-## 📘 Demo Video (15 seconds)
+## 🗂️ Demo Video (15 seconds)
 
 Short demo recorded quickly on a phone — quality is low, but it clearly shows how the app reacts to loudness spikes and sends IR volume commands.
 
@@ -536,12 +536,12 @@ Short demo recorded quickly on a phone — quality is low, but it clearly shows 
 
 ---
 
-## 📘 Documentation
+## 🗂️ Documentation
 ➡️ Full documentation is available in the [docs](docs) file.
 
 ---
 
-## 📘 CEPA Logic License
+## 🗂️ CEPA Logic License
 
 This repository includes an additional proprietary license covering the **CEPA Logic**
 (Contextual Event Pattern Analysis Logic) analytical framework.
@@ -552,7 +552,7 @@ For full terms, see the dedicated license file:
 
 ---
 
-## 📘 CEPA Logic — Technical Overview
+## 🗂️ CEPA Logic — Technical Overview
 CEPA Logic is not a generic algorithm but a full contextual reasoning framework for real‑time audio event interpretation and automation.
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
@@ -598,7 +598,7 @@ All other tools are limited to basic, manual IR control and cannot be compared t
 
 ---
 
-## 📘 For Investors & Partners
+## 🗂️ For Investors & Partners
 
 AdBuster 2.0 PRO is a unique offline technology that combines real‑time microphone analysis,
 contextual CEPA logic, on‑device machine learning and Broadlink IR control to automatically
@@ -613,7 +613,7 @@ IR‑based TV.
 
 ---
 
-## 📘 Support & Contributions
+## 🗂️ Support & Contributions
 
 AdBuster 2.0 PRO is an independent R&D project developed with passion, countless hours of testing, and a strong focus on offline privacy‑first technology.
 
@@ -643,7 +643,7 @@ Thank you for being part of the journey.
 
 ---
 
-## 📘 Installation (EXE Version)
+## 🗂️ Installation (EXE Version)
 
 AdBuster 2.0 PRO is a portable Windows application.
 No installation, no Python, and no additional software are required.
@@ -724,7 +724,7 @@ After the initial Broadlink setup:
 
 ---
 
-## 📘 Changelog
+## 🗂️ Changelog
 
 ### v2.0 — Current Release
 - Added ML/AI PRO mode
@@ -748,7 +748,7 @@ After the initial Broadlink setup:
 
 ---
 
-## 📘 Roadmap
+## 🗂️ Roadmap
 
 ### 🚀 CEPA Logic v2
 A redesigned decision‑making engine with improved context awareness, better handling of borderline audio states, and more adaptive thresholds. The goal is to make CEPA less binary and more “human‑like” in how it reacts to dynamic audio environments.
@@ -771,7 +771,7 @@ Additional interface components for monitoring, diagnostics and customization:
 
 ---
 
-## 📘 FAQ (Frequently Asked Questions)
+## 🗂️ FAQ (Frequently Asked Questions)
 
 ### 1. Does AdBuster require installation?
 No. AdBuster 2.0 PRO is fully portable.  
@@ -820,7 +820,7 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 ---
 
-## 📘 System Requirements
+## 🗂️ System Requirements
 
 - Windows 7, 8, 10 or 11 (64‑bit recommended)
 - Built‑in laptop microphone or any external USB microphone
@@ -829,7 +829,7 @@ It only reads audio levels — it does not change system volume or audio drivers
 
 ---
 
-## 📘 Broadlink Support
+## 🗂️ Broadlink Support
 
 Broadlink is a compact Wi‑Fi IR blaster that replaces your TV or audio remote.
 It receives a command over Wi‑Fi and instantly sends the matching infrared signal
