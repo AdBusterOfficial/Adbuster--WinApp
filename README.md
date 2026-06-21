@@ -929,7 +929,7 @@ If one server is slow or unavailable, try another mirror.
 
 ---
 
-## Architecture Overview (Short Version)
+## 🏗️ Architecture Overview (Short Version)
 
 AdBuster PRO is an offline Windows application that stabilizes TV audio by detecting abnormal
 loudness patterns and sending IR volume commands to a Broadlink device, which then controls the TV.
