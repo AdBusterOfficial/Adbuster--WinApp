@@ -995,13 +995,14 @@ Provides:
 - mode selection (AUTO / ML / MUSIC / AD)
 - Broadlink status
 
-## Privacy
+## 🔐 Privacy
+
 Fully offline:
 - all audio is processed locally in real time and never recorded, transmitted, or stored
 
 ---
 
-## 🔒 CEPA & AdBuster — Protected Components (Technical Summary)
+## 🛑 CEPA & AdBuster — Protected Components (Technical Summary)
 
 This project contains proprietary, non‑open‑source components.  
 The following elements are protected and may not be copied, modified, analyzed, or reverse‑engineered.
@@ -1037,7 +1038,7 @@ This protection prevents:
 
 ---
 
-## Licensing
+## 📜 Licensing
 
 AdBuster 2.0 PRO is not open‑source.  
 The repository is public for transparency, but all application code and models are covered by:  
