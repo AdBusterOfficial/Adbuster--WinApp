@@ -12,7 +12,8 @@ No rights are granted other than those explicitly stated.
 You may not copy, publish, upload, mirror, disclose, or distribute CEPA Logic or any related materials without explicit written permission.
 
 3. NO REVERSE ENGINEERING
-Reverse engineering, decompiling, disassembling, analyzing, or attempting to derive the internal logic, methodology, or behavior of CEPA Logic is strictly prohibited.
+Reverse engineering, decompiling, disassembling, analyzing, or attempting to derive the internal logic, methodology, 
+or behavior of CEPA Logic is strictly prohibited.
 This includes behavioral analysis, pattern extraction, or modeling of CEPA’s decision processes.
 
 4. NO MODIFICATION
