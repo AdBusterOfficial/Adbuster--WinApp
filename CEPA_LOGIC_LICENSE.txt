@@ -36,7 +36,8 @@ This license does not grant any ownership, rights, or claims to CEPA Logic.
 All rights remain exclusively with DP‑G / AdBuster Development Team.
 
 10. NO COMPETITIVE DEVELOPMENT
-You are strictly prohibited from using CEPA Logic, its methodologies, conceptual structures, or any derived knowledge to design, develop, train, or support any competing analytical framework, decision engine, or context‑driven system intended to replicate or approximate CEPA Logic functionality.
+You are strictly prohibited from using CEPA Logic, its methodologies, conceptual structures, or any derived knowledge to design, develop, train, 
+or support any competing analytical framework, decision engine, or context‑driven system intended to replicate or approximate CEPA Logic functionality.
 
 11. TERMINATION
 Any violation of this agreement results in immediate termination of all rights and access.  
