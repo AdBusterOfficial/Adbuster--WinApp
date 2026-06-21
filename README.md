@@ -851,7 +851,7 @@ RF‑only or cloud‑only devices are not supported.
 
 ---
 
-## 🧩 Technical Transparency
+## 📘 Technical Transparency
 
 AdBuster 2.0 PRO uses real, structured machine‑learning models that run fully offline.  
 To provide transparency, below are internal diagnostic previews showing how the engine loads and verifies its analytical components.
