@@ -80,14 +80,16 @@ A dedicated audio engine extracts loudness, stability, spikes and long‑term pa
 
 ### 🔹 CEPA Logic — human‑like decision framework
 A proprietary contextual reasoning layer that interprets audio events the same way a human would:
-- detects disruptive spikes  
-- avoids over‑correction  
-- restores volume smoothly  
-- adapts to context and time of day
+
+detects disruptive spikes
+avoids over‑correction
+restores volume smoothly
+adapts to context and time of day
 
 **Note:**  
 **The public release of AdBuster 2.0 PRO includes the CEPA Core (Perception → Behaviour → Action).  
 The full CEPA Logic v2 framework described in the documentation is proprietary and not included in the test build.**
+
 
 ### 🔹 Offline machine learning (FREE + PRO)
 Two independent ML engines:
