@@ -85,7 +85,7 @@ A proprietary contextual reasoning layer that interprets audio events the same w
 - restores volume smoothly  
 - adapts to context and time of day
 
-- **Note:**  
+**Note:**  
 **The public release of AdBuster 2.0 PRO includes the CEPA Core (Perception → Behaviour → Action).  
 The full CEPA Logic v2 framework described in the documentation is proprietary and not included in the test build.**
 
