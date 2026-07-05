@@ -293,7 +293,7 @@ AdBuster then forwards the final command to VolMaster, which executes it via IR.
 In simple terms:
 AdBuster detects → Aduster ML validates → CEPA decides → VolMaster executes.
 
-## CEPA Logic — Technical Foundations
+### CEPA Logic — Technical Foundations
 
 CEPA is a lightweight analytical framework for interpreting audio as a sequence of contextual events rather than raw signal frames. It operates on four core concepts:
 
