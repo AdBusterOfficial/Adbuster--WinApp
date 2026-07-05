@@ -293,6 +293,22 @@ AdBuster then forwards the final command to VolMaster, which executes it via IR.
 In simple terms:
 AdBuster detects → Aduster ML validates → CEPA decides → VolMaster executes.
 
+## CEPA Logic — Technical Foundations
+
+CEPA is a lightweight analytical framework for interpreting audio as a sequence of contextual events rather than raw signal frames. It operates on four core concepts:
+
+### 1. Contextual Event Pattern
+A structured representation of how audio events evolve over time, including their direction, stability, transitions, and contextual relationships. CEPA treats events as semantic units rather than isolated DSP measurements.
+
+### 2. Behaviour‑Based Audio
+A signal interpretation model focused on behaviour (stability, drift, anomalies, resets) instead of amplitude or spectral values. This enables deterministic detection of unexpected behaviour in real‑world audio.
+
+### 3. Event‑Level Inference
+A decision‑making layer that evaluates relationships between events rather than individual samples or frames. Inference is based on event sequences, priorities, and contextual state transitions.
+
+### 4. Contextual Audio Logic
+A rule‑based logic system that interprets event patterns in the context of signal history, system state, and previous decisions. This allows CEPA to produce stable, predictable reactions without machine‑learning models.
+
 ## 🔄 CEPA Logic Diagram (Decision Flow)
 
 Below is a simplified decision‑flow diagram showing how  
