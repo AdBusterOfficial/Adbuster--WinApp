@@ -632,7 +632,7 @@ IR‑based TV.
 
 <p>
   <img src="AdBuster.ico" width="48" alt="AdBuster Icon" style="vertical-align:middle; margin-right:10px;">
-  <span style="font-size:20px; font-weight:bold; vertical-align:middle;">CEPA Logic</span>
+  <img src="CEPA.png" width="48" alt="CEPA Icon" style="vertical-align:middle;">
 </p>
 
 ![AdBuster Device Module](AdBuster%20Device%20Module.png)
