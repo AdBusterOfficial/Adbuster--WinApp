@@ -628,6 +628,16 @@ IR‑based TV.
 
 ---
 
+## AdBuster Device Module — Conceptual Hardware Design
+
+![AdBuster Device Module](AdBuster%20Device%20Module.png)
+
+**Conceptual hardware module illustrating how the CEPA + ML + IR pipeline could run as embedded firmware inside a standalone, offline loudness‑stabilization device.**  
+This image represents a possible physical form factor for behaviour‑based loudness control compatible with any IR‑controlled TV or soundbar.  
+This is a **conceptual design only** — the Windows application remains the primary implementation.
+
+---
+
 ## 🗂️ Support & Contributions
 
 AdBuster 2.0 PRO is an independent R&D project developed with passion, countless hours of testing, and a strong focus on offline privacy‑first technology.
