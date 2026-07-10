@@ -630,10 +630,7 @@ IR‑based TV.
 
 ### Conceptual Hardware Module
 
-<p>
-  <img src="AdBuster.ico" width="48" alt="AdBuster Icon" style="vertical-align:middle; margin-right:10px;">
-  <img src="CEPA.png" width="42" alt="CEPA Icon" style="vertical-align:middle;">
-</p>
+<img src="AdBuster_CEPA_logo.png" width="48" alt="AdBuster + CEPA Icon">
 
 ![AdBuster Device Module](AdBuster%20Device%20Module.png)
 
