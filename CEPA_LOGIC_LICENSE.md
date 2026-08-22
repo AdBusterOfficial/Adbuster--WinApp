@@ -1,5 +1,4 @@
-**CEPA Logic — Proprietary License & Trade Secret Agreement**  
-**© 2026 DP‑G / AdBuster Development Team — All Rights Reserved.**
+## **CEPA Logic — Proprietary License & Trade Secret Agreement — © 2026 DP‑G / AdBuster Development Team — All Rights Reserved.**
 
 CEPA Logic (Contextual Event Pattern Analysis Logic) is a proprietary, 
 confidential, and protected trade secret. By accessing, viewing, or using 
