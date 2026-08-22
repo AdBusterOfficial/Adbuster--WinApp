@@ -1,4 +1,4 @@
-### **CEPA Logic — Technical Overview**  
+## **CEPA Logic — Technical Overview**  
 ### **Version 1.0 — © 2026 AdBuster Development Team, Dublin**
 
 1. What is CEPA Logic
