@@ -1,6 +1,5 @@
-AdBuster 2.0 PRO – Proprietary License Agreement
-© 2026 AdBuster Development Team / Dublin, Ireland / D.P‑G  
-All Rights Reserved.
+## **AdBuster 2.0 PRO – Proprietary License Agreement**  
+### **© 2026 AdBuster Development Team / Dublin, Ireland / D.P‑G — All Rights Reserved.**
 
 This software (“AdBuster PRO”) is licensed, not sold.  
 By installing, accessing, or using this software, you agree to the terms of this Proprietary License Agreement.
