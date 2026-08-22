@@ -571,7 +571,7 @@ For full terms, see the dedicated license file:
 CEPA Logic is not a generic algorithm but a full contextual reasoning framework for real‑time audio event interpretation and automation.
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
-➡️ [CEPA_Logic_Overview.txt](CEPA_Logic_Overview.txt)
+➡️ [CEPA_Logic_Overview.md](CEPA_Logic_Overview.md)
 <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA.png" width="280">
 
 ### Intended Audience
