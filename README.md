@@ -1076,6 +1076,13 @@ A separate proprietary license applies to CEPA Logic:
 
 ---
 
+## 🔹 Documentation
+
+- 🟦 [Architecture Overview](docs)
+- 🟨 [Audio‑ML Training Pipeline](training_pipeline.md)
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
