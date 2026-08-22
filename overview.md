@@ -70,8 +70,7 @@ Model architecture and training methods are proprietary.
 AdBuster PRO communicates with Broadlink IR devices to send:
 
 - volume down  
-- volume up  
-- mute  
+- volume up   
 
 The IR engine includes:
 
