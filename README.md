@@ -1080,7 +1080,7 @@ A separate proprietary license applies to CEPA Logic:
 
 - 🟦 [Architecture Overview](overview.md)
 - 🟨 [Audio‑ML Training Pipeline](training_pipeline.md)
-- 🟪 [ML Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in synchronized, production‑ready conditions.
+- 🟪 [ML Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in a synchronized, stable operating environment.
 
 ---
 
