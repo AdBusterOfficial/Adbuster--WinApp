@@ -1080,6 +1080,7 @@ A separate proprietary license applies to CEPA Logic:
 
 - 🟦 [Architecture Overview](overview.md)
 - 🟨 [Audio‑ML Training Pipeline](training_pipeline.md)
+- 🟪 [ML Demos](demos/)
 
 ---
 
