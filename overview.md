@@ -1,7 +1,7 @@
 # AdBuster PRO — Architecture Overview (Public Preview)
 
-This document provides a high‑level overview of the internal architecture of AdBuster PRO.  
-It does **not** include source code, algorithms, or implementation details.  
+This document provides a high‑level overview of the internal architecture of AdBuster PRO.
+It does not include source code, algorithms, or implementation details.
 All processing is performed locally on the user’s device.
 
 ---
@@ -12,9 +12,9 @@ AdBuster PRO is a Windows application that automatically stabilizes TV audio by 
 
 The system operates entirely offline and consists of three core components:
 
-- **Audio Engine** — real‑time audio analysis  
-- **CEPA Decision Engine** — human‑like volume logic  
-- **IR Control Engine** — Broadlink integration  
+- Audio Engine — real‑time audio analysis  
+- CEPA Decision Engine — human‑like volume logic  
+- IR Control Engine — Broadlink integration  
 
 No cloud services, accounts, or external servers are used.
 
@@ -60,7 +60,7 @@ The ML layer:
 - identifies patterns typical for commercial breaks  
 - assists CEPA in decision‑making  
 
-The model runs locally and does not upload or transmit any data.  
+The model runs locally and does not upload or transmit any data.
 Model architecture and training methods are proprietary.
 
 ---
@@ -70,7 +70,7 @@ Model architecture and training methods are proprietary.
 AdBuster PRO communicates with Broadlink IR devices to send:
 
 - volume down  
-- volume up   
+- volume up  
 
 The IR engine includes:
 
