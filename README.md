@@ -1078,7 +1078,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔹 Documentation
 
-- 🟦 [Architecture Overview](docs)
+- 🟦 [Architecture Overview](overview.md)
 - 🟨 [Audio‑ML Training Pipeline](training_pipeline.md)
 
 ---
