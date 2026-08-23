@@ -5,7 +5,7 @@ It shows how CEPA interprets the audio environment deterministically and decides
 
 ## Real-Time Decision Model
 
-![CEPA Logic — Real-Time Decision v2](docs/img/CEPA_RealTimeDecision_v2.png)
+![CEPA Logic — Real-Time Decision v2](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPA_real_time_decision.jpg)
 
 ### Overview
 CEPA Logic operates as a behaviour-driven decision layer.  
@@ -22,4 +22,22 @@ The ML classifier provides only the initial context (**AD / NORMAL**), while CEP
   The classifier provides the high-level context used by CEPA.
 
 - **CEPA Decision Engine**  
-  Evaluates
+  Evaluates:
+  - loudness trend  
+  - timing stability  
+  - reaction history  
+  - contextual consistency  
+  Declares: **Trigger / Hold / Ignore**
+
+- **Reaction Control**
+  Behaviour-driven loudness control:
+  - IR volume commands  
+  - stabilization  
+  - timing synchronization
+
+- **Continuous Adaptation**
+  CEPA updates its internal state based on behaviour patterns, ensuring stable and reversible reactions.
+
+### Purpose
+This model ensures that AdBuster PRO reacts only to meaningful behavioural changes, not random spikes or noise.  
+It provides deterministic, context-aware loudness control without relying on predictive ML behaviour.
