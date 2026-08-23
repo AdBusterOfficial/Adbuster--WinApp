@@ -563,7 +563,7 @@ This repository includes an additional proprietary license covering the **CEPA L
 
 For full terms, see the dedicated license file:
 
-➡️ [CEPA_LOGIC_LICENSE.md](docs/CEPA_LOGIC_LICENSE.md)
+➡️ [CEPA_LOGIC_LICENSE.md](CEPA_LOGIC_LICENSE.md)
 
 ---
 
@@ -1072,7 +1072,7 @@ The repository is public for transparency, but all application code and models a
 No redistribution, modification or commercial use is permitted.
 
 A separate proprietary license applies to CEPA Logic:  
-**[CEPA_LOGIC_LICENSE.md](docs/CEPA_LOGIC_LICENSE.md)**
+**[CEPA_LOGIC_LICENSE.md](CEPA_LOGIC_LICENSE.md)**
 
 ---
 
