@@ -1087,7 +1087,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ---
 
-## 🎙️ AdBuster PRO — Podcast Series
+## 🎙️ AdBuster PRO — Technical Podcast Series
 
 YouTube Playlist:  
 https://tinyurl.com/45m4uwdf
