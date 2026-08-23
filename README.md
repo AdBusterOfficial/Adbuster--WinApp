@@ -28,7 +28,7 @@
 
 <p align="center">
   ⚠️ CEPA Logic is covered by an additional proprietary license included in this repository.<br>
-  See: <a href="CEPA_LOGIC_LICENSE.md">CEPA_LOGIC_LICENSE.md</a>
+  See: <a href="CEPA_LOGIC_LICENSE.md">docs/CEPA_LOGIC_LICENSE.md</a>
 </p>
 
 <p align="center">
@@ -563,7 +563,7 @@ This repository includes an additional proprietary license covering the **CEPA L
 
 For full terms, see the dedicated license file:
 
-➡️ [CEPA_LOGIC_LICENSE.md](./CEPA_LOGIC_LICENSE.md)
+➡️ [CEPA_LOGIC_LICENSE.md](docs/CEPA_LOGIC_LICENSE.md)
 
 ---
 
@@ -1068,11 +1068,11 @@ This protection prevents:
 
 AdBuster 2.0 PRO is not open‑source.  
 The repository is public for transparency, but all application code and models are covered by:  
-**[LICENSE.md](LICENSE.md)**  
+**[LICENSE.md](docs/LICENSE.md)**  
 No redistribution, modification or commercial use is permitted.
 
 A separate proprietary license applies to CEPA Logic:  
-**[CEPA_LOGIC_LICENSE.md](CEPA_LOGIC_LICENSE.md)**
+**[CEPA_LOGIC_LICENSE.md](docs/CEPA_LOGIC_LICENSE.md)**
 
 ---
 
@@ -1080,7 +1080,7 @@ A separate proprietary license applies to CEPA Logic:
 
 - 🟦 [Architecture Overview](docs/overview.md)
 - 🟨 [Audio‑ML Training Pipeline](docs/training_pipeline.md)
-- 🟫 [CEPA Logic Overview](CEPA_Logic_Overview.md)
+- 🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)
 - 🟪 [ML Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in a synchronized, stable operating environment.
 
 ---
