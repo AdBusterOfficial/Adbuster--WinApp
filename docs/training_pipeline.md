@@ -87,6 +87,6 @@ A clean dataset, proper WAV conversion and a consistent pipeline result in a sta
 
 *(The diagram below illustrates the full CEPA/AdBuster PRO audio‑ML workflow.)*
 
-![Training Pipeline Diagram](AdBuster_CEPA_ML_Training-pipeline.jpg)
+![Training Pipeline Diagram](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/AdBuster_CEPA_ML_Training-pipeline.jpg)
 
 
