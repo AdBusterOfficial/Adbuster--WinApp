@@ -1089,8 +1089,11 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔊 AdBuster PRO — Technical Podcast Series
 
-YouTube Playlist:  
-https://tinyurl.com/45m4uwdf
+**YouTube Playlist**  
+[AdBuster PRO — YouTube](https://tinyurl.com/45m4uwdf)
+
+**Spotify**  
+[AdBuster PRO — Spotify](https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w)
 
 This podcast explains the entire AdBuster 2.0 PRO process — ML audio understanding, CEPA decision logic, real‑time loudness stabilization, and more.
 
