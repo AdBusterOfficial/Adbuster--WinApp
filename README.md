@@ -552,7 +552,7 @@ Short demo recorded quickly on a phone — quality is low, but it clearly shows 
 ---
 
 ## 🗂️ Documentation
-➡️ Full documentation is available in the [overview.md](overview.md) file.
+➡️ Full documentation is available in the [overview.md](docs/overview.md) file.
 
 ---
 
