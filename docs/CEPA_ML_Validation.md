@@ -1,3 +1,4 @@
+
 # CEPA Logic — ML Validation Layer
 
 This document describes the machine‑learning validation layer in the AdBuster PRO architecture.  
@@ -7,7 +8,7 @@ This layer is responsible for confirming the reliability of the model’s output
 
 ## Diagram
 
-![CEPA Logic — ML Validation Layer](CEPAlogic_MLvalidation_layer.png)
+![CEPA Logic — ML Validation Layer](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPAlogic_MLvalidation_layer.png)
 
 The diagram shows the flow:
 
