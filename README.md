@@ -260,7 +260,7 @@ Lightweight model used for fast AD/NORMAL predictions based on short‑term RMS 
 Deep behavioural model trained offline.  
 Evaluates long‑term stability, drift, compression and contextual loudness patterns.
 
-These two models are included in the downloadable ZIP package.
+📌 *These two models are included in the downloadable ZIP package.*
 
 ---
 
@@ -270,7 +270,14 @@ These two models are included in the downloadable ZIP package.
 This model is part of the **development branch** and is not included in the public ZIP release.  
 It is trained using the new CSV‑based pipeline and provides an additional AD/NORMAL confirmation layer.
 
+📌 **ad_detector.pkl preview**
+
 ![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ad_detector.pkl.png)
+
+<br>
+
+📌 **data.csv preview**
+
 ![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
 
 ---
@@ -291,7 +298,6 @@ CEPA produces the final action: **VOL_UP / VOL_DOWN / PASS**.
 
 ### 🔹 Full Documentation
 - ⬛ [Model & Dataset Overview](docs/model.md)
-
 
 
 ### 🧮 AdBuster — Detection Engine
