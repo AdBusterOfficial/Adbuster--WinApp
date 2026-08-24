@@ -243,6 +243,57 @@ Automatic volume changes are always constrained by:
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
 At the center sits CEPA, the decision‑making brain that connects everything.
 
+
+## 📦 Models Overview (ML Engine)
+
+AdBuster 2.0 PRO uses a multi‑layer machine‑learning system.  
+The public ZIP release includes two models, while the development version adds a third, more advanced classifier.
+
+---
+
+### 🔹 **Current Models (Public Release ZIP)**
+
+#### ML1 — Short‑Term Classifier (`model.pkl`)
+Lightweight model used for fast AD/NORMAL predictions based on short‑term RMS history.
+
+#### ML PRO — Long‑Term Behaviour Model (`model_deep.pkl`)
+Deep behavioural model trained offline.  
+Evaluates long‑term stability, drift, compression and contextual loudness patterns.
+
+These two models are included in the downloadable ZIP package.
+
+---
+
+### 🔹 **Experimental Model (Development Version)**
+
+#### AD Detector — Advertisement Classifier (`ad_detector.pkl`)
+This model is part of the **development branch** and is not included in the public ZIP release.  
+It is trained using the new CSV‑based pipeline and provides an additional AD/NORMAL confirmation layer.
+
+![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ad_detector.pkl.png)
+![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
+
+---
+
+### 🔹 **CEPA — The Real Decision Engine**
+CEPA combines:
+- ML1 short‑term signals  
+- ML PRO long‑term context  
+- (optional) AD Detector confirmation  
+- real‑time audio behaviour  
+- stability zones  
+- spike detection  
+- safety limits  
+
+CEPA produces the final action: **VOL_UP / VOL_DOWN / PASS**.
+
+---
+
+### 🔹 Full Documentation
+- ⬛ [Model & Dataset Overview](docs/model.md)
+
+
+
 ### 🧮 AdBuster — Detection Engine
 Captures audio from the microphone
 Computes RMS, peaks, dynamics, drift and spikes
