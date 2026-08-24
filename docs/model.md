@@ -52,5 +52,5 @@ with open("ad_detector.pkl", "rb") as f:
 
 This page shows:
 - a visual preview of the classifier model (`ad_detector.pkl`)
-- a preview of the training dataset (`data.csv`)
+- a visual preview of the training dataset (`data.csv`)
 - a short explanation of how the model is used
