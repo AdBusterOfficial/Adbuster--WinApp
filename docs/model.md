@@ -1,21 +1,8 @@
 
 # Model Overview
 
-This document provides a visual overview of the training dataset (`data.csv`)  
-and the classifier model (`ad_detector.pkl`) used in the project.
-
----
-
-## Training Dataset (CSV)
-
-The dataset consists of behaviour‑extracted numerical features followed by a label:  
-**AD** (advertisement‑like behaviour) or **NORMAL** (regular audio behaviour).
-
-Below is a preview of the CSV file:
-
-![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
-
-The full dataset is stored offline and only a preview is included here.
+This document provides a visual overview of the classifier model (`ad_detector.pkl`)  
+and the training dataset (`data.csv`) used in the project.
 
 ---
 
@@ -37,6 +24,19 @@ ad_detector.pkl
 
 ---
 
+## Training Dataset (CSV)
+
+The dataset consists of behaviour‑extracted numerical features followed by a label:  
+**AD** (advertisement‑like behaviour) or **NORMAL** (regular audio behaviour).
+
+Below is a preview of the CSV file:
+
+![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
+
+The full dataset is stored offline and only a preview is included here.
+
+---
+
 ## Loading the Model (Python Example)
 
 ```
@@ -51,6 +51,6 @@ with open("ad_detector.pkl", "rb") as f:
 ## Summary
 
 This page shows:
-- a visual preview of the training dataset (`data.csv`)
 - a visual preview of the classifier model (`ad_detector.pkl`)
+- a preview of the training dataset (`data.csv`)
 - a short explanation of how the model is used
