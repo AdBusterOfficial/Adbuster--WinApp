@@ -83,6 +83,42 @@ with open("ad_detector.pkl", "rb") as f:
 
 ---
 
+## Model Limitations
+
+While the `ad_detector.pkl` classifier is effective for behaviour‑based AD detection,
+it has several important limitations:
+
+### Behaviour‑Only Analysis
+The model does **not** analyse audio content or semantics.  
+It relies purely on numerical behaviour features (RMS, peaks, ratios).  
+This means it detects *patterns typical for advertisements*, not the actual audio meaning.
+
+### No Real‑Time Training
+The model is trained offline and cannot update itself during runtime.  
+Any improvements require retraining and exporting a new PKL file.
+
+### Feature Order Dependency
+The classifier expects features in the **exact same order** as in `data.csv`.  
+Changing column order or adding new features will break inference unless the model is retrained.
+
+### Limited Generalization
+The model performs well on behaviour patterns similar to the training dataset.  
+Unusual audio sources or extreme processing may reduce accuracy.
+
+### No Confidence Scores Exposed
+The PKL contains probability outputs internally, but the current application
+does not expose confidence levels (e.g., 0.87 AD).  
+Only the final AD/NORMAL label is used.
+
+### Offline‑Only
+The model runs fully offline and does not use cloud‑based enhancements,
+which improves privacy but limits large‑scale learning.
+
+These limitations are typical for lightweight, behaviour‑based classifiers
+and do not affect the stability of the AdBuster workflow.
+
+---
+
 ## Summary
 
 This page shows:
