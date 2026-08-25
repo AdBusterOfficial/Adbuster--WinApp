@@ -125,3 +125,47 @@ This page shows:
 - a visual preview of the classifier model (`ad_detector.pkl`)
 - a visual preview of the training dataset (`data.csv`)
 - a short explanation of how both components are used
+
+---
+
+## Future Improvements
+
+Several enhancements could be considered for future versions of the classifier:
+
+### Expanded Feature Set
+Additional behaviour‑based features (e.g., spectral metrics, transient detection,
+dynamic range indicators) could improve classification accuracy.
+
+### Confidence Score Output
+Exposing the model’s probability output (e.g., AD = 0.87) would allow the
+application to make more nuanced decisions instead of binary labels.
+
+### Retraining Pipeline
+A dedicated training pipeline could automate:
+- dataset updates
+- feature extraction
+- model retraining
+- PKL export
+
+This would simplify future improvements and ensure consistent model quality.
+
+### Real‑Time Adaptation
+Although the current model is offline‑only, future versions could incorporate
+lightweight online learning or adaptive thresholds based on recent behaviour.
+
+### Feature Normalization
+Adding normalization or scaling steps could improve robustness across
+different audio sources and recording environments.
+
+### Model Architecture Exploration
+While Random Forest is stable and reliable, future experiments could evaluate:
+- gradient boosting models
+- lightweight neural networks
+- hybrid behaviour‑content approaches
+
+These may offer better generalization on diverse audio patterns.
+
+These improvements are optional and not required for the current AdBuster workflow,
+but they outline possible directions for future development.
+
+---
