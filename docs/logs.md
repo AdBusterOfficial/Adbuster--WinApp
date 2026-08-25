@@ -7,6 +7,7 @@ This snapshot shows the backend workflow of the Broadlink control layer:
 - Broadlink discovery + authentication
 - IR command execution (VOL_UP / VOL_DOWN)
 
+<br>
 
 ![Broadlink Server Log](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/broadlink_server_log.png)
 
