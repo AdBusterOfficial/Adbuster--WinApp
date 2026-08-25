@@ -1138,7 +1138,7 @@ A separate proprietary license applies to CEPA Logic:
 - 🟦 [Architecture Overview](docs/overview.md)
 - 🟨 [Audio‑ML Training Pipeline](docs/training_pipeline.md)
 - 🟩 [Behaviour Zones](docs/Behaviour_Zones.md)
-- ⬜ [Runtime Logs](docs/logs.md)
+- ⬜ [Broadlink Server Log](docs/logs.md)
 - 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)
 - ⬛ [Model & Dataset Overview](docs/model.md)
 - 🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)
