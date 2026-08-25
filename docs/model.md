@@ -10,6 +10,8 @@ and the training dataset (`data.csv`) used in the project.
 The image below shows the binary model file.  
 PKL files are not human‑readable, so a visual preview is provided instead.
 
+<br>
+
 ![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ad_detector.pkl.png)
 
 **Model file location:**  
