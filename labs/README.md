@@ -6,14 +6,18 @@ Nothing in this folder is part of the main AdBuster PRO application.
 
 ---
 
-## 📄 Research Dataset — `data.csv`
+📄 Research Dataset — `data.csv`
 
-`data.csv` is a MFCC‑based feature dataset generated from a small, controlled set of audio samples (AD vs NORMAL).  
+`data.csv` is a MFCC‑based feature dataset generated from a small, controlled set of audio samples (AD vs NORMAL).
+
+**Download:**  
+[📦 data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/data.csv)
+
 It exists solely for:
 
-- validating MFCC feature stability,  
-- testing RandomForest behavior,  
-- demonstrating the offline DSP → ML workflow,  
+- validating MFCC feature stability,
+- testing RandomForest behavior,
+- demonstrating the offline DSP → ML workflow,
 - serving as a baseline for future dataset expansion.
 
 This is **not** production data.
