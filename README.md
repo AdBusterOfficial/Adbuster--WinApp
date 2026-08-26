@@ -1149,7 +1149,7 @@ A separate proprietary license applies to CEPA Logic:
 
 🔵 [Audio‑ML Training Pipeline](labs/training_pipeline.md)  
 🟣 [Model & Dataset Overview](labs/model.md)  
-🟠 [AdusterML Research Labs](labs/README.md)
+🟠 [Research Labs Overview](labs/README.md)
 
 ---
 
