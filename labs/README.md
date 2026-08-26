@@ -31,7 +31,7 @@ It was generated using:
 - a controlled AD/NORMAL dataset
 
 Model link:  
-https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detector.pkl
+[📦 Download ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detector.pkl)
 
 This model is **not** used in AdBuster PRO.  
 It serves only as a prototype for testing binary audio classification and future multi‑class logic.
