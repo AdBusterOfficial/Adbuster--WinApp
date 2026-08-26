@@ -1135,15 +1135,21 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔶 Documentation
 
-- 🟦 [Architecture Overview](docs/overview.md)
-- 🟨 [Audio‑ML Training Pipeline](labs/training_pipeline.md)
-- 🟩 [Behaviour Zones](docs/Behaviour_Zones.md)
-- ⬜ [Broadlink Server Log](docs/logs.md)
-- 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)
-- ⬛ [Model & Dataset Overview](labs/model.md)
-- 🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)
-- 🟥 [CEPA Real‑Time Decision v2](docs/CEPA_RealTimeDecision_v2.md)
-- 🟪 [AdBuster Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in a synchronized, stable operating environment.
+🟦 [Architecture Overview](docs/overview.md)
+🟩 [Behaviour Zones](docs/Behaviour_Zones.md)
+⬜ [Broadlink Server Log](docs/logs.md)
+🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)
+🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)
+🟥 [CEPA Real‑Time Decision v2](docs/CEPA_RealTimeDecision_v2.md)
+🟪 [AdBuster Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in a synchronized, stable operating environment.
+
+---
+
+## 🔵 AdusterML Research Labs
+
+🔵 [Audio‑ML Training Pipeline](labs/training_pipeline.md)
+🟣 [Model & Dataset Overview](labs/model.md)
+🟠 [AdusterML Research Labs](labs/README.md)
 
 ---
 
