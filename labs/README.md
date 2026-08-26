@@ -1,5 +1,5 @@
 
-# AdusterML Research Labs
+# Adbuster Research Labs
 
 This directory contains research-only materials used during development and prototyping of the offline AdusterML machine learning pipeline.
 Nothing in this folder is part of the main AdBuster PRO application.
