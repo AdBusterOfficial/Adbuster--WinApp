@@ -12,5 +12,4 @@ Initial evaluation shows an 87% accuracy and a weighted F1‑score of 0.87, with
 
 ![AdusterML Data Builder](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/AdusterML_data_builder.png)
 
-#MachineLearning #AudioProcessing #RandomForest #OfflineAI #MFCC #AdBusterPRO
 
