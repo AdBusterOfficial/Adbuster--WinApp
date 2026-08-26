@@ -110,4 +110,4 @@ The `labs/` directory is a sandbox for experimentation, used to:
 - prototype future multi‑class audio detection,  
 - store temporary research artifacts.  
 
-It is intentionally separated from the main application codebase.
+This folder contains research artifacts only and is not part of the AdBuster PRO WinApp release.
