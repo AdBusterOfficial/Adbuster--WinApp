@@ -12,7 +12,7 @@ PKL files are not human‑readable, so a visual preview is provided instead.
 
 <br>
 
-![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ad_detector.pkl.png)
+![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detector.pkl.png)
 
 **Model file location:**  
 `ad_detector.pkl`  
