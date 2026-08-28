@@ -97,7 +97,7 @@ These results confirm that the MFCC feature space and RandomForest decision path
 
 ## 📷 Research Screenshot
 
-![AdusterML Data Builder](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/AdusterML_data_builder.png)
+![AdusterML Data Builder](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdusterML_data_builder.png)
 
 ---
 
