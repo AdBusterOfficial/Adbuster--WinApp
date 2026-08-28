@@ -105,6 +105,16 @@ These results confirm that the MFCC feature space and RandomForest decision path
 
 ---
 
+## 🎧 CEPA Behaviour Examples
+
+The AdBuster lab also contains behaviour previews showing how CEPA Logic PRO reacts in real time:
+
+- [MUSIC Behaviour](./CEPA_music_behaviour.md)
+
+More behaviour examples will be added as research continues.
+
+---
+
 ## 📌 Purpose of this folder
 
 The `labs/` directory is a sandbox for experimentation, used to:
