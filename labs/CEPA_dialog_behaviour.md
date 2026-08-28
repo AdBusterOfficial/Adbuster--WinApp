@@ -6,7 +6,7 @@ Dialogue behaves differently from music or ads, and CEPA Logic PRO is designed t
 
 ---
 
-## Real‑Time Example
+## 📈 Real‑Time Example
 
 **Current level:** 41  
 **Baseline:** 36  
@@ -23,7 +23,7 @@ Since 5 > 5.0, CEPA executes VOL_DOWN through the IR server, reducing the TV vol
 
 ---
 
-## Behaviour Explanation
+## 🧠 Behaviour Explanation
 
 In DIALOG context, CEPA Logic PRO focuses on:
 
@@ -39,7 +39,7 @@ This ensures that dialogue remains comfortable and intelligible.
 
 ---
 
-## Decision Logic Summary
+## ⚙️ Decision Logic Summary
 
 CEPA evaluates:
 
@@ -56,6 +56,6 @@ This prevents unnecessary volume changes while still catching disruptive spikes.
 
 ---
 
-## Summary
+## 📌 Summary
 
 This example demonstrates how CEPA Logic PRO stabilizes dialogue — reacting only when long spikes occur and maintaining clear, consistent speech.
