@@ -1149,7 +1149,9 @@ A separate proprietary license applies to CEPA Logic:
 
 🔵 [Audio‑ML Training Pipeline](labs/training_pipeline.md)  
 🟣 [Model & Dataset Overview](labs/model.md)  
-🟠 [Research Labs Overview](labs/README.md)
+🟠 [Research Labs Overview](labs/README.md)  
+🟡 [AD Detection Upgrade](labs/ad_detection_upgrade.md)  
+🔴 [CEPA PRO Overview](labs/CEPA_PRO_Overview.md)
 
 ---
 
