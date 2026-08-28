@@ -118,7 +118,7 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 ## 🔍 Why Metrics Differ Between Runs
 
 This section explains why evaluation results may differ from the metrics shown in the upgrade analysis:  
-[ AD Detection Upgrade](./ad_detection_upgrade.md)
+- [ AD Detection Upgrade](./ad_detection_upgrade.md)
 
 Small research datasets naturally produce fluctuating accuracy and F1‑scores between runs, especially when AD and NORMAL classes are imbalanced or highly variable.
 
