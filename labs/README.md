@@ -115,6 +115,66 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 
 ---
 
+## 🔍 Why Metrics Differ Between Runs
+
+Model evaluation results can vary between runs, especially when working with a **small, controlled dataset** like the one used in the AdBuster Research Labs. Several technical factors naturally cause differences such as 0.87 → 0.80 accuracy or shifts in F1‑scores.
+
+### **1. Small Dataset Sensitivity**
+With limited samples (AD vs NORMAL only), even minor changes in train/test splits can significantly affect metrics.  
+Small datasets do **not** represent full real‑world variability, so results fluctuate more than in large‑scale ML pipelines.
+
+### **2. Random Train/Test Splits**
+Each evaluation uses a different random split unless explicitly fixed.  
+This changes:
+
+- how many AD samples land in training vs testing  
+- how many NORMAL samples land in training vs testing  
+- the balance between classes  
+
+Different splits → different metrics.
+
+### **3. Class Difficulty Differences**
+The AD class is more uniform and has stronger MFCC signatures.  
+The NORMAL class is more diverse and harder to model.
+
+This naturally leads to:
+
+- **higher AD precision/recall**  
+- **lower NORMAL precision/recall**  
+- overall accuracy shifting depending on class distribution in the test set
+
+### **4. RandomForest Variability**
+RandomForest uses:
+
+- bootstrap sampling  
+- random feature selection  
+- tree‑level randomness  
+
+Even with the same dataset, the ensemble can produce slightly different decision boundaries between runs.
+
+### **5. MFCC Feature Variability**
+MFCC features are stable but still sensitive to:
+
+- sample length  
+- noise floor  
+- slight differences in preprocessing  
+
+This can shift decision paths in the RandomForest.
+
+---
+
+## **Summary**
+Differences like:
+
+- **87% → 80% accuracy**  
+- **0.87 → 0.80 weighted F1‑score**  
+- class‑level changes (AD 0.83 vs NORMAL 0.74)
+
+are **normal, expected, and technically correct** for a small research dataset.  
+They do **not** indicate a problem with the model — they simply reflect the statistical nature of ML evaluation at early R&D stages.
+
+---
+
 ## 📌 Purpose of this folder
 
 The `labs/` directory is a sandbox for experimentation, used to:
