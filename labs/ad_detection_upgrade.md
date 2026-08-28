@@ -11,7 +11,7 @@ This branch exists purely for research and validation purposes.
 
 The image below presents the current evaluation results of the experimental model:
 
-![AD Detection Upgrade](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/AD_detection_upgrade.png)
+![AD Detection Upgrade](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AD_detection_upgrade.png)
 
 ### Main Metrics
 - **Accuracy:** 0.80  
