@@ -66,7 +66,7 @@ The dataset consists of behaviour‑extracted numerical features followed by a l
 
 Below is a preview of the CSV file:
 
-![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
+![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/data.csv.png)
 
 *This preview shows the structure of the data used to train the classifier.*
 
