@@ -1,8 +1,12 @@
 
-# Adbuster Research Labs
+![AdBuster Hardware Concept](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Banner_NEW_GOLD_labs.png)
 
-This directory contains research-only materials used during development and prototyping of the offline AdBuster machine learning pipeline.
+# AdBuster Research Labs
+
+This directory contains research‑only materials used during development and prototyping of the offline AdBuster machine learning pipeline.  
 Nothing in this folder is part of the main AdBuster PRO application.
+
+The image above is a **fictional hardware concept** — a futuristic vision of how AdBuster could look as a dedicated CEPA‑powered device.
 
 ---
 
