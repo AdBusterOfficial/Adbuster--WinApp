@@ -5,7 +5,7 @@ Unlike MUSIC mode, NORMAL behaviour focuses on stabilizing loudness and preventi
 
 ---
 
-## Real‑Time Example
+## 📈 Real‑Time Example
 
 **Current TV level:** 42  
 **Baseline:** 35  
@@ -25,7 +25,7 @@ The command VOL_DOWN is sent to the IR server, and the TV volume decreases.
 
 ---
 
-## Behaviour Explanation
+## 🧠 Behaviour Explanation
 
 In NORMAL context, CEPA Logic PRO focuses on:
 
@@ -41,7 +41,7 @@ This ensures that the audio stays comfortable and predictable without sudden jum
 
 ---
 
-## Decision Logic Summary
+## ⚙️ Decision Logic Summary
 
 CEPA evaluates:
 
@@ -59,7 +59,6 @@ This prevents over‑reacting to small fluctuations while still catching real lo
 
 ---
 
-## Summary
+## 📌 Summary
 
 This example demonstrates how CEPA Logic PRO stabilizes loudness during NORMAL content — reacting only when drift becomes significant and maintaining consistent listening comfort.
-
