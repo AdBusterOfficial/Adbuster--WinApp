@@ -172,6 +172,7 @@ Differences like:
 
 are **normal, expected, and technically correct** for a small research dataset.  
 They do **not** indicate a problem with the model — they simply reflect the statistical nature of ML evaluation at early R&D stages.
+](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detection_upgrade.md)
 
 ---
 
