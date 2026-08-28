@@ -8,7 +8,7 @@ This document shows a real example of how the engine reacts to music in real tim
 
 ## 🎧 Real‑Time Example
 
-![CEPA MUSIC Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/CEPA_music_behaviour.png)
+![CEPA MUSIC Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa_music_behaviour.png)
 
 **Current level:** 40  
 **Baseline:** 38  
