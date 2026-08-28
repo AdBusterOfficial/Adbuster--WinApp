@@ -117,13 +117,14 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 
 ## 🔍 Why Metrics Differ Between Runs
 
-Model evaluation results can vary between runs, especially when working with a **small, controlled dataset** like the one used in the AdBuster Research Labs. Several technical factors naturally cause differences such as 0.87 → 0.80 accuracy or shifts in F1‑scores.
+This section explains why evaluation results may differ from the metrics shown earlier in the [🧪 Research Summary](#-research-summary).  
+Small datasets naturally produce fluctuating accuracy and F1‑scores between runs, especially when AD and NORMAL classes are imbalanced or highly variable.
 
-### **1. Small Dataset Sensitivity**
-With limited samples (AD vs NORMAL only), even minor changes in train/test splits can significantly affect metrics.  
+### 🔹 1. Small Dataset Sensitivity
+With limited samples, even minor changes in train/test splits can significantly affect metrics.  
 Small datasets do **not** represent full real‑world variability, so results fluctuate more than in large‑scale ML pipelines.
 
-### **2. Random Train/Test Splits**
+### 🔹 2. Random Train/Test Splits
 Each evaluation uses a different random split unless explicitly fixed.  
 This changes:
 
@@ -133,7 +134,7 @@ This changes:
 
 Different splits → different metrics.
 
-### **3. Class Difficulty Differences**
+### 🔹 3. Class Difficulty Differences
 The AD class is more uniform and has stronger MFCC signatures.  
 The NORMAL class is more diverse and harder to model.
 
@@ -143,7 +144,7 @@ This naturally leads to:
 - **lower NORMAL precision/recall**  
 - overall accuracy shifting depending on class distribution in the test set
 
-### **4. RandomForest Variability**
+### 🔹 4. RandomForest Variability
 RandomForest uses:
 
 - bootstrap sampling  
@@ -152,7 +153,7 @@ RandomForest uses:
 
 Even with the same dataset, the ensemble can produce slightly different decision boundaries between runs.
 
-### **5. MFCC Feature Variability**
+### 🔹 5. MFCC Feature Variability
 MFCC features are stable but still sensitive to:
 
 - sample length  
@@ -163,16 +164,15 @@ This can shift decision paths in the RandomForest.
 
 ---
 
-## **Summary**
-Differences like:
+## 🔹 Summary
+Differences such as:
 
 - **87% → 80% accuracy**  
 - **0.87 → 0.80 weighted F1‑score**  
 - class‑level changes (AD 0.83 vs NORMAL 0.74)
 
-are **normal, expected, and technically correct** for a small research dataset.  
+are **normal and expected** for a small research dataset.  
 They do **not** indicate a problem with the model — they simply reflect the statistical nature of ML evaluation at early R&D stages.
-](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detection_upgrade.md)
 
 ---
 
