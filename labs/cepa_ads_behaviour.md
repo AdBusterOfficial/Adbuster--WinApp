@@ -1,6 +1,6 @@
 # CEPA Logic PRO — ADS Behaviour
 
- ![CEPA Logic PRO — ADS Behaviour](labs/cepa_ads_behaviour.png)
+ ![CEPA Logic PRO — ADS Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa_ads_behaviour.png)
 
 Advertisements behave differently from music, dialogue, or regular TV content.  
 They are mixed louder, have a higher crest factor, stronger compression, jingles, impact bursts, and fast transitions.  
