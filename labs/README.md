@@ -112,6 +112,7 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 - [MUSIC Behaviour](./CEPA_music_behaviour.md)
 - [DIALOG Behaviour](./CEPA_dialog_behaviour.md)
 - [NORMAL Behaviour](./CEPA_normal_behaviour.md)
+- [ADS Behaviour](./cepa_ads_behaviour.md)
 
 ---
 
