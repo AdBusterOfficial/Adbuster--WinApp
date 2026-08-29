@@ -1,5 +1,7 @@
 # CEPA Logic PRO — NORMAL Behaviour
 
+![CEPA Logic PRO — NORMAL Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa_normal_behaviour.png)
+
 This document shows how CEPA Logic PRO reacts to rising loudness during NORMAL content (dialogue, shows, movies).  
 Unlike MUSIC mode, NORMAL behaviour focuses on stabilizing loudness and preventing unwanted drift.
 
