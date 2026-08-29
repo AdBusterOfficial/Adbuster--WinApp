@@ -1,5 +1,6 @@
-
 # CEPA Logic PRO — DIALOG Behaviour
+
+![CEPA Logic PRO — DIALOG Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa_dialog_behaviour.png)
 
 This document shows how CEPA Logic PRO reacts to dialogue in real time.  
 Dialogue behaves differently from music or ads, and CEPA Logic PRO is designed to detect and stabilize it with high precision.
