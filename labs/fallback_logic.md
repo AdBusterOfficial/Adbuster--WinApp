@@ -64,12 +64,12 @@ It acts as a buffer between uncertain detection and confident CEPA logic.
 ## 📌 Purpose of This Diagram
 
 The fallback logic diagram is part of the CEPA PRO documentation and helps visualize how the system behaves during ambiguous audio conditions.  
-It complements other CEPA behaviour diagrams:
+It complements other CEPA behaviour diagrams (see main README):
 
-- MUSIC Behaviour  
-- DIALOG Behaviour  
-- NORMAL Behaviour  
-- ADS Behaviour  
+- MUSIC Behaviour
+- DIALOG Behaviour
+- NORMAL Behaviour
+- ADS Behaviour
 - AD MODE Logic
 
 Together, these diagrams form a complete overview of CEPA’s real‑time decision system.
