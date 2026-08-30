@@ -193,3 +193,15 @@ The `labs/` directory is a sandbox for experimentation, used to:
 - store temporary research artifacts.  
 
 This folder contains research artifacts only and is not part of the AdBuster PRO WinApp release.
+
+---
+
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
+---
+
+<br>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="840">
+</p>
