@@ -113,6 +113,7 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 - [DIALOG Behaviour](./CEPA_dialog_behaviour.md)
 - [NORMAL Behaviour](./CEPA_normal_behaviour.md)
 - [ADS Behaviour](./CEPA_ads_behaviour.md)
+- [AD MODE Logic](./AD_mode_logic.md)
 
 ---
 
