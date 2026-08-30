@@ -109,13 +109,14 @@ These results confirm that the MFCC feature space and RandomForest decision path
 
 The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in real time:
 
+- [ADS Behaviour](./CEPA_ads_behaviour.md)
+- [AD MODE Logic](./AD_mode_logic.md)
+- [Fallback Logic](./fallback_logic.md)
+- [ML‑Auto Mode](./mode_ML-Auto_on.md)
 - [MUSIC Behaviour](./CEPA_music_behaviour.md)
 - [DIALOG Behaviour](./CEPA_dialog_behaviour.md)
 - [MUSIC MODE Logic](./music_mode_logic.md)
 - [NORMAL Behaviour](./CEPA_normal_behaviour.md)
-- [ADS Behaviour](./CEPA_ads_behaviour.md)
-- [AD MODE Logic](./AD_mode_logic.md)
-- [Fallback Logic](./fallback_logic.md)
 
 ---
 
