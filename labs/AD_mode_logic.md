@@ -1,16 +1,16 @@
 # AD MODE Logic — AdBuster PRO
 
 Below is the full logic of the **AD MODE** in AdBuster PRO.  
-This mechanism is responsible for detecting advertisements in the audio stream and instantly suppressing their loudness before the listener feels the spike.
+This mechanism detects advertisements in the audio stream and instantly suppresses their loudness before the listener feels the spike.
 
-![AD MODE Logic](labs/AD_mode_logic.png)
+<img src="labs/AD_mode_logic.png" width="900">
 
 ---
 
 ## 🔍 Overview
 
-**AD MODE** is activated when ML detects an advertisement in the audio.  
-The system switches into a protection mode, blocking volume increase and enforcing stable, comfortable CEPA behaviour.
+**AD MODE** activates when ML detects an advertisement.  
+The system switches into protection mode, blocking volume increases and enforcing stable CEPA behaviour.
 
 ---
 
@@ -18,8 +18,8 @@ The system switches into a protection mode, blocking volume increase and enforci
 
 - `DETECT_AD() == NORMAL`  
 - `ad_mode = False`  
-- CEPA works in standard mode  
-- Dialog + music are allowed  
+- CEPA operates in standard mode  
+- Dialog + music allowed  
 - Fallback: **UP + DOWN**  
 - Final behaviour:  
   - Smooth volume control  
@@ -35,7 +35,7 @@ The system switches into a protection mode, blocking volume increase and enforci
 - CEPA blocks **VOL_UP**  
 - Fallback: **ONLY DOWN**  
 - Final behaviour:  
-  - Ad-volume suppression  
+  - Ad‑volume suppression  
   - Fast reaction to ads  
   - CEPA resumes after ad
 
@@ -43,5 +43,4 @@ The system switches into a protection mode, blocking volume increase and enforci
 
 ## 📘 Notes
 
-This logic is a core part of CEPA 2.0 PRO and forms the foundation for stable, predictable system behaviour during advertisement segments.
-
+This logic is a core part of CEPA 2.0 PRO and ensures predictable, stable behaviour during advertisement segments.
