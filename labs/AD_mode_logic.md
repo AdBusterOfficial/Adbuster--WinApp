@@ -3,7 +3,7 @@
 Below is the full logic of the **AD MODE** in AdBuster PRO.  
 This mechanism detects advertisements in the audio stream and instantly suppresses their loudness before the listener feels the spike.
 
-![AD MODE Logic](labs/AD_mode_logic.png)
+![AD MODE Logic — AdBuster PRO](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AD_mode_logic.png)
 
 ---
 
