@@ -1,4 +1,3 @@
-
 # CEPA PRO — Full Engine Overview
 
 CEPA PRO is a multi‑layer perception and decision engine that stabilizes TV loudness in real time.  
@@ -6,11 +5,11 @@ It does not rely on simple “loud/quiet” rules — instead, it analyzes conte
 
 CEPA PRO consists of five layers:
 
-1. Perception  
-2. Intent  
-3. Comfort  
-4. Behaviour  
-5. Action  
+- Perception  
+- Intent  
+- Comfort  
+- Behaviour  
+- Action  
 
 Together, these layers form a complete loudness‑stabilization system.
 
@@ -29,10 +28,10 @@ The perception layer generates an event describing the current audio state:
 
 CEPA PRO distinguishes:
 
-- short impulses (SPIKE_SHORT),  
-- long spikes (SPIKE_LONG),  
-- slow upward drift (DRIFT_UP),  
-- slow downward drift (DRIFT_DOWN).
+- short impulses (**SPIKE_SHORT**)  
+- long spikes (**SPIKE_LONG**)  
+- slow upward drift (**DRIFT_UP**)  
+- slow downward drift (**DRIFT_DOWN**)  
 
 The baseline adapts dynamically — faster for large changes, slower for small ones.
 
@@ -73,13 +72,13 @@ User comfort influences how aggressively CEPA PRO reacts.
 
 CEPA PRO uses a lightweight state machine:
 
-- NORMAL  
-- AD  
-- DIALOG  
-- MUSIC  
-- TRANSITION_UP  
-- TRANSITION_DOWN  
-- RETURN  
+- **NORMAL**  
+- **AD**  
+- **DIALOG**  
+- **MUSIC**  
+- **TRANSITION_UP**  
+- **TRANSITION_DOWN**  
+- **RETURN**
 
 Examples:
 
@@ -87,7 +86,7 @@ Examples:
 - **DIALOG** → protect speech clarity  
 - **MUSIC** → tolerant behavior  
 - **DRIFT_UP** → switch to TRANSITION_UP  
-- **RETURN** → stabilize after ads
+- **RETURN** → stabilize after ads  
 
 The state affects how CEPA PRO interprets events and margins.
 
@@ -103,18 +102,18 @@ The action layer decides:
 
 Based on:
 
-- margins (base / ad / dialog),  
-- behaviour state,  
-- intent,  
-- diff,  
-- step delay,  
-- correction limits.
+- margins (base / ad / dialog)  
+- behaviour state  
+- intent  
+- diff  
+- step delay  
+- correction limits  
 
 Decision rules:
 
-- diff > margin → VOL_DOWN  
-- diff < -margin → VOL_UP  
-- otherwise → no action  
+- **diff > margin → VOL_DOWN**  
+- **diff < -margin → VOL_UP**  
+- **otherwise → no action**
 
 CEPA PRO avoids chaotic volume changes by enforcing timing and frequency limits.
 
@@ -122,26 +121,26 @@ CEPA PRO avoids chaotic volume changes by enforcing timing and frequency limits.
 
 ## 🔊 Practical Behavior
 
-### 🎵 MUSIC  
-Natural variations tolerated.  
-Stable rise → GOOD_LOUDNESS.  
-SPIKE_SHORT → GOOD_LOUDNESS.  
+### 🎵 MUSIC
+- Natural variations tolerated  
+- Stable rise → GOOD_LOUDNESS  
+- SPIKE_SHORT → GOOD_LOUDNESS  
 CEPA PRO avoids unnecessary corrections.
 
-### 🎙️ DIALOG  
-SPIKE_LONG → BAD_LOUDNESS → VOL_DOWN.  
-SPIKE_SHORT → NEUTRAL.  
+### 🎙️ DIALOG
+- SPIKE_LONG → BAD_LOUDNESS → VOL_DOWN  
+- SPIKE_SHORT → NEUTRAL  
 CEPA PRO protects speech clarity.
 
-### 📺 NORMAL  
-DRIFT_UP → TRANSITION_UP → margin tightens.  
-SPIKE_LONG → BAD_LOUDNESS.  
+### 📺 NORMAL
+- DRIFT_UP → TRANSITION_UP → margin tightens  
+- SPIKE_LONG → BAD_LOUDNESS  
 CEPA PRO stabilizes general loudness.
 
-### 📢 AD  
-Always BAD_LOUDNESS.  
-Margin tightened.  
-Fast reaction.
+### 📢 AD
+- Always BAD_LOUDNESS  
+- Margin tightened  
+- Fast reaction  
 
 ---
 
@@ -149,11 +148,11 @@ Fast reaction.
 
 CEPA PRO behaves like a real user:
 
-1. perceives the signal,  
-2. understands its intent,  
-3. respects comfort,  
-4. chooses a behavior state,  
-5. executes a controlled action.
+- perceives the signal,  
+- understands its intent,  
+- respects comfort,  
+- chooses a behavior state,  
+- executes a controlled action.
 
 This makes AdBuster PRO react not to raw loudness, but to:
 
