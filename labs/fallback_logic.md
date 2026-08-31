@@ -48,6 +48,41 @@ This ensures the system never amplifies potentially loud or harmful segments.
 
 ---
 
+## 🧪 Practical Examples of Fallback Logic
+
+### Example 1 — ML Misclassification  
+The ML classifier briefly labels a segment as MUSIC, but the loudness pattern resembles an advertisement.  
+CEPA attempts a VOL_UP (because MUSIC allows natural rises), but fallback blocks the action:
+
+- VOL_UP → **blocked**  
+- VOL_DOWN → allowed  
+
+Fallback prevents a sudden jump caused by a misclassification.
+
+---
+
+### Example 2 — Rapid Context Switching  
+The audio rapidly switches between DIALOG → MUSIC → ADS within a short time window.  
+CEPA enters fallback mode to avoid chaotic reactions:
+
+- CEPA stabilizes output  
+- CEPA waits for a confident classification  
+
+This prevents jittery volume changes during unstable transitions.
+
+---
+
+### Example 3 — Noisy or Distorted Input  
+The microphone captures distorted or noisy audio (compression artifacts, clipping, unstable MFCC values).  
+CEPA cannot reliably determine context:
+
+- VOL_UP → **blocked**  
+- VOL_DOWN → allowed  
+
+Fallback ensures safe behaviour until the signal becomes stable again.
+
+---
+
 ## 🎧 Why Fallback Matters
 
 Fallback is essential for:
@@ -66,11 +101,10 @@ It acts as a buffer between uncertain detection and confident CEPA logic.
 The fallback logic diagram is part of the CEPA PRO documentation and helps visualize how the system behaves during ambiguous audio conditions.  
 It complements other CEPA behaviour diagrams (see main README):
 
-- MUSIC Behaviour
-- DIALOG Behaviour
-- NORMAL Behaviour
-- ADS Behaviour
-- AD MODE Logic
+- MUSIC Behaviour  
+- DIALOG Behaviour  
+- NORMAL Behaviour  
+- ADS Behaviour  
+- AD MODE Logic  
 
 Together, these diagrams form a complete overview of CEPA’s real‑time decision system.
-
