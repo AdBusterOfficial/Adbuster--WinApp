@@ -92,6 +92,22 @@ The state affects how CEPA PRO interprets events and margins.
 
 ---
 
+## 🎨 Behaviour Zones — CEPA Stability Map
+
+![CEPA Behaviour Zones](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/Behaviour%20Zones.png)
+
+CEPA Behaviour Zones illustrate how CEPA interprets signal stability:
+
+- **Stable Zone** — predictable, steady behaviour  
+- **Transition Zone** — sensitive, reactive changes  
+- **Unstable Zone** — chaotic, erratic fluctuations  
+- **High‑Risk Zone** — disruptive spikes  
+- **Ads & Loud Bursts** — high‑priority suppression  
+
+This diagram represents the behavioural states CEPA uses to stabilise loudness and guide real‑time decisions.
+
+---
+
 ## 🧠 CEPA Logic — Real‑Time Decision Model
 
 ![CEPA Logic — Real-Time Decision](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/CEPA_real_time_decision.jpg)
@@ -143,31 +159,6 @@ Decision rules:
 - **otherwise → no action**
 
 CEPA PRO avoids chaotic volume changes by enforcing timing and frequency limits.
-
----
-
-## 🔊 Practical Behavior
-
-### 🎵 MUSIC
-- Natural variations tolerated  
-- Stable rise → GOOD_LOUDNESS  
-- SPIKE_SHORT → GOOD_LOUDNESS  
-CEPA PRO avoids unnecessary corrections.
-
-### 🎙️ DIALOG
-- SPIKE_LONG → BAD_LOUDNESS → VOL_DOWN  
-- SPIKE_SHORT → NEUTRAL  
-CEPA PRO protects speech clarity.
-
-### 📺 NORMAL
-- DRIFT_UP → TRANSITION_UP → margin tightens  
-- SPIKE_LONG → BAD_LOUDNESS  
-CEPA PRO stabilizes general loudness.
-
-### 📢 AD
-- Always BAD_LOUDNESS  
-- Margin tightened  
-- Fast reaction  
 
 ---
 
