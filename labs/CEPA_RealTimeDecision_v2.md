@@ -4,7 +4,7 @@ This diagram illustrates the real-time behaviour engine used inside **AdBuster P
 It shows how CEPA interprets the audio environment deterministically and decides how the system should control loudness in a stable, predictable way.
 
 ## Real-Time Decision Model
-
+![CEPA Logic — Real-Time Decision v2](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/CEPA_real_time_decision.jpg)
 
 ### Overview
 CEPA Logic operates as a behaviour-driven decision layer.  
