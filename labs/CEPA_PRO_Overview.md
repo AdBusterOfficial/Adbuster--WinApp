@@ -94,7 +94,7 @@ The state affects how CEPA PRO interprets events and margins.
 
 ## 🧠 CEPA Logic — Real‑Time Decision Model
 
-![CEPA Logic — Real-Time Decision](labs/CEPA_real_time_decision.jpg)
+![CEPA Logic — Real-Time Decision](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/CEPA_real_time_decision.jpg)
 
 CEPA Logic is the adaptive real‑time decision layer inside CEPA PRO.  
 It operates continuously on the incoming audio signal, extracting MFCC, RMS and spectral features, classifying context (AD / NORMAL), and applying CEPA’s behaviour rules to determine whether to **trigger**, **hold**, or **ignore** a volume reaction.
