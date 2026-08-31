@@ -1135,8 +1135,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔶 Documentation
 
-🟦 [Architecture Overview](docs/overview.md)  
-🟩 [Behaviour Zones](docs/Behaviour_Zones.md)  
+🟦 [Architecture Overview](docs/overview.md)    
 ⬜ [Broadlink Server Log](docs/logs.md)  
 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)  
 🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)  
@@ -1152,6 +1151,7 @@ A separate proprietary license applies to CEPA Logic:
 🟠 [Research Labs Overview](labs/README.md)  
 🟡 [AD Detection Upgrade](labs/ad_detection_upgrade.md)  
 🔴 [CEPA PRO Overview](labs/CEPA_PRO_Overview.md)
+🟢 [Behaviour Zones](labs/Behaviour_Zones.md)
 
 ---
 
