@@ -1150,7 +1150,7 @@ A separate proprietary license applies to CEPA Logic:
 🟣 [Model & Dataset Overview](labs/model.md)  
 🟠 [Research Labs Overview](labs/README.md)  
 🟡 [AD Detection Upgrade](labs/ad_detection_upgrade.md)  
-🔴 [CEPA PRO Overview](labs/CEPA_PRO_Overview.md)
+🔴 [CEPA PRO Overview](labs/CEPA_PRO_Overview.md)  
 🟢 [Behaviour Zones](labs/Behaviour_Zones.md)
 
 ---
