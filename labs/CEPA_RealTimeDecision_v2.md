@@ -5,7 +5,6 @@ It shows how CEPA interprets the audio environment deterministically and decides
 
 ## Real-Time Decision Model
 
-![CEPA Logic — Real-Time Decision v2](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/laps/CEPA_real_time_decision.jpg)
 
 ### Overview
 CEPA Logic operates as a behaviour-driven decision layer.  
