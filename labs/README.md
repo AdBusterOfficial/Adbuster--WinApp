@@ -228,6 +228,39 @@ This version includes the prototype application and non‑proprietary documentat
 
 ---
 
+## 🚀 CEPA v3.0 Product Roadmap
+
+*The following roadmap outlines long‑term, future‑facing directions for CEPA development beyond the current AdBuster PRO architecture.*
+
+### 1. Behaviour Engine 2.0
+CEPA evolves from simple rule‑based logic into a fully adaptive behaviour engine. It introduces micro‑zones, dynamic stability thresholds and context‑aware interpretation of signal conditions, enabling precise real‑time behaviour control.
+
+### 2. Adaptive Behaviour Zones
+CEPA dynamically adjusts the boundaries between behaviour zones based on signal trends, temporal history, classification context and intensity of changes. Adaptive micro‑zones reduce false triggers and improve decision accuracy in stable, chaotic and borderline scenarios.
+
+### 3. Multi‑Class Behaviour Intelligence
+CEPA v3.0 responds to multiple audio classes beyond AD/NORMAL, including speech, music, noise and AD‑types. Each class receives its own behaviour pathway, allowing more intelligent and context‑specific reactions.
+
+### 4. Temporal Memory Window
+CEPA incorporates a short temporal memory window (1–2 seconds), enabling decisions based on signal trends rather than single frames. This significantly improves stability and reduces false activations.
+
+### 5. Trend‑Based Stability System
+CEPA evaluates the direction of signal movement—rising, falling or chaotic—to refine stability assessment. Trend‑based logic allows more adaptive and responsive behaviour in dynamic audio environments.
+
+### 6. Signal‑Movement Analysis
+CEPA v3.0 understands signal dynamics such as jumps, fluctuations and micro‑changes. This deeper movement analysis enhances precision in real‑time behaviour control, especially under challenging acoustic conditions.
+
+### 7. Context‑Aware Decision Pathways
+CEPA adapts its behaviour based on contextual scenarios: long AD segments, short bursts, speech presence, music background, noise interference or borderline AD. Each scenario triggers a dedicated decision pathway.
+
+### 8. Fallback Intelligence
+When classification is uncertain or the signal becomes chaotic, CEPA activates intelligent fallback behaviours. This increases robustness and ensures predictable system responses under difficult conditions.
+
+### 9. Full Integration with AdBuster PRO
+CEPA v3.0 becomes the central behaviour engine of AdBuster PRO, orchestrating stability, reactions, filtering and logic in real time. It transforms CEPA from a standalone module into a fully integrated decision system.
+
+---
+
 <br>
 
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
