@@ -105,6 +105,11 @@ This CSV serves as the input for training the research RandomForest model (`ad_d
 
 ---
 
+### CEPA Logic Roadmap
+Future development of CEPA focuses on expanding the behaviour engine with richer decision rules, adaptive stability thresholds, extended behaviour zones and improved context interpretation. CEPA does not learn from data, but its intelligence grows through refined logic, deeper signal‑movement analysis and tighter integration with future multi‑class classifiers.
+
+---
+
 ## 🧪 Research Summary
 
 An offline ML pipeline was developed for AdBuster PRO — covering the full workflow from raw audio samples to a fully trained RandomForest model.
