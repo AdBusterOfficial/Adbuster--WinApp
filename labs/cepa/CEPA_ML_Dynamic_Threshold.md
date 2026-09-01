@@ -1,3 +1,4 @@
+
 # CEPA Logic – ML Dynamic Threshold (AVG − 2) + Auto‑Refresh
 
 ## Overview
@@ -7,7 +8,7 @@
 🔢 **ML Threshold = AVG − 2**
 
 🔍 **AVG** is a smoothed ~20‑minute acoustic baseline.  
-🔍 It ensures the ML threshold stays stable and predictable, while **AdBuster ML continues to detect ads, spikes and anomalies using the trained model (`ad_detector.pkl`).**
+🔍 It keeps the ML threshold stable and predictable, while **AdBuster ML continues to detect ads, spikes and anomalies using the trained model (`ad_detector.pkl`).**
 
 ---
 
@@ -22,7 +23,7 @@
 ✅ unaffected by short‑term noise  
 ✅ reflects the real long‑term listening level  
 
-These properties ensure that **the ML threshold remains stable**, so that **AdBuster ML can react consistently above that threshold.**
+These properties ensure that the ML threshold remains stable, so **AdBuster ML can react consistently above that threshold.**
 
 ---
 
@@ -41,12 +42,12 @@ These properties ensure that **the ML threshold remains stable**, so that **AdBu
 ## What AdBuster ML Still Does
 🧩 Nothing has been removed from the original AdBuster design:
 
-- 🔊 detects ads  
-- ⚡ detects sudden volume spikes  
-- 🎚️ stabilizes volume in real time  
-- 🧠 uses the trained ML model **`ad_detector.pkl`**  
-- 🔄 runs full behaviour logic (ADS, MUSIC, NORMAL, TALK, FALLBACK, etc.)  
-- 📡 reacts to deviations above the dynamic ML threshold  
+🔊 detects ads  
+⚡ detects sudden volume spikes  
+🎚️ stabilizes volume in real time  
+🧠 uses the trained ML model **`ad_detector.pkl`**  
+🔄 runs full behaviour logic (**ADS, MUSIC, NORMAL, TALK, FALLBACK, etc.**)  
+📡 reacts to deviations above the dynamic ML threshold  
 
 The dynamic threshold simply makes these reactions **more accurate and more stable**.
 
@@ -78,4 +79,3 @@ The dynamic threshold simply makes these reactions **more accurate and more stab
 
 ## Demo
 🎥 [![CEPA Demo](https://img.youtube.com/vi/0rtAsAu81tQ/0.jpg)](https://youtu.be/0rtAsAu81tQ?si=uZTkkQieed-2VwPm)
-
