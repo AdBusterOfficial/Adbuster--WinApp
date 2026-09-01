@@ -1151,7 +1151,8 @@ A separate proprietary license applies to CEPA Logic:
 🟡 [AD Detection Upgrade](labs/ad_detection_upgrade.md)  
 🔴 [CEPA PRO Overview](labs/CEPA_PRO_Overview.md)  
 🟢 [Behaviour Zones](labs/Behaviour_Zones.md)  
-⚫ [CEPA Real‑Time Decision v2](labs/CEPA_RealTimeDecision_v2.md)
+⚫ [CEPA Real‑Time Decision v2](labs/CEPA_RealTimeDecision_v2.md)  
+⚪ [Real‑Time Flow](labs/real-time-flow.md)
 
 ---
 
