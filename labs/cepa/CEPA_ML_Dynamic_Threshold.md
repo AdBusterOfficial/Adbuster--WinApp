@@ -45,7 +45,7 @@ These properties ensure that **the ML threshold remains stable**, so that **AdBu
 - ⚡ detects sudden volume spikes  
 - 🎚️ stabilizes volume in real time  
 - 🧠 uses the trained ML model **`ad_detector.pkl`**  
-- 🔄 runs full behaviour logic (ADS, MUSIC, NORMAL, FALLBACK, etc.)  
+- 🔄 runs full behaviour logic (ADS, MUSIC, NORMAL, TALK, FALLBACK, etc.)  
 - 📡 reacts to deviations above the dynamic ML threshold  
 
 The dynamic threshold simply makes these reactions **more accurate and more stable**.
