@@ -106,7 +106,7 @@ This CSV serves as the input for training the research RandomForest model (`ad_d
 ---
 
 ### 🧩 CEPA Logic Roadmap
-Future development of CEPA focuses on expanding the behaviour engine with richer decision rules, adaptive stability thresholds, extended behaviour zones and improved context interpretation. CEPA does not learn from data, but its intelligence grows through refined logic, deeper signal‑movement analysis and tighter integration with future multi‑class classifiers.
+Future development of CEPA focuses on expanding the behaviour engine with richer decision rules, adaptive stability thresholds, extended behaviour zones and improved context interpretation. Additional research will explore dynamic stability evaluation, trend‑based signal movement analysis, context‑aware decision pathways and more granular fallback intelligence. CEPA does not learn from data, but its behaviour engine grows through refined logic and tighter integration with future multi‑class classifiers.
 
 ---
 
