@@ -23,7 +23,7 @@
 ✅ unaffected by short‑term noise  
 ✅ reflects the real long‑term listening level  
 
-These properties ensure that the ML threshold remains stable, so **AdBuster ML can react consistently above that threshold.**
+These properties ensure that the ML threshold remains stable, so AdBuster ML can react consistently to any deviation above or below that threshold.
 
 ---
 
@@ -35,7 +35,7 @@ These properties ensure that the ML threshold remains stable, so **AdBuster ML c
 ⏱️ After 5 minutes → ML threshold updates to **AVG − 2**  
 🎧 CEPA adjusts automatically without user interaction  
 
-🔁 This mechanism ensures the threshold follows real listening habits while **AdBuster ML continues to detect deviations above that threshold.**
+🔁 This mechanism ensures the threshold follows real listening habits while AdBuster ML continues to detect and correct deviations above or below that threshold.
 
 ---
 
