@@ -23,7 +23,7 @@
 ✅ unaffected by short‑term noise  
 ✅ reflects the real long‑term listening level  
 
-These properties ensure that the ML threshold remains stable, so AdBuster ML can react consistently to any deviation above or below that threshold.
+🔁 These properties ensure that the ML threshold remains stable, so AdBuster ML can react consistently to any deviation above or below that threshold.
 
 ---
 
