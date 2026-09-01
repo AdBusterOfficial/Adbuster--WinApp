@@ -209,6 +209,16 @@ This folder contains research artifacts only and is not part of the AdBuster PRO
 
 ---
 
+## 📦 Prototype Download — AdBuster v2.0
+
+The standalone AdBuster prototype (v2.0) is available as a public release containing the early build and open technical documentation:
+
+**➡️ [AdBuster v2.0 Prototype Release](https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0)**
+
+This version includes the prototype application and non‑proprietary documentation used during early development.
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
