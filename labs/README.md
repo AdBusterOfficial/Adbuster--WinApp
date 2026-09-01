@@ -10,6 +10,27 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 
 ---
 
+## 📁 Index of Labs Files
+
+- [AD_mode_logic.md](./AD_mode_logic.md)
+- [Behaviour_Zones.md](./Behaviour_Zones.md)
+- [CEPA_PRO_Overview.md](./CEPA_PRO_Overview.md)
+- [CEPA_RealTimeDecision_v2.md](./CEPA_RealTimeDecision_v2.md)
+- [CEPA_ads_behaviour.md](./CEPA_ads_behaviour.md)
+- [CEPA_dialog_behaviour.md](./CEPA_dialog_behaviour.md)
+- [CEPA_music_behaviour.md](./CEPA_music_behaviour.md)
+- [CEPA_normal_behaviour.md](./CEPA_normal_behaviour.md)
+- [ad_detection_upgrade.md](./ad_detection_upgrade.md)
+- [fallback_logic.md](./fallback_logic.md)
+- [mode_ML-Auto_on.md](./mode_ML-Auto_on.md)
+- [model.md](./model.md)
+- [music_mode_logic.md](./music_mode_logic.md)
+- [real-time-flow.md](./real-time-flow.md)
+- [training_pipeline.md](./training_pipeline.md)
+- [README.md](./README.md)
+
+---
+
 ## 📄 Research Dataset — `data.csv`
 
 `data.csv` is a MFCC‑based feature dataset generated from a small, controlled set of audio samples (AD vs NORMAL).
