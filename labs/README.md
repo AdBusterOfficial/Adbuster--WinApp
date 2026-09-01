@@ -11,6 +11,8 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 ---
 
 ### 🎧 CEPA Behaviour Examples
+The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in real time:
+
 - [CEPA_ads_behaviour.md](./CEPA_ads_behaviour.md)
 - [AD_mode_logic.md](./AD_mode_logic.md)
 - [fallback_logic.md](./fallback_logic.md)
