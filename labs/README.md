@@ -10,6 +10,35 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 
 ---
 
+## 📁 Index of Labs Files
+
+### 🔵 Core Research Files
+🔵 [Audio‑ML Training Pipeline](training_pipeline.md)
+🟣 [Model & Dataset Overview](model.md)
+🟡 [AD Detection Upgrade](ad_detection_upgrade.md)
+🔴 [CEPA PRO Overview](CEPA_PRO_Overview.md)
+🟢 [Behaviour Zones](Behaviour_Zones.md)
+⚫ [CEPA Real‑Time Decision v2](CEPA_RealTimeDecision_v2.md)
+⚪ [Real‑Time Flow](real-time-flow.md)
+
+### 🎧 CEPA Behaviour Examples
+🔴 [ADS Behaviour](CEPA_ads_behaviour.md)
+⚫ [AD MODE Logic](AD_mode_logic.md)
+⚪ [Fallback Logic](fallback_logic.md)
+🤖 [ML‑Auto Mode](mode_ML-Auto_on.md)
+🎵 [MUSIC Behaviour](CEPA_music_behaviour.md)
+💬 [DIALOG Behaviour](CEPA_dialog_behaviour.md)
+🎛️ [MUSIC MODE Logic](music_mode_logic.md)
+🔷 [NORMAL Behaviour](CEPA_normal_behaviour.md)
+
+### 📦 Research Artifacts
+📦 [MFCC Feature Dataset — data.csv](data.csv)
+📦 [Research RandomForest Model — ad_detector.pkl](ad_detector.pkl)
+📷 [Screenshot — AdusterML Data Builder](AdusterML_data_builder.png)
+🖼️ [Labs Banner](Banner_NEW_GOLD_labs.png)
+
+---
+
 ## 📄 Research Dataset — `data.csv`
 
 `data.csv` is a MFCC‑based feature dataset generated from a small, controlled set of audio samples (AD vs NORMAL).
