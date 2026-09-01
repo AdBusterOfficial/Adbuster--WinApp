@@ -1,7 +1,6 @@
+## AdBuster Research Labs — R&D Branch
 
 ![AdBuster Hardware Concept](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Banner_NEW_GOLD_labs.png)
-
-# AdBuster Research Labs
 
 This directory contains research‑only materials used during development and prototyping of the offline AdBuster machine learning pipeline.  
 Nothing in this folder is part of the main AdBuster PRO application.
