@@ -23,6 +23,8 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 - [CEPA_normal_behaviour.md](./CEPA_normal_behaviour.md)
 
 ### 🔵 Core Research Files
+The core research files contain the main DSP/ML prototypes used during development of the offline AdBuster pipeline, including training workflows, feature extraction logic, model evaluation, and CEPA PRO decision‑flow experiments.
+
 - [training_pipeline.md](./training_pipeline.md)
 - [model.md](./model.md)
 - [ad_detection_upgrade.md](./ad_detection_upgrade.md)
