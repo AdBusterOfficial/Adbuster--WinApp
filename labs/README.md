@@ -10,23 +10,26 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 
 ---
 
-## 📁 Index of Labs Files
-
-- [AD_mode_logic.md](./AD_mode_logic.md)
-- [Behaviour_Zones.md](./Behaviour_Zones.md)
-- [CEPA_PRO_Overview.md](./CEPA_PRO_Overview.md)
-- [CEPA_RealTimeDecision_v2.md](./CEPA_RealTimeDecision_v2.md)
+### 🎧 CEPA Behaviour Examples
 - [CEPA_ads_behaviour.md](./CEPA_ads_behaviour.md)
-- [CEPA_dialog_behaviour.md](./CEPA_dialog_behaviour.md)
-- [CEPA_music_behaviour.md](./CEPA_music_behaviour.md)
-- [CEPA_normal_behaviour.md](./CEPA_normal_behaviour.md)
-- [ad_detection_upgrade.md](./ad_detection_upgrade.md)
+- [AD_mode_logic.md](./AD_mode_logic.md)
 - [fallback_logic.md](./fallback_logic.md)
 - [mode_ML-Auto_on.md](./mode_ML-Auto_on.md)
-- [model.md](./model.md)
+- [CEPA_music_behaviour.md](./CEPA_music_behaviour.md)
+- [CEPA_dialog_behaviour.md](./CEPA_dialog_behaviour.md)
 - [music_mode_logic.md](./music_mode_logic.md)
-- [real-time-flow.md](./real-time-flow.md)
+- [CEPA_normal_behaviour.md](./CEPA_normal_behaviour.md)
+
+### 🔵 Core Research Files
 - [training_pipeline.md](./training_pipeline.md)
+- [model.md](./model.md)
+- [ad_detection_upgrade.md](./ad_detection_upgrade.md)
+- [CEPA_PRO_Overview.md](./CEPA_PRO_Overview.md)
+- [Behaviour_Zones.md](./Behaviour_Zones.md)
+- [CEPA_RealTimeDecision_v2.md](./CEPA_RealTimeDecision_v2.md)
+- [real-time-flow.md](./real-time-flow.md)
+
+### 📦 Other Markdown Files
 - [README.md](./README.md)
 
 ---
@@ -123,21 +126,6 @@ These results confirm that the MFCC feature space and RandomForest decision path
 ## 📷 Research Screenshot
 
 ![AdusterML Data Builder](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdusterML_data_builder.png)
-
----
-
-## 🎧 CEPA Behaviour Examples
-
-The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in real time:
-
-- [ADS Behaviour](./CEPA_ads_behaviour.md)
-- [AD MODE Logic](./AD_mode_logic.md)
-- [Fallback Logic](./fallback_logic.md)
-- [ML‑Auto Mode](./mode_ML-Auto_on.md)
-- [MUSIC Behaviour](./CEPA_music_behaviour.md)
-- [DIALOG Behaviour](./CEPA_dialog_behaviour.md)
-- [MUSIC MODE Logic](./music_mode_logic.md)
-- [NORMAL Behaviour](./CEPA_normal_behaviour.md)
 
 ---
 
