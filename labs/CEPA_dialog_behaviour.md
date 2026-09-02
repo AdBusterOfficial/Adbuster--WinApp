@@ -20,7 +20,7 @@ Dialogue behaves differently from music or ads, and CEPA Logic PRO is designed t
 CEPA interprets this as BAD_LOUDNESS — a long, unwanted spike during speech.  
 It applies the dialogue margin (5.0), evaluates the difference, and determines that corrective action is required.
 
-Since 5 > 5.0, CEPA executes VOL_DOWN through the IR server, reducing the TV volume.
+Since 5 ≥ 5.0, CEPA executes VOL_DOWN through the IR server, reducing the TV volume.
 
 ---
 
