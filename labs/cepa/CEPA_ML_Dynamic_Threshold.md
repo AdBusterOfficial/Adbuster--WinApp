@@ -3,12 +3,12 @@
 
 ## Overview
 🔍 This update introduces a dynamic ML threshold mechanism inside the CEPA framework.  
-🔍 **AVG does not replace AdBuster ML** — it only provides a stable long‑term baseline for threshold calculation.
+🔍 **AVG does not replace AdBuster PRO** — it only provides a stable long‑term baseline for threshold calculation.
 
 🔢 **ML Threshold = AVG − 2**
 
 🔍 **AVG** is a smoothed ~20‑minute acoustic baseline.  
-🔍 It keeps the ML threshold stable and predictable, while **AdBuster ML continues to detect ads, spikes and anomalies using the trained model (`ad_detector.pkl`).**
+🔍 It keeps the ML threshold stable and predictable, while **AdBuster PRO continues to detect ads, spikes and anomalies using the trained model (`ad_detector.pkl`).**
 
 ---
 
@@ -35,11 +35,11 @@
 ⏱️ After 5 minutes → ML threshold updates to **AVG − 2**  
 🎧 CEPA adjusts automatically without user interaction  
 
-🔁 This mechanism ensures the threshold follows real listening habits while AdBuster ML continues to detect and correct deviations above or below that threshold.
+🔁 This mechanism ensures the threshold follows real listening habits while AdBuster PRO continues to detect and correct deviations above or below that threshold.
 
 ---
 
-## What AdBuster ML Still Does
+## What AdBuster PRO Still Does
 🧩 Nothing has been removed from the original AdBuster design:
 
 🔊 detects ads  
@@ -60,7 +60,7 @@ The dynamic threshold simply makes these reactions **more accurate and more stab
 📊 no drifting  
 📊 automatic adaptation to volume changes  
 📊 GUI always reflects the true ML threshold  
-📊 AdBuster ML continues to operate exactly as before — now with a smarter threshold  
+📊 AdBuster PRO continues to operate exactly as before — now with a smarter threshold  
 
 ---
 
@@ -69,7 +69,7 @@ The dynamic threshold simply makes these reactions **more accurate and more stab
 
 📝 **AVG = long‑term baseline**  
 📝 **ML Threshold = AVG − 2**  
-📝 **AdBuster ML = detection + stabilization (unchanged)**  
+📝 **AdBuster PRO = detection + stabilization (unchanged)**  
 📝 **ad_detector.pkl = still fully active**  
 📝 **Behaviour Logic = still fully active**  
 
