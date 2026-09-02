@@ -77,3 +77,28 @@ It complements other CEPA behaviour diagrams:
 - Fallback Logic
 
 Together, these diagrams form a complete overview of CEPA’s real‑time decision system.
+
+---
+
+## 🎧 When to Enable Music Mode
+
+Music Mode should be enabled **only when musical content is the primary audio source**.  
+This ensures CEPA handles music smoothly and avoids reacting to musical peaks as if they were dialog or ads.
+
+### ✔️ Enable Music Mode when:
+- listening to music (Spotify, YouTube Music, radio),
+- watching concerts or live performances,
+- viewing music‑focused TV programs,
+- watching videos where music is dominant (dance scenes, music clips, compilations),
+- you want CEPA to ignore dialog spikes and stabilize musical flow.
+
+### ❌ Do NOT enable Music Mode when:
+- watching movies with normal dialog,
+- watching TV series,
+- watching news or talk‑shows,
+- watching sports,
+- any content where **dialog is the main audio**.
+
+Music Mode is designed specifically for musical playback.  
+If dialog is the primary sound, Music Mode should remain OFF to ensure CEPA reacts correctly.
+
