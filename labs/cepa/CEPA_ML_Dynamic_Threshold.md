@@ -73,7 +73,7 @@ The dynamic threshold simply makes these reactions **more accurate and more stab
 📝 **ad_detector.pkl = still fully active**  
 📝 **Behaviour Logic = still fully active**  
 
-📝 The upgrade improves stability and responsiveness without removing any part of the original AdBuster ML system.
+📝 The upgrade improves stability and responsiveness without removing any part of the original AdBuster PRO system.
 
 ---
 
