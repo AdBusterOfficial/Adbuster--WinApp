@@ -297,7 +297,7 @@ CEPA produces the final action: **VOL_UP / VOL_DOWN / PASS**.
 ---
 
 ### 🔹 Full Documentation
-- ⬛ [Model & Dataset Overview](docs/model.md)
+- ⬛ [Model & Dataset Overview](labs/model.md)
 
 
 ### 🧮 AdBuster — Detection Engine
