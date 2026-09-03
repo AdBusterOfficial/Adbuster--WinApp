@@ -272,13 +272,13 @@ It is trained using the new CSV‑based pipeline and provides an additional AD/N
 
 📌 **ad_detector.pkl preview**
 
-![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ad_detector.pkl.png)
+![ad_detector.pkl](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/ad_detector.pkl.png)
 
 <br>
 
 📌 **data.csv preview**
 
-![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/data.csv.png)
+![data.csv](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/data.csv.png)
 
 ---
 
