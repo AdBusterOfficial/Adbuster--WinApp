@@ -182,3 +182,7 @@ This makes AdBuster PRO react not to raw loudness, but to:
 - baseline stability.
 
 This is the complete, production‑ready CEPA PRO Overview.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
