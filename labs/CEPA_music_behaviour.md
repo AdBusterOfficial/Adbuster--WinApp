@@ -46,3 +46,7 @@ The system only reacts when deviation exceeds the adaptive margin, ensuring that
 This example demonstrates how AdBuster PRO keeps music natural and stable — reacting only when it truly matters.
 
 #AudioDSP #SignalProcessing #RealTimeAudio #CEPA #AdBusterPRO #DSPEngineering
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
