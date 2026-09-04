@@ -65,3 +65,7 @@ It complements other CEPA behaviour diagrams:
 
 Together, these diagrams form a complete overview of CEPA’s real‑time decision system and describe how CEPA Logic maintains stable, predictable behaviour across all audio environments.
 
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
