@@ -80,3 +80,7 @@ Event 5 — Normal content → ALLOW
 
 7. Purpose
 CEPA ensures stable, predictable, context‑aware automation suitable for real‑world use.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
