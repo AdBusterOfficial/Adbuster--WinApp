@@ -39,3 +39,7 @@ The ML Validation layer ensures that every reaction in AdBuster PRO is:
 ## Technical comment
 
 The CEPA engine works together with the offline‑trained AD detector model, ensuring that every reaction in AdBuster PRO is validated by machine‑learning before any correction is allowed. This is what keeps the system stable, predictable and resistant to false triggers.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
