@@ -169,3 +169,5 @@ These improvements are optional and not required for the current AdBuster workfl
 but they outline possible directions for future development.
 
 ---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
