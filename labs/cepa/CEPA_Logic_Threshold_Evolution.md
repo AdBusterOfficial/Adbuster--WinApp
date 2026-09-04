@@ -98,3 +98,6 @@ The change affects how the threshold is defined, not the core detection and stab
 - 🌍 CEPA Logic remains environment‑aware, but the threshold now depends on **calibration**, not a fixed AVG‑based formula.
 
 This document reflects the real behaviour of the current NR 5 implementation, while acknowledging the previous dynamic design.
+
+**D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
