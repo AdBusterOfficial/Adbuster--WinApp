@@ -72,3 +72,7 @@ This agreement is governed exclusively by the laws of Ireland. Any disputes shal
 
 ## **TRADE SECRET NOTICE**
 CEPA Logic is protected as a proprietary trade secret under applicable intellectual property laws. Unauthorized use, disclosure, or reproduction is strictly prohibited.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
