@@ -87,3 +87,7 @@ The `msg` field provides a clear, step‑by‑step trace of the Broadlink contro
 - IR command execution  
 
 Together, these logs confirm that the Broadlink backend is operational and able to execute volume‑control commands triggered by AdBuster.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
