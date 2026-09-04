@@ -23,7 +23,7 @@ The flow diagram above represents the internal logic used to stabilize loudness 
 
 ---
 
-## 🧠 Current Behaviour (as implemented today)
+## 🧠 Current Behaviour 
 - **Manual mode** temporarily disables CEPA logic for user control.  
 - **CEPA FIRST** handles fast reactions and context‑based corrections.  
 - **Anti‑Drift** intercepts slow level rise above threshold (+0.5).  
