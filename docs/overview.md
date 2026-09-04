@@ -123,5 +123,5 @@ The full source code is proprietary and not publicly available.
 
 ---
 
-© 2026 AdBuster Team Dublin / D.P‑G — All rights reserved.
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
