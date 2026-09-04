@@ -66,3 +66,7 @@ ADS Behaviour is the most critical CEPA Logic PRO context.
 AdBuster PRO reacts instantly to advertisements — protecting the listener from aggressive loudness spikes, jingles, and impacts.  
 This is what truly distinguishes AdBuster from ordinary “volume normalizers.”
 
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
