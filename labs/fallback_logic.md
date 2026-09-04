@@ -128,3 +128,7 @@ It complements other CEPA behaviour diagrams (see main README):
 - AD MODE Logic
 
 Together, these diagrams form a complete overview of CEPA’s real‑time decision system.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
