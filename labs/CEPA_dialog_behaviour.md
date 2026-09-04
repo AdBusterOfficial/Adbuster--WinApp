@@ -60,3 +60,7 @@ This prevents unnecessary volume changes while still catching disruptive spikes.
 ## 📌 Summary
 
 This example demonstrates how CEPA Logic PRO stabilizes dialogue — reacting only when long spikes occur and maintaining clear, consistent speech.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
