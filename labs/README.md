@@ -33,6 +33,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [Behaviour_Zones.md](./Behaviour_Zones.md)
 - [CEPA_RealTimeDecision_v2.md](./CEPA_RealTimeDecision_v2.md)
 - [real-time-flow.md](./real-time-flow.md)
+- [model_feature_reduction.md](./model_feature_reduction.md)
 
 ### 📦 Other Markdown Files
 - [README.md](./README.md)
