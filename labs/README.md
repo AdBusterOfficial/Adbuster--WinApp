@@ -20,7 +20,7 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 - [CEPA_dialog_behaviour.md](./CEPA_dialog_behaviour.md)
 - [music_mode_logic.md](./music_mode_logic.md)
 - [CEPA_normal_behaviour.md](./CEPA_normal_behaviour.md)
-- [human_volume_logic.md](./labs/cepa/human_volume_logic.md)
+- [human_volume_logic.md](./cepa/human_volume_logic.md)
 
 ### 🔵 Core Research Files
 The core research files contain the main DSP/ML prototypes used during development of the offline AdBuster pipeline, 
