@@ -185,15 +185,15 @@ Imagine watching a movie.
 
 AdBuster PRO now behaves exactly like a person with a remote:
 
-- 🔻 **Ads → lowered immediately**  
-- 🔻 **Spikes → lowered immediately**  
-- 🎤 **Speech → ignored**  
-- 🎵 **Music → ignored (optional)**  
-- ⚙️ **CEPA stabilizes background volume**  
-- 🔁 **Fallback supports CEPA**  
-- 📡 **IR limits do not block ads**  
-- 🔒 **No conflicts between modules**  
-- 👤 **Natural, human‑like behavior**
+-  **Ads → lowered immediately**  
+-  **Spikes → lowered immediately**  
+-  **Speech → ignored**  
+-  **Music → ignored (optional)**  
+-  **CEPA stabilizes background volume**  
+-  **Fallback supports CEPA**  
+-  **IR limits do not block ads**  
+-  **No conflicts between modules**  
+-  **Natural, human‑like behavior**
 
 ---
 
