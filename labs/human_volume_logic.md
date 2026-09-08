@@ -10,13 +10,13 @@ AdBuster PRO is designed to behave exactly like a real person sitting in front o
 Its logic is intentionally human‑like, not robotic.
 
 ### 👤 Human‑style reactions:
-- 🔻 **Lowers loud advertisements immediately**
-- 🔻 **Lowers sudden loud spikes** (explosions, screams, impacts)
-- 🎤 **Ignores normal speech**
-- 🎵 **Ignores music when MUSIC MODE is enabled**
-- 🚫 **Never repeats the same command twice in a row**
-- 🛡️ **Never spams IR commands**
-- 🔒 **Never accidentally increases volume right after lowering an ad**
+-  **Lowers loud advertisements immediately**
+-  **Lowers sudden loud spikes** (explosions, screams, impacts)
+-  **Ignores normal speech**
+-  **Ignores music when MUSIC MODE is enabled**
+-  **Never repeats the same command twice in a row**
+-  **Never spams IR commands**
+-  **Never accidentally increases volume right after lowering an ad**
 
 This creates a natural, predictable, human‑style reaction pattern.
 
