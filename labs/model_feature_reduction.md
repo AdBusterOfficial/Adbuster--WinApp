@@ -1,4 +1,6 @@
 # 🔧 ML Model Evolution — From 29 Features to 4 Features  
+![ML Feature Reduction — 29 → 4 Features](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/model_feature_reduction.png)
+
 ### *A deliberate simplification to improve stability, clarity, and real‑time performance*
 
 During the development of AdBuster PRO, the ML advertisement‑detection model originally used a **29‑feature audio vector**.  
