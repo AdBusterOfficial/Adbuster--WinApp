@@ -1,5 +1,6 @@
 # 🔧 ML Model Evolution — From 29 Features to 4 Features  
-![ML Feature Reduction — 29 → 4 Features](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/model_feature_reduction.png)
+![ML Feature Reduction](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/model_feature_reduction.png)
+*Reduction of the ML feature set from 29 raw features to 4 core audio metrics.*
 
 ### *A deliberate simplification to improve stability, clarity, and real‑time performance*
 
