@@ -13,10 +13,10 @@ This document explains what CEPA is truly based on and how its mechanisms are va
 
 AdBuster PRO uses CEPA Logic to interpret measurable acoustic features:
 
-- **[RMS](ca://s?q=Explain_RMS_in_CEPA)** — perceived loudness  
-- **[STD](ca://s?q=Explain_STD_in_CEPA)** — chaotic behaviour  
-- **[DELTA](ca://s?q=Explain_DELTA_in_CEPA)** — sudden changes  
-- **[RANGE](ca://s?q=Explain_RANGE_in_CEPA)** — dynamic spread  
+- **RMS** — perceived loudness  
+- **STD** — chaotic behaviour  
+- **DELTA** — sudden changes  
+- **RANGE** — dynamic spread  
 
 These metrics come directly from the microphone and reflect **true room acoustics**, not simulated data.
 
