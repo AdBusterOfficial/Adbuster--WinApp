@@ -1,17 +1,18 @@
 
-# ⚙️ CEPA Logic PRO — Foundations
+# ⚙️ AdBuster PRO — CEPA Behavioural Logic  
+## Foundations
 
-CEPA Logic PRO is a behaviour‑driven engine designed to stabilize loudness in real time.  
+CEPA behavioural logic is the decision engine inside AdBuster PRO.  
 It does not modify audio. It interprets behaviour — and reacts deterministically, like a human with a remote.
 
-This document outlines the core foundations behind CEPA Logic PRO.
+This document outlines the core foundations behind CEPA Logic inside AdBuster PRO.
 
 ---
 
 ## 🧠 1. Behaviour Over Waveform
 
 Traditional DSP systems react to raw amplitude.  
-CEPA reacts to **behaviour patterns**:
+AdBuster PRO uses CEPA Logic to react to **behaviour patterns**:
 
 - drift (slow upward movement)
 - spikes (short or long)
@@ -20,13 +21,13 @@ CEPA reacts to **behaviour patterns**:
 - context transitions
 - correction history
 
-This allows CEPA to understand *why* the loudness changed, not just *how much*.
+This allows AdBuster PRO to understand *why* loudness changed, not just *how much*.
 
 ---
 
 ## 🎧 2. Real Acoustic Metrics
 
-CEPA is built on real, measurable acoustic features:
+CEPA Logic operates on real, measurable acoustic features:
 
 - **RMS** — perceived loudness  
 - **STD** — chaotic behaviour  
@@ -39,7 +40,7 @@ These metrics reflect true room acoustics — exactly what a human hears.
 
 ## 🔍 3. Contextual Interpretation
 
-CEPA identifies the behavioural context of the signal:
+CEPA identifies the behavioural context of the signal inside AdBuster PRO:
 
 - **NORMAL** — everyday content  
 - **ADS** — compressed, loud, aggressive  
@@ -54,7 +55,7 @@ Each context has its own reaction rules and safety limits.
 
 ## 📊 4. Trend & Stability Analysis
 
-CEPA evaluates how the signal behaves over time:
+CEPA Logic evaluates how the signal behaves over time:
 
 - rising trend  
 - falling trend  
@@ -63,26 +64,26 @@ CEPA evaluates how the signal behaves over time:
 - trend reversal  
 - drift confirmation  
 
-This prevents chaotic reactions and ensures predictable behaviour.
+This prevents chaotic reactions and ensures predictable behaviour inside AdBuster PRO.
 
 ---
 
 ## 🔧 5. Reaction Margin System
 
-CEPA uses a dynamic reaction margin instead of fixed thresholds:
+AdBuster PRO uses CEPA’s dynamic reaction margin instead of fixed thresholds:
 
 - **tightening** when loudness drifts upward  
 - **expansion** during stable or musical content  
 - **reset** on context transitions  
 - **lock** during ADS behaviour  
 
-This makes CEPA sensitive when needed and relaxed when safe.
+This makes the system sensitive when needed and relaxed when safe.
 
 ---
 
 ## 🛡️ 6. Safety Layer
 
-CEPA enforces strict safety rules:
+CEPA enforces strict safety rules inside AdBuster PRO:
 
 - only VOL_UP and VOL_DOWN  
 - no MUTE, no POWER, no macros  
@@ -97,20 +98,20 @@ This ensures automation is always safe and predictable.
 
 ## 🤖 7. ML Integration (Optional)
 
-CEPA works independently, but ML provides:
+CEPA Logic works independently, but ML provides:
 
 - AD vs NORMAL classification  
 - behaviour hints  
 - early ADS detection  
 - stability validation  
 
-ML is modular — CEPA remains fully functional even without it.
+ML is modular — AdBuster PRO remains fully functional even without it.
 
 ---
 
 ## 🔁 8. Unified Real‑Time Pipeline
 
-CEPA operates inside a continuous loop:
+AdBuster PRO operates inside a continuous loop:
 
 Microphone → Acoustic Metrics → Behaviour Analysis → CEPA Decision → IR Control
 
@@ -120,7 +121,7 @@ Everything runs offline, locally, without cloud dependency.
 
 ## 🎯 Summary
 
-CEPA Logic PRO is built on:
+CEPA behavioural logic inside AdBuster PRO is built on:
 
 - real acoustic metrics  
 - behaviour modelling  
@@ -131,3 +132,4 @@ CEPA Logic PRO is built on:
 - optional ML validation  
 
 It stabilizes loudness deterministically — exactly like a human with a remote, only faster and more consistent.
+
