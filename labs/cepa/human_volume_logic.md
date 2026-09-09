@@ -25,6 +25,48 @@ This creates a natural, predictable, human‑style reaction pattern.
 
 ---
 
+## ⭐ 1.1. ML Engine — 4‑Feature Acoustic Model (RMS / STD / DELTA / RANGE)
+
+AdBuster PRO 2.0 uses a lightweight, real‑time ML engine based on four acoustic features extracted from every audio block:
+
+- **RMS** — absolute loudness  
+- **STD** — short‑term variability  
+- **DELTA** — sudden change between blocks  
+- **RANGE** — dynamic spread of the signal  
+
+These features allow the model to detect loud advertisements purely from their acoustic behavior — without analyzing content, speech, or semantics.
+
+### 🔍 Why 4 features?
+Advertisements typically have:
+
+- higher RMS  
+- aggressive DELTA transitions  
+- wider dynamic RANGE  
+- more chaotic STD patterns  
+
+Movies, dialogue, and music do not exhibit this combination.
+
+### 🧠 ML Output
+The model returns:
+
+- **AD** — advertisement detected  
+- **NORMAL** — everything else  
+
+This output directly activates **AD MODE**, which triggers the human‑like reaction pipeline described below.
+
+### ⚡ Real‑time performance
+The 4‑feature model is extremely fast:
+
+- runs on every audio callback  
+- adds no latency  
+- works offline  
+- requires no GPU  
+- is stable even on low‑power systems  
+
+This makes it ideal for real‑time TV volume stabilization.
+
+---
+
 ## ⭐ 2. How AdBuster Handles LOUD ADVERTISEMENTS
 
 ### 🧠 ML detects the advertisement  
