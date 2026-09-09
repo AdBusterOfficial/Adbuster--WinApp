@@ -129,3 +129,8 @@ CEPA behavioural logic inside AdBuster PRO is validated through:
 - deterministic decision rules  
 
 CEPA is **measured behaviour**, **validated logic**, and **real‑time determinism** — the reason AdBuster PRO reacts like a human, only faster and more consistent.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
