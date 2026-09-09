@@ -1,25 +1,27 @@
-# ⚙️ CEPA Logic PRO — Reaction Margin Evolution
+# ⚙️ AdBuster PRO — CEPA Behavioural Logic  
+## Reaction Margin Evolution
 
-CEPA Logic PRO does not rely on a fixed reaction margin.  
-Instead, it continuously adjusts sensitivity in real time to keep behaviour stable, predictable, and human‑like.
+AdBuster PRO uses CEPA behavioural logic to adjust reaction sensitivity in real time.  
+Instead of relying on a fixed margin, CEPA continuously evolves its thresholds to keep behaviour stable, predictable, and human‑like.
 
 ---
 
 ## 🧠 Baseline Margin — Starting Point
 
-CEPA begins with a **baseline reaction margin** (e.g. `3.0`), which defines how much deviation from the baseline loudness is tolerated before a correction is allowed.
+Inside AdBuster PRO, CEPA Logic begins with a **baseline reaction margin** (e.g. `3.0`).  
+This defines how much deviation from the baseline loudness is tolerated before a correction is allowed.
 
-- 📊 Baseline margin = initial sensitivity  
-- 🔧 Used in NORMAL conditions  
-- 🔁 Reference point for all later adjustments  
+-  Baseline margin = initial sensitivity  
+-  Used in NORMAL conditions  
+-  Reference point for all later adjustments  
 
-This margin is **not static** — it evolves with the behaviour of the signal.
+This margin is **not static** — CEPA modifies it based on real‑time behaviour.
 
 ---
 
 ## 📉 Margin Tightening — Drift & Upward Behaviour
 
-CEPA tightens the margin when loudness begins drifting upward:
+AdBuster PRO tightens the reaction margin when CEPA detects upward drift:
 
 - Context: NORMAL, DRIFT_UP, rising trend  
 - Behaviour: repeated micro‑spikes, slow loudness creep  
@@ -35,13 +37,13 @@ CEPA tightens the margin when loudness begins drifting upward:
 - Margin: `3.0 → 2.25`  
 - Decision: `7 > 2.25 → VOL_DOWN`
 
-Margin tightening prevents uncontrolled drift.
+Margin tightening prevents uncontrolled loudness drift.
 
 ---
 
 ## 📈 Margin Expansion — Stable or Musical Behaviour
 
-CEPA expands the margin when content is stable:
+AdBuster PRO expands the margin when CEPA identifies stable or musical behaviour:
 
 - Context: MUSIC, STABLE, GOOD_LOUDNESS  
 - Behaviour: natural dynamics, no aggressive spikes  
@@ -63,24 +65,24 @@ This keeps music natural and avoids unnecessary corrections.
 
 ## 🔄 Margin Reset — Context Transitions
 
-When CEPA detects a context change:
+When AdBuster PRO detects a behavioural context change through CEPA Logic:
 
 - NORMAL → ADS  
 - ADS → NORMAL  
 - DIALOG → MUSIC  
 - RETURN → NORMAL  
 
-CEPA resets the margin to baseline:
+the reaction margin is reset to baseline:
 
-- 🔁 Margin → `3.0`  
-- 🧹 Clears previous tightening/expansion  
-- 🛡️ Prevents unstable behaviour during transitions
+-  Margin → `3.0`  
+-  Clears previous tightening/expansion  
+-  Prevents unstable behaviour during transitions
 
 ---
 
 ## 🔒 Margin Lock — ADS Protection Mode
 
-Under ADS behaviour, CEPA locks the margin:
+During ADS behaviour, AdBuster PRO locks the reaction margin using CEPA Logic:
 
 - Context: ADS, IMPACT, SPIKE_SHORT, SPIKE_LONG, BAD_LOUDNESS  
 - Margin stays tight  
@@ -95,20 +97,21 @@ Under ADS behaviour, CEPA locks the margin:
 - Margin: `3.0`  
 - Decision: `18 > 3.0 → VOL_DOWN`
 
-This guarantees instant protection from loud ads.
+This guarantees instant protection from loud advertisements.
 
 ---
 
 ## 🎯 Why Reaction Margin Evolution Matters
 
-Dynamic margin evolution ensures:
+Dynamic margin evolution inside AdBuster PRO ensures:
 
-- 🛑 No oscillation  
-- 📉 Drift suppression  
-- 🗣️ Dialogue protection  
-- 🎵 Natural music dynamics  
-- ⚡ Instant ADS reaction  
-- 🔁 Predictable behaviour  
+-  No oscillation  
+-  Drift suppression  
+-  Dialogue protection  
+-  Natural music dynamics  
+-  Instant ADS reaction  
+-  Predictable behaviour  
 
-CEPA evolves its sensitivity based on **behaviour over time**, making every reaction intentional and context‑aware.
+CEPA behavioural logic evolves its sensitivity based on **behaviour over time**, making every reaction intentional, stable, and human‑like.
+
 
