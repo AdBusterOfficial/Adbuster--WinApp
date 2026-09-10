@@ -57,3 +57,4 @@ This synchronization makes AdBuster PRO feel human, predictable, and stable.
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
+
