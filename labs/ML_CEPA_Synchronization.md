@@ -1,4 +1,4 @@
-⚡ ML → CEPA Synchronization — Real‑Time Coordination
+##⚡ ML → CEPA Synchronization — Real‑Time Coordination
 
 AdBuster PRO uses a dual‑engine architecture where ML defines the audio context and CEPA executes the behavior. This synchronization ensures stable, human‑like reactions even during rapid transitions, spikes, or false ML triggers.
 
