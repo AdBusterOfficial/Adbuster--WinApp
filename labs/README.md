@@ -34,6 +34,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [CEPA_RealTimeDecision_v2.md](./CEPA_RealTimeDecision_v2.md)
 - [real-time-flow.md](./real-time-flow.md)
 - [model_feature_reduction.md](./model_feature_reduction.md)
+- [ML_CEPA_Synchronization.md](./ML_CEPA_Synchronization.md)
 
 ### 📦 Other Markdown Files
 - [README.md](./README.md)
