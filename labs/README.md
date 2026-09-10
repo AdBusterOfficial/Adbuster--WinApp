@@ -25,7 +25,7 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 - [CEPA_Reaction_Margin_Evolution.md](./labs/cepa/CEPA_Reaction_Margin_Evolution.md)
 - [CEPA_Truth_Validation.md](./labs/cepa/CEPA_Truth_Validation.md)
 - [CEPA_vs_DSP.md](./labs/cepa/CEPA_vs_DSP.md)
-
+  
 ### 🔵 Core Research Files
 The core research files contain the main DSP/ML prototypes used during development of the offline AdBuster pipeline, 
 including training workflows, feature extraction logic, model evaluation, and CEPA PRO decision‑flow experiments.
