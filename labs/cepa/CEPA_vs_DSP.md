@@ -2,11 +2,6 @@
 # ⚙️ CEPA vs DSP — Fundamental Difference  
 ![CEPA vs DSP — Fundamental Difference](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Cepa_vs_DSP.png?raw=true)
 
-CEPA is the behavioural engine inside AdBuster PRO.  
-This document explains the fundamental difference between CEPA and traditional DSP, showing why AdBuster PRO relies on CEPA for deterministic, human‑like loudness control.
-
----
-
 ## AdBuster PRO Behavioural Logic
 
 CEPA is the behavioural decision logic inside AdBuster PRO.  
