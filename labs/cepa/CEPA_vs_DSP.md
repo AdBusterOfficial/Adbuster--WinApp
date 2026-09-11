@@ -1,5 +1,7 @@
 
 # ⚙️ CEPA vs DSP — Fundamental Difference  
+![CEPA vs DSP — Fundamental Difference](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Cepa_vs_DSP.png?raw=true)
+
 ## AdBuster PRO Behavioural Logic
 
 CEPA is the behavioural decision logic inside AdBuster PRO.  
