@@ -1,6 +1,4 @@
 # 🔊 AdBuster PRO — Human‑Like Volume Behavior  
-![Human Volume Logic](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/human_volume_logic.png)
-*Human‑like volume behavior pipeline used by AdBuster PRO.*
 
 ### 📘 Labs / Behavioral Model Documentation  
 *Next‑generation audio engine inspired by real human reactions.*
