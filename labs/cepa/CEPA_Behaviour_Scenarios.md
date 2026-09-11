@@ -1,5 +1,5 @@
 # 🧪 CEPA Logic – Behaviour Scenarios (NO SPIKE)
-### Documentation of CEPA Logic behavioural scenarios.
+## Documentation of CEPA Logic behavioural scenarios.
 
 🧠 **Logical behaviour map**  
 The following scenarios describe the current behaviour of  
