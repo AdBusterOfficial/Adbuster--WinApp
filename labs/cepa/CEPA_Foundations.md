@@ -2,6 +2,15 @@
 # ⚙️ AdBuster PRO — CEPA Behavioural Logic  
 ![CEPA Foundations – Behavioural Logic](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Cepa_foundations_behavioural_logic.png?raw=true)
 
+## 🧩 Overview
+CEPA Logic is the behavioural decision engine inside AdBuster PRO.  
+It does not process or modify audio — instead, it observes how the signal behaves over time and reacts deterministically, like a human adjusting volume with a remote.
+
+CEPA analyses acoustic metrics, behavioural patterns, context, trends and stability to make safe, predictable volume decisions in real time.  
+This document describes the core foundations behind CEPA Logic and how AdBuster PRO maintains stable loudness offline, locally, without cloud dependency.
+
+---
+
 ## Foundations
 
 CEPA behavioural logic is the decision engine inside AdBuster PRO.  
