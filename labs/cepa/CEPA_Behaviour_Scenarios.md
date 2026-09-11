@@ -1,5 +1,4 @@
 ## 🧪 CEPA Logic – Behaviour Scenarios (NO SPIKE)
-### Documentation of CEPA MASTER LIGHT (NO SPIKE) behavioural scenarios.
 
 🧠 **Logical behaviour map**  
 The following scenarios describe the current behaviour of  
