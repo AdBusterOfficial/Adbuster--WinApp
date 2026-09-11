@@ -1,11 +1,11 @@
 ## 🧪 CEPA Logic – Behaviour Scenarios (NO SPIKE)
-### Documentation of CEPA MASTER LIGHT (NO SPIKE) behavioural scenarios.
+### Documentation of CEPA Logic behavioural scenarios (NO SPIKE mode).
 
 🧠 **Logical behaviour map**  
 The following scenarios describe the current behaviour of  
-**AdBuster PRO – CEPA_MASTER_LIGHT (NO SPIKE)**  
+**AdBuster PRO – CEPA Logic (NO SPIKE mode)**  
 with soft rise/drop detection, smooth threshold correction  
-and fully disabled SPIKE FIX.
+and fully disabled spike reactions.
 
 ---
 
@@ -54,7 +54,7 @@ and fully disabled SPIKE FIX.
 
 ### 🟨 7. Sudden spike (sneeze, pop)
 - Characteristics: very large, short impulse  
-- SPIKE FIX: disabled (NO SPIKE), smoothing absorbs the impulse  
+- SPIKE FIX: disabled (NO SPIKE mode), smoothing absorbs the impulse  
 - Reaction: no `VOL_DOWN` (delta in smooth_gui < 3)  
 - Effect: single spikes are ignored; no panic reactions.
 
