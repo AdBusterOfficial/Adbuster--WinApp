@@ -1,6 +1,5 @@
 
 # ⚙️ AdBuster PRO — CEPA Behavioural Logic  
-![CEPA Foundations – Behavioural Logic](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Cepa_foundations_behavioural_logic.png?raw=true)
 
 ## 🧩 Overview
 CEPA Logic is the behavioural decision engine inside AdBuster PRO.  
