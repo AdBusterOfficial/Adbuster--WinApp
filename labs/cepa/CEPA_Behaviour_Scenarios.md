@@ -1,8 +1,8 @@
 ## 🧪 CEPA Logic – Behaviour Scenarios (NO SPIKE)
 ### Documentation of CEPA MASTER LIGHT (NO SPIKE) behavioural scenarios.
 
-> ### 🧠 Logical behaviour map  
-> The following scenarios describe the current behaviour of:  
+> 🧠 **Logical behaviour map**  
+> The following scenarios describe the current behaviour of  
 > **AdBuster PRO – CEPA_MASTER_LIGHT (NO SPIKE)**  
 > with soft rise/drop detection, smooth threshold correction  
 > and fully disabled SPIKE FIX.
