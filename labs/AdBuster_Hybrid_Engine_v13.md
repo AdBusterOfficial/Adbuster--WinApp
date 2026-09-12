@@ -1,4 +1,5 @@
 # 📘 AdBuster Hybrid Engine v13 — Behavioural Stabilization Core
+![AdBuster Hybrid v13](./labs/AdBuster_Hybrid_v13.png)
 
 The **AdBuster Hybrid Engine v13** is the next‑generation stabilization core used inside AdBuster PRO.  
 It combines DSP smoothing, ML advertisement detection and CEPA Logic PRO into a unified behavioural system that reacts to audio the way a human would — calmly, predictably and with contextual awareness.
