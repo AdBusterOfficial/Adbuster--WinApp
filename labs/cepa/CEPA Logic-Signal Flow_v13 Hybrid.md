@@ -7,6 +7,8 @@ CEPA Logic PRO is the behavioural engine inside AdBuster PRO.
 It transforms raw audio into structured perception, intent, behaviour, comfort margins and final volume actions.  
 This multi‑layer architecture ensures stable, human‑like reactions even during rapid transitions, spikes or noisy content.
 
+---
+
 ### 🎧 Audio Input Pipeline
 Every 1024‑sample audio block is processed through:
 - amplitude → dB_raw  
@@ -16,6 +18,8 @@ Every 1024‑sample audio block is processed through:
 
 The result is a stable `LEVEL` value forwarded into CEPA for analysis.
 
+---
+
 ### 🟨 ML Context Integration
 Machine Learning continuously classifies the audio into:
 - 🟡 AD (Advertisement)  
@@ -23,6 +27,8 @@ Machine Learning continuously classifies the audio into:
 - ⚪ DIALOG / NORMAL  
 
 CEPA always receives ML context first, ensuring correct interpretation of loudness, spikes and transitions.
+
+---
 
 ### 🔵 Perception Layer — Signal Understanding
 CEPA constructs a detailed perception model:
@@ -34,6 +40,8 @@ CEPA constructs a detailed perception model:
 - context classification  
 
 This layer converts raw audio into structured behavioural information.
+
+---
 
 ### 🟣 Intent Layer — Meaning of Loudness
 CEPA interprets perception and assigns intent:
@@ -48,11 +56,15 @@ Examples:
 
 Intent determines whether CEPA should react, soften behaviour or stay passive.
 
+---
+
 ### 🟩 Behaviour Layer — CEPA State Machine
 CEPA transitions between behavioural states:
 NORMAL, AD, MUSIC, DIALOG, TRANSITION_UP, TRANSITION_DOWN, RETURN
 
 These states define CEPA’s “mode of thinking” and control how aggressively it responds.
+
+---
 
 ### 🟧 Comfort Layer — Dynamic Margins
 CEPA adjusts sensitivity based on context:
@@ -67,6 +79,8 @@ Examples:
 
 This layer ensures comfort and prevents over‑reaction.
 
+---
+
 ### 🟥 Action Layer — Final Decision
 CEPA makes the final loudness decision:
 - diff > margin → VOL_DOWN  
@@ -75,6 +89,8 @@ CEPA makes the final loudness decision:
 
 With stability controls:
 step_delay, anti‑spam, hard_limit, RETURN protection, dialog protection
+
+---
 
 ### 📡 Output — IR Command Dispatch
 CEPA returns:
