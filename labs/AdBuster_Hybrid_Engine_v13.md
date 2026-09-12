@@ -1,4 +1,4 @@
-![AD MODE Logic — AdBuster PRO](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AD_mode_logic.png)
+
 
 # 📘 AdBuster Hybrid Engine v13 — Behavioural Stabilization Core
 
