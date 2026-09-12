@@ -82,7 +82,7 @@ CEPA returns:
 
 The callback sends the command to the TV.
 
-```
+---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
