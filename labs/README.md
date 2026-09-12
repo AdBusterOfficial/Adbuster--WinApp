@@ -41,6 +41,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [real-time-flow.md](./real-time-flow.md)
 - [model_feature_reduction.md](./model_feature_reduction.md)
 - [ML_CEPA_Synchronization.md](./ML_CEPA_Synchronization.md)
+- [AdBuster_PRO_Overview.md](./AdBuster_PRO_Overview.md)
 
 ### 📦 Other Markdown Files
 - [README.md](./README.md)
