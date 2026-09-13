@@ -43,7 +43,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [model_feature_reduction.md](./model_feature_reduction.md)
 - [ML_CEPA_Synchronization.md](./ML_CEPA_Synchronization.md)
 - [AdBuster_PRO_Overview.md](./AdBuster_PRO_Overview.md)
-- [AdBuster_Hybrid_Engine_v13.md](./AdBuster_Hybrid_Engine_v13.md)
+- [AdBuster_Hybrid_Engine_v13.md](./hybrid/AdBuster_Hybrid_Engine_v13.md)
 
 ### 📦 Other Markdown Files
 - [README.md](./README.md)
