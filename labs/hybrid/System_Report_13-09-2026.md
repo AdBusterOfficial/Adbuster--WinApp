@@ -146,6 +146,9 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 
 # 📄 Full Log Dump — 13 Sep 2026  
 *(Full content from the provided document)*
+
+<br>
+
 127.0.0.1 - - [13/Sep/2026 13:25:55] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:25:59] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:26:00] "GET /status HTTP/1.1" 200 -
@@ -249,45 +252,6 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 127.0.0.1 - - [13/Sep/2026 13:33:22] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:27] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:32] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:37] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:42] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:47] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:51] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:52] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:53] "GET /send?cmd=VOL_UP HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:57] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:02] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:07] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:12] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:17] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:18] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:20] "GET /send?cmd=VOL_UP HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:22] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:23] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:25] "GET /send?cmd=VOL_UP HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:27] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:32] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:37] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:42] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:47] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:52] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:52] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:54] "GET /send?cmd=VOL_UP HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:34:57] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:02] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:07] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:12] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:17] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:22] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:27] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:32] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:37] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:42] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:47] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:52] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:35:57] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:36:02] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:36:07] "GET /status HTTP/1.1" 200 -
 
 ---
 
