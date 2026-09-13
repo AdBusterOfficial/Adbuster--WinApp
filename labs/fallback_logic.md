@@ -4,6 +4,8 @@
 
 ![Fallback Logic — AdBuster PRO](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/fallback_logic.png)
 
+<br>
+
 # Fallback Logic — AdBuster PRO
 
 This diagram illustrates how CEPA PRO handles fallback conditions when the audio context becomes unstable, ambiguous, or transitions between states.
