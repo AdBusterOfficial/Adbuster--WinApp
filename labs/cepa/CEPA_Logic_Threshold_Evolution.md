@@ -2,6 +2,7 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
 
 # CEPA Logic – Threshold Evolution (Dynamic AVG − 2 → Calibrated Baseline + Manual Override + Auto‑Correction)
 
