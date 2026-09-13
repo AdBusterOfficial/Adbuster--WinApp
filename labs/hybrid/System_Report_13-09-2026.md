@@ -104,6 +104,8 @@ This is an ideal log for a fully functioning system.
 
 ---
 
+![AdBuster Device Module](AdBuster%20Device%20Module.png)
+
 # 📘 Hybrid Engine v13 — Startup Snapshot
 
 ## 🟦 ML Layer Initialization  
