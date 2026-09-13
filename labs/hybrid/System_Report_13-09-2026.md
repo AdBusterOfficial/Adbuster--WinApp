@@ -251,9 +251,8 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 127.0.0.1 - - [13/Sep/2026 13:33:17] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:22] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:27] "GET /status HTTP/1.1" 200 -
-
----
-
+```
 ---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
