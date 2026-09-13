@@ -14,6 +14,12 @@ Hybrid Engine v13 is the behavioural audio module powering AdBuster PRO.
 It integrates DSP smoothing, ML advertisement detection and CEPA Logic PRO
 into a unified system that delivers stable, human‑like volume control.
 
+---
+
+### 🔹 Evolution Note
+Hybrid Engine v13 is the next-generation core of the AdBuster Windows application.
+It replaces the older AdBuster 2.0 engine with a fully redesigned DSP+ML+CEPA pipeline.
+
 Core Components:
 - DSP loudness analysis
 - 4‑feature ML classifier
