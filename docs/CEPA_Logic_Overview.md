@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
+</p>
+
+<br>
+
 # **CEPA Logic — Technical Overview**  
 ## **Version 1.0 — © 2026 AdBuster Development Team, Dublin**
 
