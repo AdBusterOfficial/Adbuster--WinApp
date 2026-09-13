@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # Model Overview
 
 This document provides a visual overview of the classifier model (`ad_detector.pkl`)  
