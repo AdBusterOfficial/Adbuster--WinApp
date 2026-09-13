@@ -147,6 +147,8 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 ## 📄 Full Log Dump — 13 Sep 2026
 (Full content from the provided document)
 
+```
+
 127.0.0.1 - - [13/Sep/2026 13:25:55] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:25:59] "GET /send?cmd=VOL_DOWN HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:26:00] "GET /status HTTP/1.1" 200 -
@@ -249,8 +251,6 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 127.0.0.1 - - [13/Sep/2026 13:33:17] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:22] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:27] "GET /status HTTP/1.1" 200 -
-127.0.0.1 - - [13/Sep/2026 13:33:32] "GET /status HTTP/1.1" 200 -
-```
 
 ---
 
