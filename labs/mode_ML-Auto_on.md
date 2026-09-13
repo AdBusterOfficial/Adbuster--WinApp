@@ -4,6 +4,8 @@
 
 ![ML‑Auto Mode — AdBuster PRO](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/mode_ML-Auto_on.png)
 
+<br>
+
 # ML/Auto Mode — AdBuster PRO
 
 This diagram illustrates how CEPA PRO behaves when ML/Auto Mode is enabled.
