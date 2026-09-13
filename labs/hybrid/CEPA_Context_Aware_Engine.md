@@ -8,15 +8,15 @@
 
 ### 📘 CEPA_Context_Aware_Engine.md
 
-# 🟦 CEPA MASTER v13 — Context‑Aware Behaviour Engine
+# 🟦 CEPA Logic PRO v13 — Context‑Aware Behaviour Engine
 
-CEPA MASTER v13 is not a simple volume regulator.  
+CEPA Logic PRO v13 is not a simple volume regulator.  
 It is a full behavioural engine that reacts to audio **based on context**, not just loudness.  
 Hybrid Engine v13 uses DSP + ML + CEPA layers to understand *what* is happening in the audio and respond accordingly.
 
 ---
 
-## 🟩 Context Layers Used by CEPA MASTER v13
+## 🟩 Context Layers Used by CEPA Logic PRO v13
 
 ### 🔹 ML Context (AD / MUSIC / NORMAL)
 CEPA receives machine‑learning flags:
