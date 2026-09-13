@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
+</p>
+
+<br>
+
 # Broadlink Server Runtime Log
 
 This snapshot shows the backend workflow of the Broadlink control layer:
