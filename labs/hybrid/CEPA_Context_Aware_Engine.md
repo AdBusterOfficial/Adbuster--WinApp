@@ -129,7 +129,7 @@ Fallback logic activates only when appropriate.
 
 CEPA Logic PRO v13 makes decisions using **16 independent context layers**:
 
-1. **ML classification** (AD / MUSIC / NORMAL)  
+1. **ML classification** (AD / MUSIC / TALK / NORMAL)  
 2. **Signal behaviour** (RMS / STD / DELTA / RANGE)  
 3. **Time‑of‑day thresholds**  
 4. **User interaction** (manual override)  
