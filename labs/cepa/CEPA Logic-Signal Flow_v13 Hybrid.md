@@ -1,6 +1,6 @@
 # CEPA Logic PRO — Signal Flow (v13 Hybrid)
 
-![CEPA Logic PRO — Signal Flow (v13 Hybrid)](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/CEPA%20Logic%20PRO-Signal%20Flow%20(v13%20Hybrid).png)
+![CEPA Logic PRO — Signal Flow (v13 Hybrid)](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/CEPA%20Logic%20PRO-Signal%20Flow%20(v13%20Hybrid).png)
 
 ### 🤖 Overview
 CEPA Logic PRO is the behavioural engine inside AdBuster PRO.  
