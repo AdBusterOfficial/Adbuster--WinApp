@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # 🧪 CEPA Logic – Behaviour Scenarios (NO SPIKE)
 ## Documentation of CEPA Logic behavioural scenarios.
 
