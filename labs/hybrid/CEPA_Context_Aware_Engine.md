@@ -136,7 +136,7 @@ CEPA Logic PRO v13 reacts based on:
 - **music vs ads vs normal content**  
 - **safety limits and anti‑spam rules**
 
-Hybrid Engine v13 is a **context‑aware audio engine**, not a simple volume controller.
+AdBuster Hybrid Engine v13 is a **context‑aware audio engine**, not a simple volume controller.
 
 ---
 
