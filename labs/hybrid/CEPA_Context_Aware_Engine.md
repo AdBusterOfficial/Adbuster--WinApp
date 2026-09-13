@@ -125,18 +125,28 @@ Fallback logic activates only when appropriate.
 
 ---
 
-## 🟧 Summary
-CEPA Logic PRO v13 reacts based on:
+## 🟧 Summary — Full Context Model (16 layers)
 
-- **ML classification**  
-- **signal behaviour**  
-- **time of day**  
-- **user interaction**  
-- **spikes, drifts, trends**  
-- **music vs ads vs normal content**  
-- **safety limits and anti‑spam rules**
+CEPA Logic PRO v13 makes decisions using **16 independent context layers**:
 
-AdBuster Hybrid Engine v13 is a **context‑aware audio engine**, not a simple volume controller.
+1. **ML classification** (AD / MUSIC / NORMAL)  
+2. **Signal behaviour** (RMS / STD / DELTA / RANGE)  
+3. **Time‑of‑day thresholds**  
+4. **User interaction** (manual override)  
+5. **Spike detection**  
+6. **Drift detection**  
+7. **Trend detection**  
+8. **Music vs ads vs normal content**  
+9. **Safety limits** (UP/DOWN limits, cooldowns)  
+10. **Anti‑spam rules** (action window limits)  
+11. **Silence context** (no audio → fallback logic)  
+12. **IR error context** (temporary IR block)  
+13. **ML hold** (stabilization of ML decisions)  
+14. **AD hold** (advertisement persistence window)  
+15. **Deadzone + stable zone** (ignore micro‑changes)  
+16. **Preset context** (min/max volume, deadzone, stable zone)
+
+**AdBuster Hybrid Engine v13 is a context‑aware audio engine, not a simple volume controller.**
 
 ---
 
