@@ -252,6 +252,19 @@ Preset is valid and fully compatible with Hybrid Engine v13.
 127.0.0.1 - - [13/Sep/2026 13:33:22] "GET /status HTTP/1.1" 200 -
 127.0.0.1 - - [13/Sep/2026 13:33:27] "GET /status HTTP/1.1" 200 -
 ```
+
+## 📘 Interpretation of the Log Fragment
+
+This log fragment demonstrates a fully stable backend–frontend communication cycle.  
+The `/status` endpoint is polled consistently every few seconds, and each request returns **200 OK**, confirming that the backend remains responsive with no interruptions, timeouts, or errors.  
+
+The occasional IR commands (`VOL_UP` and `VOL_DOWN`) are executed intentionally and cleanly, each returning **200 OK**, which indicates that CEPA Hybrid Engine v13 sends controlled, non‑repetitive actions.  
+There is no spamming, no oscillation, and no abnormal behaviour.  
+
+Overall, this segment shows a healthy and stable system:  
+the backend operates continuously, the IR dispatcher processes commands correctly, and CEPA behaves predictably without overreacting to short audio fluctuations.
+```
+
 ---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
