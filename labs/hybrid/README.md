@@ -34,9 +34,9 @@ Documentation:
   [System_Report_13-09-2026.md](./System_Report_13-09-2026.md)
 
 Images:
-- CEPA Preset Setup: Cepa_preset_setup.png
-- Hybrid Engine Diagram: AdBuster_Hybrid_v13.png
-- Hardware Concept Banner: Banner_NEW_GOLD_labs.png
+- CEPA Preset Setup: [Cepa_preset_setup.png](./Cepa_preset_setup.png)
+- Hybrid Engine Diagram: [AdBuster_Hybrid_v13.png](./AdBuster_Hybrid_v13.png)
+- Hardware Concept Banner: [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
 
 Notes:
 This module is part of AdBuster PRO Hybrid Engine v13.
