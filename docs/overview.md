@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
+</p>
+
+<br>
+
 # AdBuster PRO — Architecture Overview (Public Preview)
 
 This document provides a high‑level overview of the internal architecture of AdBuster PRO.
