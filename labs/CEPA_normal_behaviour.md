@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # CEPA Logic PRO — NORMAL Behaviour
 
 ![CEPA Logic PRO — NORMAL Behaviour](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa_normal_behaviour.png)
