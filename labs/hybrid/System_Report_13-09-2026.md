@@ -104,6 +104,8 @@ This is an ideal log for a fully functioning system.
 
 ---
 
+<img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/AdBuster_CEPA_logo.png?raw=true" width="180" alt="AdBuster CEPA Logo">
+
 # 📘 Hybrid Engine v13 — Startup Snapshot
 
 ## 🟦 ML Layer Initialization  
