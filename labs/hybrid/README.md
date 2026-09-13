@@ -42,6 +42,9 @@ room size, content type).
 - System Report  
   [System_Report_13-09-2026.md](./System_Report_13-09-2026.md)
 
+  - CEPA Logic PRO — Context‑Aware Engine  
+  [CEPA_Context_Aware_Engine.md](./CEPA_Context_Aware_Engine.md)
+
 ### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
