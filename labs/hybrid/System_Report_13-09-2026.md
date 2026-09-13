@@ -126,7 +126,7 @@ Meaning:
 
 ---
 
-🟩 CEPA Logic — Active Preset
+## 🟩 CEPA Logic — Active Preset
 
 ![CEPA Preset Setup](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/Cepa_preset_setup.png?raw=true)
 
