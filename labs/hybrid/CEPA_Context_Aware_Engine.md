@@ -126,7 +126,7 @@ Fallback logic activates only when appropriate.
 ---
 
 ## 🟧 Summary
-CEPA MASTER v13 reacts based on:
+CEPA Logic PRO v13 reacts based on:
 
 - **ML classification**  
 - **signal behaviour**  
