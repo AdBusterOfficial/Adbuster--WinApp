@@ -126,7 +126,14 @@ Meaning:
 
 ---
 
-## 🟩 CEPA Logic — Active Preset  
+🟩 CEPA Logic — Active Preset
+
+![CEPA Preset Setup](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/Cepa_preset_setup.png?raw=true)
+
+Preset applied:
+
+“CEPA preset applied: {'min_volume': 5, 'max_volume': 15, 'deadzone': 2, 'stable_zone': 3, 'ad_aggressiveness': 'medium', 'room_factor': 'medium', 'dialog_priority': 'medium', 'music_priority': 'medium'}”
+ 
 Preset applied:
 
 “CEPA preset applied: {'min_volume': 5, 'max_volume': 15, 'deadzone': 2, 'stable_zone': 3, 'ad_aggressiveness': 'medium', 'room_factor': 'medium', 'dialog_priority': 'medium', 'music_priority': 'medium'}”
