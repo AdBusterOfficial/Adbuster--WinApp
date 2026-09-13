@@ -2,6 +2,7 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
 
 # 🎧 Acoustic Feature Analysis Report (ADS vs NORMAL)
 
