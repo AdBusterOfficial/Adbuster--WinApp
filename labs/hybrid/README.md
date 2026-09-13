@@ -32,7 +32,7 @@ Hybrid Engine v13 adapts its behaviour to the user’s viewing style using
 a configurable preset system (volume habits, reaction speed, ad sensitivity,
 room size, content type).
 
-### 📊 Documentation:
+### 🔁 Documentation:
 - Hybrid Engine — Main Document  
   [AdBuster_Hybrid_Engine_v13.md](./AdBuster_Hybrid_Engine_v13.md)
 
@@ -52,7 +52,7 @@ room size, content type).
 - Hardware Concept Banner  
   [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
 
-### 📊 Notes:
+### 📌 Notes:
 This module is part of AdBuster PRO Hybrid Engine v13.
 All logs and snapshots are generated automatically during continuous operation.
 
