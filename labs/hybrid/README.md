@@ -27,7 +27,7 @@ It replaces the older AdBuster 2.0 engine with a fully redesigned DSP+ML+CEPA pi
 - IR dispatcher
 - 24/7 backend monitoring
 
-### 📊 CEPA Preset Setup:
+### 🎯 CEPA Preset Setup:
 Hybrid Engine v13 adapts its behaviour to the user’s viewing style using
 a configurable preset system (volume habits, reaction speed, ad sensitivity,
 room size, content type).
@@ -42,7 +42,7 @@ room size, content type).
 - System Report  
   [System_Report_13-09-2026.md](./System_Report_13-09-2026.md)
 
-### 📊 Images:
+### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
 
