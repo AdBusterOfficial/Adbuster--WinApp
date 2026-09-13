@@ -1,10 +1,14 @@
+![AdBuster Hardware Concept](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Banner_NEW_GOLD_labs.png)
+
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
-## AdBuster Research Labs — R&D Branch
+---
 
-![AdBuster Hardware Concept](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/Banner_NEW_GOLD_labs.png)
+<br>
+
+## AdBuster Research Labs — R&D Branch
 
 This directory contains research‑only materials used during development and prototyping of the offline AdBuster machine learning pipeline.  
 Nothing in this folder is part of the main AdBuster PRO application.
