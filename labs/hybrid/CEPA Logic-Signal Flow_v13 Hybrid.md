@@ -1,3 +1,5 @@
+![System Report — AdBuster Hybrid Engine](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster_Hybrid_v13.png)
+
 # CEPA Logic PRO — Signal Flow (v13 Hybrid)
 
 ![CEPA Logic PRO — Signal Flow (v13 Hybrid)](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/CEPA%20Logic%20PRO-Signal%20Flow%20(v13%20Hybrid).png)
