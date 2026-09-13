@@ -105,7 +105,7 @@ This is an ideal log for a fully functioning system.
 ## 🟦 ML Layer Initialization  
 The ML engine initializes successfully:
 
-> “[ML] Loaded 4‑feature model + scaler OK”
+ “[ML] Loaded 4‑feature model + scaler OK”
 
 Meaning:
 - the 4‑feature classifier is active  
