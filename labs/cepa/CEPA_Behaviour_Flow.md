@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # ⚙️ AdBuster PRO — CEPA Behaviour Flow (Research Draft)
 
 ![CEPA Behaviour Flow](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster_CEPA_Behaviour_Flow.png)
