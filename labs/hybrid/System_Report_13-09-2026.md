@@ -117,7 +117,7 @@ Meaning:
 ## 🟧 Audio Device Binding  
 The engine binds the manual audio device:
 
-> “Using manual audio device: Microphon (Conexant HD Audio capture)”
+“Using manual audio device: Microphone (Conexant HD Audio capture)”
 
 Meaning:
 - audio input is active  
@@ -129,7 +129,7 @@ Meaning:
 ## 🟩 CEPA Logic — Active Preset  
 Preset applied:
 
-> “CEPA preset applied: {'min_volume': 5, 'max_volume': 15, 'deadzone': 2, 'stable_zone': 3, 'ad_aggressiveness': 'medium', 'room_factor': 'medium', 'dialog_priority': 'medium', 'music_priority': 'medium'}”
+“CEPA preset applied: {'min_volume': 5, 'max_volume': 15, 'deadzone': 2, 'stable_zone': 3, 'ad_aggressiveness': 'medium', 'room_factor': 'medium', 'dialog_priority': 'medium', 'music_priority': 'medium'}”
 
 Interpretation:
 - **min_volume 5 / max_volume 15** — IR operating range  
