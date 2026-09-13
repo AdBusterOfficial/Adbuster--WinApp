@@ -6,7 +6,7 @@
 
 <br>
 
-# 🟦 CEPA Logic PRO v13 — Context‑Aware Behaviour Engine
+# 🧠 CEPA Logic PRO v13 — Context‑Aware Behaviour Engine
 
 CEPA Logic PRO v13 is not a simple volume regulator.  
 It is a full behavioural engine that reacts to audio **based on context**, not just loudness.  
