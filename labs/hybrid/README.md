@@ -20,19 +20,19 @@ into a unified system that delivers stable, human‑like volume control.
 Hybrid Engine v13 is the next-generation core of the AdBuster Windows application.
 It replaces the older AdBuster 2.0 engine with a fully redesigned DSP+ML+CEPA pipeline.
 
-### 🟡 Core Components:
+### 📊 Core Components:
 - DSP loudness analysis
 - 4‑feature ML classifier
 - CEPA behavioural logic
 - IR dispatcher
 - 24/7 backend monitoring
 
-### 🔵 CEPA Preset Setup:
+### 📊 CEPA Preset Setup:
 Hybrid Engine v13 adapts its behaviour to the user’s viewing style using
 a configurable preset system (volume habits, reaction speed, ad sensitivity,
 room size, content type).
 
-### ⚪ Documentation:
+### 📊 Documentation:
 - Hybrid Engine — Main Document  
   [AdBuster_Hybrid_Engine_v13.md](./AdBuster_Hybrid_Engine_v13.md)
 
@@ -42,7 +42,7 @@ room size, content type).
 - System Report  
   [System_Report_13-09-2026.md](./System_Report_13-09-2026.md)
 
-### Images:
+### 📊 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
 
@@ -52,7 +52,7 @@ room size, content type).
 - Hardware Concept Banner  
   [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
 
-### Notes:
+### 📊 Notes:
 This module is part of AdBuster PRO Hybrid Engine v13.
 All logs and snapshots are generated automatically during continuous operation.
 
