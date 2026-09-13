@@ -16,17 +16,18 @@ Hybrid Engine v13 uses DSP + ML + CEPA layers to understand what is happening in
 
 ## 🟩 Context Layers Used by CEPA Logic PRO v13
 
-### 🔹 ML Context (AD / MUSIC / NORMAL)
+### 🔹 ML Context (AD / MUSIC / TALK / NORMAL)
 CEPA receives machine‑learning flags:
 
 - **AD** → controlled but immediate VOL_DOWN  
 - **MUSIC** → softer reactions, ignore fast spikes  
+- **TALK** → dialog protection, softer behaviour  
 - **NORMAL** → balanced behaviour  
 
 ```python
 ml_flags = {
     "is_ad": ad_mode,
-    "is_dialog": False,
+    "is_dialog": (ml_label == "TALK"),
     "is_music": is_music
 }
 ```
