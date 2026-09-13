@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
 </p>
 
+<br>
+
 # **AdBuster 2.0 PRO – Proprietary License Agreement**  
 ## **© 2026 AdBuster Development Team / Dublin, Ireland / D.P‑G — All Rights Reserved.**
 
