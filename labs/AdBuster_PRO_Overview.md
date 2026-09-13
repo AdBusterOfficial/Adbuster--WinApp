@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # ⚙️ AdBuster PRO — Overview
 
 AdBuster PRO is a lightweight real‑time audio stabilizer designed to keep TV volume consistent across different types of content.  
