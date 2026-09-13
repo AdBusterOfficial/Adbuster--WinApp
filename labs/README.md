@@ -282,6 +282,10 @@ CEPA v3.0 becomes the central behaviour engine of AdBuster PRO, orchestrating st
 
 ---
 
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
+---
+
 <br>
 
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
