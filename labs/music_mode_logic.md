@@ -1,3 +1,7 @@
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
 ![Music Mode Logic — AdBuster PRO](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/music_mode_logic.png)
 
 # Music Mode Logic — AdBuster PRO
