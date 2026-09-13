@@ -100,7 +100,7 @@ This is an ideal log for a fully functioning system.
 
 ---
 
-# 🟦 Hybrid Engine v13 — Startup Snapshot
+# 📘 Hybrid Engine v13 — Startup Snapshot
 
 ## 🟦 ML Layer Initialization  
 The ML engine initializes successfully:
