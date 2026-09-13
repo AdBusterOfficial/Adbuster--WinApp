@@ -2,6 +2,8 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
+<br>
+
 # AD Detection Upgrade — Lab Overview
 
 This document describes an experimental AD‑detection model developed inside the AdBuster lab.  
