@@ -55,7 +55,8 @@ This enables detection of:
 CEPA transitions between states:
 
 - NORMAL  
-- AD  
+- AD
+- TALK 
 - MUSIC  
 - TRANSITION_UP  
 - TRANSITION_DOWN  
