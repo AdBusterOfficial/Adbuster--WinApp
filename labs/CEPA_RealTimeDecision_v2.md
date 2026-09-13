@@ -1,3 +1,8 @@
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
+
 # CEPA Logic — Real‑Time Decision v2
 
 ![CEPA Logic — Real-Time Decision v2](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/CEPA_real_time_decision.jpg)
