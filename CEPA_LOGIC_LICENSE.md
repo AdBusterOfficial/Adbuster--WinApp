@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
+</p>
+
+<br>
+
 # **CEPA Logic — Proprietary License & Trade Secret Agreement**  
 ## **© 2026 DP‑G / AdBuster Development Team — All Rights Reserved.**
 
