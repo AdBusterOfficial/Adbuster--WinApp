@@ -6,13 +6,11 @@
 
 <br>
 
-### 📘 CEPA_Context_Aware_Engine.md
-
 # 🟦 CEPA Logic PRO v13 — Context‑Aware Behaviour Engine
 
 CEPA Logic PRO v13 is not a simple volume regulator.  
 It is a full behavioural engine that reacts to audio **based on context**, not just loudness.  
-Hybrid Engine v13 uses DSP + ML + CEPA layers to understand *what* is happening in the audio and respond accordingly.
+Hybrid Engine v13 uses DSP + ML + CEPA layers to understand what is happening in the audio and respond accordingly.
 
 ---
 
@@ -38,10 +36,10 @@ ml_flags = {
 ### 🔹 Perception Context (RMS / STD / DELTA / RANGE)
 CEPA interprets the behaviour of the signal:
 
-- RMS → energy  
-- STD → variability  
-- DELTA → sudden jumps  
-- RANGE → dynamic spread  
+- **RMS** → energy  
+- **STD** → variability  
+- **DELTA** → sudden jumps  
+- **RANGE** → dynamic spread  
 
 This enables detection of:
 
