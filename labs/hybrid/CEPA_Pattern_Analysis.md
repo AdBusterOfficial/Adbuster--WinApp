@@ -170,9 +170,9 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 
 ---
 
-# CEPA Logic PRO v13 — Context → Pattern → Decision → IR
+# 🎛️ CEPA Logic PRO v13 — Context → Pattern → Decision → IR
 
-## 1. CONTEXT LAYERS (INPUT)
+## 🧩 1. CONTEXT LAYERS (INPUT)
 - ML Context (AD / MUSIC / TALK / NORMAL)
 - Perception Context (RMS / STD / DELTA / RANGE)
 - Behavioural Context (CEPA State Machine)
@@ -184,7 +184,7 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 - Safety Context (cooldowns, anti‑spam, IR error block)
 
 ↓
-## 2. PATTERN ANALYSIS (INTERPRETATION)
+## 🔍 2. PATTERN ANALYSIS (INTERPRETATION)
 - Trend Pattern
 - Drift Pattern
 - Spike Pattern
@@ -198,7 +198,7 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 - Advertisement Pattern
 
 ↓
-## 3. CEPA DECISION LOGIC
+## ⚙️ 3. CEPA DECISION LOGIC
 Inputs:
 - level_smooth
 - ml_flags
@@ -211,7 +211,7 @@ Decisions:
 - PASS
 
 ↓
-## 4. IR COMMAND OUTPUT
+## 📡 4. IR COMMAND OUTPUT
 Commands:
 - VOL_DOWN
 - VOL_UP
@@ -222,7 +222,7 @@ Safety:
 - AD block (no VOL_UP during ads)
 - IR error protection
 
-## Summary
+## 📝 Summary
 CEPA Logic PRO v13 processes audio through four layers:
 1. CONTEXT  
 2. PATTERN  
