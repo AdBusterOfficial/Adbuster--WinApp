@@ -6,7 +6,7 @@
 
 <br>
 
-# 🎛️ CEPA Logic PRO — Contextual Event Pattern Analysis
+# 🎛️ CEPA Logic PRO v13 — Contextual Event Pattern Analysis
 CEPA Logic PRO does not classify audio the way ML does.  
 Instead, it interprets **patterns of behaviour over time**, reacting to sequences of events rather than isolated blocks.
 
