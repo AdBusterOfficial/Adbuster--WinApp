@@ -61,6 +61,22 @@ including training workflows, feature extraction logic, model evaluation, and CE
 
 ---
 
+## 📘 CEPA Behaviour Flow (v13 Hybrid)
+
+The table below summarizes the internal behaviour pipeline used by CEPA Logic PRO.
+It describes how each stage contributes to stable, human‑like loudness control.
+
+| Stage               | Function                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| Audio Input         | Captures real-time amplitude and converts it into a normalized GUI level. |
+| Context Detection   | Identifies playback type (AD / Music / Normal) and sets behavioural flags.|
+| CEPA FIRST          | Primary decision layer; executes immediate corrections when triggers fire.|
+| Anti-Drift          | Prevents slow upward loudness drift; maintains long-term stability.        |
+| Threshold Correction| Adjusts sensitivity based on long-term averages; disabled during ADS/music.|
+| Fallback            | Secondary safety layer; reacts when other modules are idle.               |
+
+---
+
 ## 📄 Research Dataset — `data.csv`
 
 `data.csv` is a MFCC‑based feature dataset generated from a small, controlled set of audio samples (AD vs NORMAL).
