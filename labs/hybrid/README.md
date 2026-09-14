@@ -58,6 +58,9 @@ room size, content type).
 - Hardware Concept Banner  
   [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
 
+  - CEPA Context Pattern → Decision → IR  
+  [CEPA_Context_Pattern_Decision_IR.png](./CEPA_Context_Pattern_Decision_IR.png)
+
 ### 📌 Notes:
 This module is part of AdBuster PRO Hybrid Engine v13.
 All logs and snapshots are generated automatically during continuous operation.
