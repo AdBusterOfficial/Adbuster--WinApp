@@ -58,7 +58,7 @@ room size, content type).
 - Hardware Concept Banner  
   [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
 
-  - CEPA Context Pattern → Decision → IR  
+- CEPA Context Pattern → Decision → IR  
   [CEPA_Context_Pattern_Decision_IR.png](./CEPA_Context_Pattern_Decision_IR.png)
 
 ### 📌 Notes:
