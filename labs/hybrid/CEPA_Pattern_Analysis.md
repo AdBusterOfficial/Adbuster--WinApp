@@ -178,35 +178,37 @@ AdBuster Hybrid Engine v13.
 ==============================================================
 1. CONTEXT LAYERS (INPUT)
 ==============================================================
-- ML Context (AD / MUSIC / TALK / NORMAL)
-- Perception Context (RMS / STD / DELTA / RANGE)
-- Behavioural Context (CEPA State Machine)
-- Time‑of‑Day Context
-- User Context (Manual Override)
-- Spike Context
-- Drift & Trend Context
-- Silence Context
-- Safety Context (cooldowns, anti‑spam, IR error block)
+ML Context (AD / MUSIC / TALK / NORMAL)
+Perception Context (RMS / STD / DELTA / RANGE)
+Behavioural Context (CEPA State Machine)
+Time‑of‑Day Context
+User Context (Manual Override)
+Spike Context
+Drift & Trend Context
+Silence Context
+Safety Context (cooldowns, anti‑spam, IR error block)
 
-                     |
-                     v
+|
+v
+
 ==============================================================
 2. PATTERN ANALYSIS (INTERPRETATION)
 ==============================================================
-- Trend Pattern (rising / falling behaviour)
-- Drift Pattern (slow deviation)
-- Spike Pattern (sudden impulse)
-- Stability Pattern (stable zone)
-- Deadzone Pattern (ignore micro‑changes)
-- Context Shift Pattern (NORMAL ↔ MUSIC ↔ TALK ↔ AD)
-- Return Pattern (smooth recovery)
-- Human‑like Timing Pattern (cooldowns, spacing)
-- Music Pattern (soft behaviour)
-- Dialogue Pattern (speech protection)
-- Advertisement Pattern (AD hold, AD block, forced down)
+Trend Pattern (rising / falling behaviour)
+Drift Pattern (slow deviation)
+Spike Pattern (sudden impulse)
+Stability Pattern (stable zone)
+Deadzone Pattern (ignore micro‑changes)
+Context Shift Pattern (NORMAL ↔ MUSIC ↔ TALK ↔ AD)
+Return Pattern (smooth recovery)
+Human‑like Timing Pattern (cooldowns, spacing)
+Music Pattern (soft behaviour)
+Dialogue Pattern (speech protection)
+Advertisement Pattern (AD hold, AD block, forced down)
 
-                     |
-                     v
+|
+v
+
 ==============================================================
 3. CEPA DECISION LOGIC
 ==============================================================
@@ -221,8 +223,9 @@ Decisions:
 - VOL_UP
 - PASS (no action)
 
-                     |
-                     v
+|
+v
+
 ==============================================================
 4. IR COMMAND OUTPUT
 ==============================================================
@@ -241,9 +244,9 @@ SUMMARY
 ==============================================================
 CEPA Logic PRO v13 processes audio through four layers:
 
-1. CONTEXT  
-2. PATTERN  
-3. DECISION  
+1. CONTEXT
+2. PATTERN
+3. DECISION
 4. IR COMMANDS
 
 This ensures stable, predictable, human‑like volume behaviour.
