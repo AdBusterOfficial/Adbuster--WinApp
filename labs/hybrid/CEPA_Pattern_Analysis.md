@@ -170,6 +170,137 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 
 ---
 
+# 🟦 CEPA Logic PRO v13 — Premium Navy‑Gold Flow
+# 🟨 Context → Pattern → Decision → IR
+
+A high‑level flow of how CEPA Logic PRO v13 works inside AdBuster Hybrid Engine v13.
+Navy = structure, Gold = key logic.
+
+──────────────────────────────────────────────────────────────
+🟦 1. CONTEXT LAYERS (NAVY: INPUT SOURCES)
+──────────────────────────────────────────────────────────────
+🟨 ML Context  
+   • AD / MUSIC / TALK / NORMAL  
+   • ML hold → stabilizes classification
+
+🟨 Perception Context  
+   • RMS → energy  
+   • STD → variability  
+   • DELTA → sudden jumps  
+   • RANGE → dynamic spread  
+
+🟨 Behavioural Context  
+   • CEPA Logic PRO State Machine  
+   • NORMAL / MUSIC / TALK / AD / TRANSITION_UP / TRANSITION_DOWN / RETURN
+
+🟨 Time‑of‑Day Context  
+   • Morning / Afternoon / Evening / Night thresholds
+
+🟨 User Context  
+   • Manual override → CEPA pauses
+
+🟨 Spike Context  
+   • sudden impulses → spike mode
+
+🟨 Drift & Trend Context  
+   • slow directional changes → drift mode
+
+🟨 Silence Context  
+   • no audio → fallback logic
+
+🟨 Safety Context  
+   • cooldowns, anti‑spam, IR error block
+
+▼ Navy → Gold transition
+──────────────────────────────────────────────────────────────
+🟦 2. PATTERN ANALYSIS (GOLD: BEHAVIOURAL INTERPRETATION)
+──────────────────────────────────────────────────────────────
+📈 Trend Pattern  
+   • rising / falling behaviour over time
+
+🌀 Drift Pattern  
+   • slow deviation from threshold
+
+⚡ Spike Pattern  
+   • sudden impulse detection (RMS/DELTA/RANGE)
+
+🧘 Stability Pattern  
+   • stable background zone → no action
+
+🎚️ Deadzone Pattern  
+   • human tolerance zone → ignore micro‑changes
+
+🔀 Context Shift Pattern  
+   • NORMAL ↔ MUSIC ↔ TALK ↔ AD transitions
+
+↩️ Return Pattern  
+   • smooth recovery to baseline
+
+👤 Human‑like Timing Pattern  
+   • cooldowns  
+   • anti‑bounce  
+   • spacing between actions
+
+🎵 Music Pattern  
+   • softer behaviour, protect dynamics
+
+🗣️ Dialogue Pattern  
+   • speech protection, avoid over‑correction
+
+📢 Advertisement Pattern  
+   • AD hold  
+   • AD block (no VOL_UP)  
+   • forced VOL_DOWN (1 step)
+
+▼ Gold → Action transition
+──────────────────────────────────────────────────────────────
+🟦 3. CEPA DECISION LOGIC (NAVY: CONTROL)
+──────────────────────────────────────────────────────────────
+Inputs:
+   • level_smooth  
+   • ml_flags  
+   • patterns  
+   • thresholds  
+
+Decisions:
+   🟨 VOL_DOWN  
+   🟨 VOL_UP  
+   🟦 PASS (no action)
+
+Guarantees:
+   • no oscillation  
+   • no repeated commands  
+   • context‑aware behaviour  
+   • human‑like timing
+
+▼ Final output
+──────────────────────────────────────────────────────────────
+🟦 4. IR COMMAND OUTPUT (GOLD: EXECUTION)
+──────────────────────────────────────────────────────────────
+Commands:
+   • VOL_DOWN  
+   • VOL_UP  
+
+Safety:
+   • cooldown timers  
+   • anti‑spam window  
+   • AD block (no VOL_UP during ads)  
+   • IR error protection  
+
+──────────────────────────────────────────────────────────────
+🟨 Summary (Premium Navy‑Gold)
+──────────────────────────────────────────────────────────────
+CEPA Logic PRO v13 processes audio through four layers:
+
+🟦 CONTEXT  
+🟨 PATTERN  
+🟦 DECISION  
+🟨 IR COMMANDS  
+
+This creates a stable, human‑like, context‑aware volume control system.
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
