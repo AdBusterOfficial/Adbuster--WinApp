@@ -183,7 +183,7 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 - Silence Context
 - Safety Context (cooldowns, anti‑spam, IR error block)
 
-↓
+⇩
 ## 🔍 2. PATTERN ANALYSIS (INTERPRETATION)
 - Trend Pattern
 - Drift Pattern
@@ -197,7 +197,7 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 - Dialogue Pattern
 - Advertisement Pattern
 
-↓
+⇩
 ## ⚙️ 3. CEPA DECISION LOGIC
 Inputs:
 - level_smooth
@@ -210,7 +210,7 @@ Decisions:
 - VOL_UP
 - PASS
 
-↓
+⇩
 ## 📡 4. IR COMMAND OUTPUT
 Commands:
 - VOL_DOWN
