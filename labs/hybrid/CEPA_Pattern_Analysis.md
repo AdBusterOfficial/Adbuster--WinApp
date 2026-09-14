@@ -172,9 +172,13 @@ These patterns allow AdBuster PRO to react calmly, intelligently and predictably
 
 # 🎛️ CEPA Logic PRO v13 — Context → Pattern → Decision → IR
 
+<br>
+
 ![CEPA Logic PRO v13](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/hybrid/CEPA_Context_Pattern_Decision_IR.png)
 
 This ensures stable, predictable, human‑like volume behaviour.
+
+<br>
 
 ---
 
