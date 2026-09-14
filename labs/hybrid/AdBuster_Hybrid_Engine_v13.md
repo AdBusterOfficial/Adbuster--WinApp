@@ -69,7 +69,7 @@ The hybrid engine adjusts sensitivity dynamically:
 
 - base comfort margin  
 - AD margin (faster reactions)  
-- talk margin (talk protection)  
+- dialogue margin (talk protection) 
 - music margin (softer behaviour)
 
 This prevents over‑correction and keeps reactions stable and human‑like.
