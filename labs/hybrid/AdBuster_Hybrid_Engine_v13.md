@@ -35,7 +35,7 @@ A lightweight ML model evaluates each audio block using four behavioural feature
 
 - **AD (Advertisement)**  
 - **MUSIC**  
-- **NORMAL / DIALOG**
+- **NORMAL / TALK**
 
 A stability hold mechanism prevents false triggers and ensures reliable advertisement detection.
 
@@ -58,7 +58,7 @@ CEPA assigns intent:
 - NEUTRAL  
 
 And transitions between behavioural states:
-NORMAL • AD • MUSIC • DIALOG • TRANSITION_UP • TRANSITION_DOWN • RETURN
+NORMAL • AD • MUSIC • TALK • TRANSITION_UP • TRANSITION_DOWN • RETURN
 
 This defines how aggressively the hybrid engine responds.
 
@@ -69,7 +69,7 @@ The hybrid engine adjusts sensitivity dynamically:
 
 - base comfort margin  
 - AD margin (faster reactions)  
-- dialog margin (dialog protection)  
+- talk margin (talk protection)  
 - music margin (softer behaviour)
 
 This prevents over‑correction and keeps reactions stable and human‑like.
