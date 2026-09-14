@@ -45,6 +45,9 @@ room size, content type).
 - CEPA Logic PRO — Context‑Aware Engine  
   [CEPA_Context_Aware_Engine.md](./CEPA_Context_Aware_Engine.md)
 
+  - CEPA Logic PRO — Contextual Pattern Analysis  
+  [CEPA_Pattern_Analysis.md](./labs/hybrid/CEPA_Pattern_Analysis.md)
+
 ### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
