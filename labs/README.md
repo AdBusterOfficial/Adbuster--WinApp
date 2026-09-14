@@ -20,7 +20,7 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 ## 🎧 CEPA Behaviour Examples
 The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in real time:
 
-### 📘 CEPA Behaviour Flow — Three Core Components
+### 📘 CEPA Logic PRO — Three Core Components
 
 | Component                | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
