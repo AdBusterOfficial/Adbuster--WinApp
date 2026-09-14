@@ -8,7 +8,7 @@
 
 <br>
 
-## AdBuster Research Labs — R&D Branch
+# AdBuster Research Labs — R&D Branch
 
 This directory contains research‑only materials used during development and prototyping of the offline AdBuster machine learning pipeline.  
 Nothing in this folder is part of the main AdBuster PRO application.
@@ -17,10 +17,10 @@ The image above is a **fictional hardware concept** — a futuristic vision of h
 
 ---
 
-### 🎧 CEPA Behaviour Examples
+## 🎧 CEPA Behaviour Examples
 The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in real time:
 
-## 📘 CEPA Behaviour Flow — Three Core Components
+### 📘 CEPA Behaviour Flow — Three Core Components
 
 | Component                | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
