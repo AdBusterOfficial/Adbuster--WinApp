@@ -1,3 +1,11 @@
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
+---
+
+<br>
+
 # 🎛️ CEPA Logic PRO — Contextual Event Pattern Analysis
 CEPA Logic PRO does not classify audio the way ML does.  
 Instead, it interprets **patterns of behaviour over time**, reacting to sequences of events rather than isolated blocks.
@@ -159,5 +167,17 @@ It does not classify audio — it interprets **patterns of behaviour**:
 - advertisement patterns  
 
 These patterns allow AdBuster PRO to react calmly, intelligently and predictably, even in unstable audio environments.
+
+---
+
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
+---
+
+<br>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
+</p>
 
 
