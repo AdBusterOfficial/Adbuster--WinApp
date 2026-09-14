@@ -33,9 +33,8 @@ The engine reacts to **behaviour over time**, not momentary noise.
 ## 🟨 ML Layer — 4‑Feature AD Detector  
 A lightweight ML model evaluates each audio block using four behavioural features and classifies the signal as:
 
-- **AD (Advertisement)**  
-- **MUSIC**  
-- **NORMAL / TALK**
+- **AD (Advertisement)**
+- **NORMAL (music / talk / baseline)**
 
 A stability hold mechanism prevents false triggers and ensures reliable advertisement detection.
 
