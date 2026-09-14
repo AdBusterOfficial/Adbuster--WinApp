@@ -22,12 +22,13 @@ The AdBuster lab also contains behaviour previews showing how CEPA PRO reacts in
 
 ### 📘 CEPA Logic PRO — Three Core Components
 
-| Component                | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| CEPA Pattern Analysis    | Identifies behavioural patterns in the audio signal and classifies context. |
-| CEPA Signal Flow (v13)   | Processes amplitude, stability, drift and reaction margins in real time.    |
-| CEPA Behaviour Flow      | Executes final behaviour decisions based on CEPA logic and signal context.  |
+| Component           | Description                                      | Logic Level     |
+|---------------------|--------------------------------------------------|------------------|
+| Pattern Analysis    | Recognizes signal behaviour patterns             | Interpretation   |
+| Signal Flow (v13)   | Processes signal through CEPA layers             | Architecture     |
+| Behaviour Flow      | Executes real-time CEPA decisions                | Operations       |
 
+<br>
 
 - [CEPA_ads_behaviour.md](./CEPA_ads_behaviour.md)
 - [AD_mode_logic.md](./AD_mode_logic.md)
