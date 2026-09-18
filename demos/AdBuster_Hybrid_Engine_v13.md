@@ -16,9 +16,6 @@ Live pipeline:
 
 Even without a full ad, the engine correctly identifies anomalies and switches CEPA into protective mode.
 
-**#AdBusterPRO #CEPALogic #AudioDSP #SignalProcessing #OfflineAI #RealTimeEngine**
-
-
 ---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
