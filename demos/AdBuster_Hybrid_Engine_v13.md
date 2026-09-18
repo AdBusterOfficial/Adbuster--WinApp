@@ -4,8 +4,6 @@
 
 <br>
 
-© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
-
 Short live‑capture from my **AdBuster_Hybrid_Engine_v13** running in real time.  
 This clip didn’t include a full advertisement, but you can clearly see the engine reacting to *potential ad‑like signals* — short bursts with similar acoustic characteristics (fast RMS shifts, high DELTA/RANGE).
 
@@ -23,4 +21,4 @@ Even without a full ad, the engine correctly identifies anomalies and switches C
 
 ---
 
-© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
