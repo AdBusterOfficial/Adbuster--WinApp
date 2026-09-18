@@ -67,6 +67,18 @@ All logs and snapshots are generated automatically during continuous operation.
 
 ---
 
+## 🔊 AdBuster PRO — Technical Podcast Series
+
+**YouTube Playlist**  
+[AdBuster PRO — YouTube](https://tinyurl.com/45m4uwdf)
+
+**Spotify**  
+[AdBuster PRO — Spotify](https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w)
+
+This podcast discusses the end-to-end operation of the AdBuster 2.0 PRO system, showcasing capabilities such as machine learning-based audio analysis, decision-making powered by CEPA technology, real-time loudness control, and more.
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
@@ -76,4 +88,5 @@ All logs and snapshots are generated automatically during continuous operation.
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
 </p>
+
 
