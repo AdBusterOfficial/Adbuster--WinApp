@@ -90,56 +90,49 @@ decision flow and real‑time behaviour.
 
 # 🔄 DSP → ML → CEPA — Behavioural Pipeline Diagram
 
-           🎧 DSP Layer
-   ┌───────────────────────────┐
-   │ Extracts 4 features:      │
-   │ • RMS                     │
-   │ • STD                     │
-   │ • DELTA                   │
-   │ • RANGE                   │
-   │                           │
-   │ Outputs:                  │
-   │ • Feature vector → ML     │
-   │ • Smoothed loudness → CEPA│
-   └──────────────┬────────────┘
-                  │
-                  ▼
-           🤖 ML Classifier
-   ┌───────────────────────────┐
-   │ Receives ONLY DSP features│
-   │ [RMS, STD, DELTA, RANGE]  │
-   │                           │
-   │ Produces:                 │
-   │ • p_ad (probability)      │
-   │ • AD / NORMAL             │
-   │ • ml_flags → CEPA         │
-   └──────────────┬────────────┘
-                  │
-                  ▼
-        🧠 CEPA Behaviour Engine
-   ┌───────────────────────────┐
-   │ Inputs:                   │
-   │ • Smoothed loudness       │
-   │ • ML flags (is_ad, etc.)  │
-   │                           │
-   │ Decisions:                │
-   │ • VOL_UP / VOL_DOWN       │
-   │ • CEPA BLOCK (ads)        │
-   │ • anti‑drift / fallback   │
-   │                           │
-   │ Output → pending_cmds     │
-   └──────────────┬────────────┘
-                  │
-                  ▼
-        📡 IR Command Dispatcher
-   ┌───────────────────────────┐
-   │ Executes real IR commands │
-   │ • VOL_UP / VOL_DOWN       │
-   │ • cooldown / safety       │
-   │ • AD restrictions         │
-   └───────────────────────────┘
+🎧 DSP Layer
+    ┌───────────────────────────────────────────────┐
+    │ Extracts features: RMS, STD, DELTA, RANGE     │
+    │                                               │
+    │ → Feature vector → ML                         │
+    │ → Smoothed loudness → CEPA                    │
+    └───────────────────────────────┬───────────────┘
+                                    │
+                                    ▼
+🤖 ML Classifier
+    ┌───────────────────────────────────────────────┐
+    │ Input: [RMS, STD, DELTA, RANGE]               │
+    │                                               │
+    │ → p_ad (probability)                          │
+    │ → AD / NORMAL                                 │
+    │ → ml_flags → CEPA                             │
+    └───────────────────────────────┬───────────────┘
+                                    │
+                                    ▼
+🧠 CEPA Behaviour Engine
+    ┌───────────────────────────────────────────────┐
+    │ Inputs:                                        │
+    │ • Smoothed loudness                            │
+    │ • ML flags (is_ad, is_music, is_dialog)        │
+    │                                               │
+    │ Decisions:                                     │
+    │ • VOL_UP / VOL_DOWN                            │
+    │ • CEPA BLOCK (ads)                             │
+    │ • anti‑drift / fallback                        │
+    │                                               │
+    │ → pending_cmds → IR dispatcher                 │
+    └───────────────────────────────┬───────────────┘
+                                    │
+                                    ▼
+📡 IR Dispatcher
+    ┌───────────────────────────────────────────────┐
+    │ Executes real IR commands:                    │
+    │ • VOL_UP / VOL_DOWN                           │
+    │ • cooldown / safety                           │
+    │ • AD restrictions                              │
+    └───────────────────────────────────────────────┘
 
-🎯 **Pipeline Summary:**  
+🎯 Summary:
 DSP extracts behaviour → ML detects ads → CEPA decides → IR executes.
 
 ---
