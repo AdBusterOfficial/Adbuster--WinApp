@@ -7,8 +7,7 @@
 
 ![AdBuster Engine — Technical Overview](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/hybrid/AdBuster_Engine_Technical_Overview.png)
 
-**Figure:** AdBuster Engine — Technical Overview  
-Horizontal pipeline showing DSP → ML → CEPA → IR flow in navy‑gold architecture.
+**Diagram:** AdBuster engine – DSP → ML → CEPA → IR pipeline
 
 <br>
 
