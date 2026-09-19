@@ -88,7 +88,41 @@ decision flow and real‑time behaviour.
 
 ---
 
+# 🔄 DSP → ML → CEPA — Behavioural Pipeline Diagram
 
+🎧 DSP Layer
+    ↓ extracts 4 features
+      RMS • STD • DELTA • RANGE
+    ↓ outputs
+      → Feature vector → ML
+      → Smoothed loudness → CEPA
+
+🤖 ML Classifier
+    ↓ receives ONLY DSP features
+      [RMS, STD, DELTA, RANGE]
+    ↓ produces
+      → p_ad (probability)
+      → AD / NORMAL
+      → ml_flags → CEPA
+
+🧠 CEPA Behaviour Engine
+    ↓ receives
+      → Smoothed loudness
+      → ML flags (is_ad, is_music, is_dialog)
+    ↓ decides
+      → VOL_UP / VOL_DOWN
+      → CEPA BLOCK (ads)
+      → anti‑drift / fallback
+    ↓ outputs
+      → pending_cmds → IR dispatcher
+
+📡 IR Dispatcher
+    ↓ executes real IR commands
+      VOL_UP / VOL_DOWN
+      cooldown • safety • AD restrictions
+
+🎯 Summary:
+DSP extracts behaviour → ML detects ads → CEPA decides → IR executes.
 
 ---
 
