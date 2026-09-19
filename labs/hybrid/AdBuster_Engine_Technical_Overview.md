@@ -90,49 +90,56 @@ decision flow and real‑time behaviour.
 
 # 🔄 DSP → ML → CEPA — Behavioural Pipeline Diagram
 
-🎧 **DSP Layer — Feature Extraction**
-The engine listens to raw audio and produces two outputs:
-• **4‑feature vector → [RMS, STD, DELTA, RANGE]** → sent directly to ML  
-• **Smoothed loudness → smooth_gui / level_smooth** → sent to CEPA  
+           🎧 DSP Layer
+   ┌───────────────────────────┐
+   │ Extracts 4 features:      │
+   │ • RMS                     │
+   │ • STD                     │
+   │ • DELTA                   │
+   │ • RANGE                   │
+   │                           │
+   │ Outputs:                  │
+   │ • Feature vector → ML     │
+   │ • Smoothed loudness → CEPA│
+   └──────────────┬────────────┘
+                  │
+                  ▼
+           🤖 ML Classifier
+   ┌───────────────────────────┐
+   │ Receives ONLY DSP features│
+   │ [RMS, STD, DELTA, RANGE]  │
+   │                           │
+   │ Produces:                 │
+   │ • p_ad (probability)      │
+   │ • AD / NORMAL             │
+   │ • ml_flags → CEPA         │
+   └──────────────┬────────────┘
+                  │
+                  ▼
+        🧠 CEPA Behaviour Engine
+   ┌───────────────────────────┐
+   │ Inputs:                   │
+   │ • Smoothed loudness       │
+   │ • ML flags (is_ad, etc.)  │
+   │                           │
+   │ Decisions:                │
+   │ • VOL_UP / VOL_DOWN       │
+   │ • CEPA BLOCK (ads)        │
+   │ • anti‑drift / fallback   │
+   │                           │
+   │ Output → pending_cmds     │
+   └──────────────┬────────────┘
+                  │
+                  ▼
+        📡 IR Command Dispatcher
+   ┌───────────────────────────┐
+   │ Executes real IR commands │
+   │ • VOL_UP / VOL_DOWN       │
+   │ • cooldown / safety       │
+   │ • AD restrictions         │
+   └───────────────────────────┘
 
-DSP describes *how the signal behaves*, not just how loud it is.
-
-🤖 **ML Layer — Advertisement Detection**
-ML receives ONLY the 4 DSP features:
-[RMS, STD, DELTA, RANGE]
-
-It evaluates a rolling 10‑sample history and outputs:
-• **p_ad** (advertisement probability)  
-• **AD / NORMAL classification**  
-• **ml_flags** → passed to CEPA  
-
-ML does not use GUI loudness or thresholds — only DSP features.
-
-🧠 **CEPA Layer — Behavioural Decision Engine**
-CEPA receives:
-• **Smoothed loudness** (smooth_gui, level_smooth)  
-• **ML context flags** (is_ad, is_music, is_dialog)
-
-CEPA produces human‑like decisions:
-• VOL_DOWN (controlled, single step)  
-• VOL_UP (only when safe)  
-• CEPA BLOCK (if UP is attempted during ads)  
-• anti‑drift, fallback, stability checks  
-
-Outputs:
-• **pending_cmds** → IR dispatcher  
-• **cepa_ad_block** → GUI indicator  
-
-📡 **IR Dispatcher — Physical Volume Control**
-Executes real VOL_UP / VOL_DOWN commands with:
-• cooldown  
-• anti‑bounce  
-• action‑window limits  
-• AD‑mode restrictions  
-
-Ensures safe, natural, human‑like volume behaviour.
-
-🎯 **Pipeline Summary**
+🎯 **Pipeline Summary:**  
 DSP extracts behaviour → ML detects ads → CEPA decides → IR executes.
 
 ---
