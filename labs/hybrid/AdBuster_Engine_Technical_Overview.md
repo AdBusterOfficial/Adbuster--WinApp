@@ -3,8 +3,6 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
----
-
 <br>
 
 # 🚀 AdBuster PRO — Hybrid Engine v13  
