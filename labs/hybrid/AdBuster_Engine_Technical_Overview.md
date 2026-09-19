@@ -88,6 +88,19 @@ decision flow and real‑time behaviour.
 
 ---
 
+```mermaid
+flowchart LR
+    DSP["🎧 DSP Layer<br/>RMS • STD • DELTA • RANGE<br/>→ features to ML<br/>→ smoothed loudness to CEPA"]
+    ML["🤖 ML Classifier<br/>Receives DSP features<br/>→ p_ad<br/>→ AD/NORMAL<br/>→ ml_flags to CEPA"]
+    CEPA["🧠 CEPA Behaviour Engine<br/>Receives loudness + ML flags<br/>→ VOL_UP / VOL_DOWN<br/>→ CEPA BLOCK<br/>→ pending_cmds"]
+    IR["📡 IR Dispatcher<br/>Executes IR commands<br/>cooldown • safety • AD restrictions"]
+
+    DSP --> ML
+    ML --> CEPA
+    CEPA --> IR
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
