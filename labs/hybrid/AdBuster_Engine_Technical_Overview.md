@@ -1,3 +1,12 @@
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
+---
+
+<br>
+
 # 🚀 AdBuster PRO — Hybrid Engine v13  
 ### Technical Overview & Behavioural Architecture
 
@@ -79,3 +88,14 @@ It is designed for 24/7 operation, adapting to user habits, room acoustics and c
 This document provides a full technical breakdown of the engine’s architecture, internal logic, 
 decision flow and real‑time behaviour.
 
+---
+
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
+---
+
+<br>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
+</p>
