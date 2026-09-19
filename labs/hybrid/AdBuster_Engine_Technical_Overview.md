@@ -88,6 +88,100 @@ decision flow and real‑time behaviour.
 
 ---
 
+# 🔄 DSP → ML → CEPA — Signal Flow Diagram
+
+The Hybrid Engine v13 processes every audio block through a three‑stage behavioural pipeline.
+Each stage transforms the signal into increasingly meaningful information, ending in human‑like
+volume decisions.
+
+───────────────────────────────────────────────────────────────
+🎧 1. DSP Layer — Behavioural Feature Extraction
+───────────────────────────────────────────────────────────────
+The DSP layer listens to raw audio and extracts four behavioural features:
+
+• RMS   → signal energy  
+• STD   → short‑term variability  
+• DELTA → frame‑to‑frame change  
+• RANGE → amplitude spread  
+
+These four numbers describe **how the signal behaves**, not just how loud it is.
+
+DSP outputs two types of data:
+1) **Feature vector → [RMS, STD, DELTA, RANGE]** → sent to ML  
+2) **Smoothed loudness → smooth_gui / level_smooth** → sent to CEPA
+
+───────────────────────────────────────────────────────────────
+🤖 2. ML Layer — Advertisement Classification
+───────────────────────────────────────────────────────────────
+The ML classifier receives ONLY the 4 DSP features:
+
+    [RMS, STD, DELTA, RANGE]
+
+It scales them, evaluates a 10‑sample rolling history, and produces:
+
+• p_ad (probability of advertisement)  
+• AD / NORMAL classification  
+• AD hold state (0.50s)
+
+ML outputs:
+1) **ad_mode_ml** → “Is this an advertisement?”  
+2) **ml_flags** → passed to CEPA
+
+ML does NOT use GUI loudness.  
+ML does NOT use thresholds.  
+ML uses ONLY the 4 DSP features.
+
+───────────────────────────────────────────────────────────────
+🧠 3. CEPA Layer — Behavioural Decision Engine
+───────────────────────────────────────────────────────────────
+CEPA receives two inputs:
+
+1) **Smoothed loudness**  
+   → smooth_gui  
+   → level_smooth  
+
+2) **Context flags from ML**  
+   → is_ad  
+   → is_music  
+   → is_dialog  
+
+CEPA uses these to make human‑like decisions:
+
+• VOL_DOWN (controlled, single step)  
+• VOL_UP (only when safe)  
+• CEPA BLOCK (if UP is attempted during ads)  
+• anti‑drift corrections  
+• fallback logic  
+• stability window checks  
+
+CEPA outputs:
+• pending_cmds → IR dispatcher  
+• cepa_ad_block → GUI indicator  
+• behavioural corrections → 1 step at a time
+
+───────────────────────────────────────────────────────────────
+📡 4. IR Dispatcher — Physical Volume Control
+───────────────────────────────────────────────────────────────
+The IR dispatcher sends real VOL_UP / VOL_DOWN commands to the TV,
+with safety layers:
+
+• cooldown  
+• anti‑bounce  
+• action window limits  
+• AD‑specific restrictions  
+
+This ensures stable, human‑like volume behaviour without touching the audio stream.
+
+───────────────────────────────────────────────────────────────
+🎯 Summary
+───────────────────────────────────────────────────────────────
+DSP extracts behaviour → ML detects ads → CEPA decides → IR executes.
+
+This pipeline is what makes Hybrid Engine v13 a **behavioural, ML‑assisted,
+human‑like volume stabilizer** rather than a traditional DSP compressor.
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
