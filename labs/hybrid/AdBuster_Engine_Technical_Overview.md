@@ -11,8 +11,9 @@
 
 <br>
 
-# 🚀 AdBuster PRO — Hybrid Engine v13  
-### Technical Overview & Behavioural Architecture
+# 🚀 AdBuster Engine — Technical Overview
+### System Architecture & Behavioural Flow
+
 
 AdBuster PRO Hybrid Engine v13 is the next‑generation behavioural audio system powering the most 
 advanced version of the AdBuster PRO TV volume stabilizer. Unlike traditional AGC, compressors or 
