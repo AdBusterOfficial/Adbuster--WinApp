@@ -4,6 +4,9 @@
 </p>
 
 <br>
+![AdBuster Engine — Technical Overview](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/AdBuster_Engine_Technical_Overview.png)
+
+<br>
 
 # 🚀 AdBuster PRO — Hybrid Engine v13  
 ### Technical Overview & Behavioural Architecture
