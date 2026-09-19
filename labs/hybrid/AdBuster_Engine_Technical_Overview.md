@@ -88,25 +88,6 @@ decision flow and real‑time behaviour.
 
 ---
 
-# 🔄 DSP → ML → CEPA — Behavioural Pipeline Diagram
-
-🎧 DSP Layer
-[RMS | STD | DELTA | RANGE]
-        ↓
-🤖 ML Classifier
-[p_ad | AD/NORMAL | ml_flags]
-        ↓
-🧠 CEPA Behaviour Engine
-[VOL_UP | VOL_DOWN | CEPA_BLOCK]
-        ↓
-📡 IR Dispatcher
-[IR VOL_UP / VOL_DOWN | cooldown | safety]
-
-🎯 Summary:
-DSP extracts behaviour → ML detects ads → CEPA decides → IR executes.
-
----
-
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
