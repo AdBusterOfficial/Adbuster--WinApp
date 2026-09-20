@@ -11,4 +11,4 @@ The system reacts only when necessary — fast during ad‑like segments and gen
 
 ---
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
