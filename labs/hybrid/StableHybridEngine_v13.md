@@ -41,6 +41,9 @@ Every confirmed event is logged as:
 
 [ML EVENT] AD detected (4-feature)
 
+
+This log entry appears only after the ML model reaches the required hit count, ensuring that each detection represents a stable and verified AD‑LIKE pattern.
+
 ---
 
 ## 🟧 2. AD Hold — Logical Advertisement State Retention
