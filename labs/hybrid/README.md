@@ -48,6 +48,9 @@ room size, content type).
 - CEPA Logic PRO — Contextual Pattern Analysis  
   [CEPA_Pattern_Analysis.md](./CEPA_Pattern_Analysis.md)
 
+- Hybrid Engine v13 — Stable System Behavior Report  
+  [StableHybridEngine_v13.md](./StableHybridEngine_v13.md)
+
 ### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
