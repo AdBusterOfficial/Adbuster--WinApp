@@ -18,4 +18,4 @@ Even without a full ad, the engine correctly identifies anomalies and switches C
 
 ---
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
