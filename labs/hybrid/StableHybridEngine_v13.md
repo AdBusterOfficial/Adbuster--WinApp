@@ -6,6 +6,12 @@
 
 # 📘 Stable Hybrid Engine v13 — Real‑World System Behavior Report
 
+## 🎬 Demo — Real‑World Test (YouTube)
+
+[![Hybrid v13 Demo](https://img.youtube.com/vi/VV0WWL5rUqc/0.jpg)](https://youtu.be/VV0WWL5rUqc)
+
+---
+
 AdBuster Hybrid Engine v13 demonstrates stable, predictable and fully logical real‑time volume‑control behavior.  
 The engine integrates three coordinated layers — **DSP**, **ML 4‑feature**, and **CEPA Logic PRO** — working together to maintain a comfortable loudness zone regardless of ads, music, or sudden signal spikes.
 
