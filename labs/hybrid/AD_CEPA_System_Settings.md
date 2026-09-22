@@ -83,10 +83,5 @@ This document lists all variables and recommended values for the **Hybrid AD‑C
 - **last_spike_time**
 - **spike_counter**
 
----
 
-## 🧩 Mode Icon (example)
-
-```text
-icons/hybrid_mode.png
 
