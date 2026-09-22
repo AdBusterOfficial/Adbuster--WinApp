@@ -51,6 +51,9 @@ room size, content type).
 - Hybrid Engine v13 — Stable System Behavior Report  
   [StableHybridEngine_v13.md](./StableHybridEngine_v13.md)
 
+- AD‑CEPA System Settings — Full Variable & Parameter Reference  
+  [AD_CEPA_System_Settings.md](./AD_CEPA_System_Settings.md)
+
 ### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
