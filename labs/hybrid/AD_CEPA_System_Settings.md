@@ -86,8 +86,10 @@ This document lists all variables and recommended values for the **Hybrid AD‑C
 
 ## ⚡ Spike Engine (disabled in Hybrid 3)
 
-- **last_spike_time**
-- **spike_counter**
+Spike Engine exists in the system, but Hybrid 3 runs without spike‑based reactions to avoid impulse‑driven volume changes.
+
+- last_spike_time
+- spike_counter
 
 ---
 
