@@ -1,3 +1,9 @@
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
+<br>
+
 # ⚙️ AD‑CEPA System Settings
 
 This document lists all variables and recommended values for the **Hybrid AD‑CEPA Mode** (ML ad detection + CEPA volume stabilization).
@@ -83,5 +89,16 @@ This document lists all variables and recommended values for the **Hybrid AD‑C
 - **last_spike_time**
 - **spike_counter**
 
+---
+
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
+---
+
+<br>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
+</p>
 
 
