@@ -105,6 +105,9 @@ Spike Engine exists in the system, but Hybrid 3 runs without spike‑based react
   including real‑time reactions, stability checks, and behaviour tuning during calibration.
 </p>
 
+<br>
+
+---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
