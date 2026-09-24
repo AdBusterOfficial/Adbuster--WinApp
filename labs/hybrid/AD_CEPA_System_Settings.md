@@ -93,6 +93,20 @@ Spike Engine exists in the system, but Hybrid 3 runs without spike‑based react
 
 ---
 
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm; margin-top: 20px;">
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/demos/AdBuster_Hybrid_real_time_calibration.md" 
+     style="font-size: 18px; font-weight: bold;">
+    ➜ AdBuster Hybrid — Real‑Time Calibration Demo
+  </a>
+</p>
+
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm; font-size: 15px; color: #555;">
+  This demo shows how the AD‑CEPA system behaves with the settings listed above — 
+  including real‑time reactions, stability checks, and behaviour tuning during calibration.
+</p>
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
 
 ---
