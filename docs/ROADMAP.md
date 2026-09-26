@@ -12,7 +12,7 @@
 
 <br>
 
-AdBuster is a free Windows application available for testing. The current prototype can be downloaded as a ZIP archive from this repository.
+AdBuster is a free Windows application available for testing.
 
 <p align="center">
   <b>📦 Latest Test Release</b><br>
