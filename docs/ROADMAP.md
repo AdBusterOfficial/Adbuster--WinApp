@@ -14,13 +14,13 @@
 
 AdBuster is a free Windows application available for testing. The current prototype can be downloaded as a ZIP archive from this repository.
 
-It monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
+The application monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
 
-The application is being developed to explore context-aware audio control for TVs and other compatible devices.
+AdBuster is being developed to explore context-aware audio control for TVs and other compatible devices.
 
-At the core of the project is CEPA Logic (Context Event Pattern Analysis), a behavioral framework designed to analyze contextual event patterns rather than respond to isolated measurements. CEPA evaluates relationships between observed audio characteristics, operating modes, detected events, system decisions, and historical observations recorded during operation.
+At the center of the project is CEPA Logic (Context Event Pattern Analysis), a behavioral framework designed to evaluate contextual event patterns rather than react to isolated measurements. The framework analyzes relationships between audio characteristics, operating modes, detected events, system decisions, and historical observations recorded during operation.
 
-The current development phase focuses on collecting and evaluating behavioral data in order to better understand how contextual patterns emerge during real-world use. These observations are used to identify situations that may require volume adjustments and to assess the consistency of system behavior.
+The current development phase focuses on collecting and evaluating behavioral data in order to better understand how contextual patterns emerge during real-world use. These observations are used to identify situations that may require volume adjustments and to assess the consistency and predictability of system behavior.
 
 The system records contextual information such as audio levels, operating modes, model outputs, detected events, and volume-control decisions. Behavioral data is stored locally in a SQLite database and used for analysis and development.
 
@@ -58,7 +58,7 @@ Once enough reliable data has been collected and evaluated, the project may expl
 
 Any future adaptive behavior should be based on validated contextual patterns and introduced only after its effects can be assessed.
 
-The longer-term concept is a universal audio-control device for infrared-controlled TVs and other compatible equipment. This is a concept for future exploration and not a finished or currently available product.
+The longer-term concept is a universal audio-control device for infrared-controlled TVs and other compatible equipment. This remains a concept for future exploration and is not a finished or currently available product.
 
 ---
 
