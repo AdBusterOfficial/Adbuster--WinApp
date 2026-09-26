@@ -4,6 +4,13 @@
 
 <br>
 
+<p align="center">
+  <b>Latest Windows build:</b><br>
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0">
+    AdBuster_2.0_PRO_Test.zip
+  </a>
+</p>
+
 # 🛣️ AdBuster — Project Roadmap
 
 <br>
