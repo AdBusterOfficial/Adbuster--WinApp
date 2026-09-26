@@ -8,11 +8,13 @@
 
 ## Current focus: reliable operation and behavioral data
 
-AdBuster is being developed as a context-aware audio control system for infrared-controlled TVs and other compatible devices.
+AdBuster is currently a free Windows application available for testing. The basic prototype can be downloaded as a ZIP archive from this repository.
 
-The current stage focuses on reliable operation and passive collection of behavioral data. The system records contextual observations such as audio levels, operating modes, model outputs, detected events, and volume-control decisions. These records are intended to help identify patterns in how the system behaves in real-world use.
+The application is being developed to explore context-aware audio control for TVs and other compatible devices. Its current focus is reliable operation and passive collection of behavioral data. The system records contextual observations such as audio levels, operating modes, model outputs, detected events, and volume-control decisions. These records help identify patterns in how the application behaves during real-world use.
 
-Behavioral data is stored locally in a SQLite database. It is used for analysis and development; automatic self-adjustment is not currently enabled.
+Behavioral data is stored locally in a SQLite database and used for analysis and development. Automatic self-adjustment is not currently enabled.
+
+AdBuster explores an approach to audio control that, in my experience, is not commonly available in this form. The prototype is offered for testing and feedback; its performance and compatibility may vary between systems and devices.
 
 ## Development principles
 
@@ -26,9 +28,11 @@ Behavioral data is stored locally in a SQLite database. It is used for analysis 
 
 Once enough reliable data has been collected and evaluated, the project may explore carefully controlled self-regulation. Any future adaptive behavior should be based on validated contextual patterns and introduced only after its effects can be assessed.
 
+The longer-term concept is a universal audio-control device for infrared-controlled TVs and other compatible equipment. This is a concept for future exploration, not a finished or currently available product.
+
 ## Project status
 
-AdBuster is an ongoing development project. The universal infrared audio-control device shown in project artwork represents a concept and is not a finished product.
+AdBuster is an ongoing development project. The downloadable ZIP contains a basic Windows prototype provided free of charge for testing. It is not presented as a finished commercial product.
 
 ---
 
