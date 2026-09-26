@@ -54,6 +54,9 @@ room size, content type).
 - AD‑CEPA System Settings — Full Variable & Parameter Reference  
   [AD_CEPA_System_Settings.md](./AD_CEPA_System_Settings.md)
 
+- AdBuster — Project Roadmap  
+  [ROADMAP.md](./ROADMAP.md)
+
 ### 🧩 Images:
 - CEPA Preset Setup  
   [Cepa_preset_setup.png](./Cepa_preset_setup.png)
