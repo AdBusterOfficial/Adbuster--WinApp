@@ -10,9 +10,13 @@
 
 AdBuster is currently a free Windows application available for testing. The basic prototype can be downloaded as a ZIP archive from this repository.
 
+AdBuster is a Windows application that monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
+
 The application is being developed to explore context-aware audio control for TVs and other compatible devices. Its current focus is reliable operation and passive collection of behavioral data. The system records contextual observations such as audio levels, operating modes, model outputs, detected events, and volume-control decisions. These records help identify patterns in how the application behaves during real-world use.
 
 Behavioral data is stored locally in a SQLite database and used for analysis and development. Automatic self-adjustment is not currently enabled.
+
+No behavioral data is transmitted to external servers. All recorded information remains on the local device.
 
 AdBuster explores an approach to audio control that, in my experience, is not commonly available in this form. The prototype is offered for testing and feedback; its performance and compatibility may vary between systems and devices.
 
@@ -32,7 +36,9 @@ The longer-term concept is a universal audio-control device for infrared-control
 
 ## Project status
 
-AdBuster is an ongoing development project. The downloadable ZIP contains a basic Windows prototype provided free of charge for testing. It is not presented as a finished commercial product.
+AdBuster is an ongoing development project. The downloadable ZIP contains a basic Windows prototype provided free of charge for testing.
+
+The software should be considered experimental and is not presented as a finished commercial product. Features, behavior, compatibility, and performance may change as development continues.
 
 ---
 
@@ -45,4 +51,3 @@ AdBuster is an ongoing development project. The downloadable ZIP contains a basi
 <p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
 </p>
-
