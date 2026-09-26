@@ -55,7 +55,7 @@ room size, content type).
   [AD_CEPA_System_Settings.md](./AD_CEPA_System_Settings.md)
 
 - AdBuster — Project Roadmap  
-  [ROADMAP.md](./docs/ROADMAP.md)
+  [ROADMAP.md](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/ROADMAP.md)
 
 ### 🧩 Images:
 - CEPA Preset Setup  
