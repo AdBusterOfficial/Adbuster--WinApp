@@ -35,7 +35,7 @@ Automatic self-adjustment is not currently enabled.
 
 No behavioral data is transmitted to external servers. All recorded information remains on the local device.
 
-The prototype is offered for testing and feedback. Performance and compatibility may vary between systems and devices.
+The prototype is offered for testing and feedback. AdBuster is designed to run on older PCs and older versions of Windows. Compatibility with specific audio and infrared devices depends on the hardware setup.
 
 ---
 
