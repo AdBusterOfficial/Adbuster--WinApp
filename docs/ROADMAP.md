@@ -36,9 +36,11 @@ The longer-term concept is a universal audio-control device for infrared-control
 
 ## Project status
 
-AdBuster is an ongoing development project. The downloadable ZIP contains a basic Windows prototype provided free of charge for testing.
+AdBuster is an ongoing research and development project.
 
 The software should be considered experimental and is not presented as a finished commercial product. Features, behavior, compatibility, and performance may change as development continues.
+
+Testing feedback and real-world observations are used to evaluate future improvements and development priorities.
 
 ---
 
