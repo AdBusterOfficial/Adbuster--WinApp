@@ -4,13 +4,6 @@
 
 <br>
 
-<p align="center">
-  <b>Latest Windows build:</b><br>
-  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0">
-    AdBuster_2.0_PRO_Test.zip
-  </a>
-</p>
-
 # 🛣️ AdBuster — Project Roadmap
 
 <br>
@@ -20,6 +13,13 @@
 <br>
 
 AdBuster is a free Windows application available for testing. The current prototype can be downloaded as a ZIP archive from this repository.
+
+<p align="center">
+  <b>📦 Latest Test Release</b><br>
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/tag/v2.0">
+    Download AdBuster 2.0 PRO Test Build
+  </a>
+</p>
 
 The application monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
 
