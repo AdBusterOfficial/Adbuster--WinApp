@@ -6,11 +6,15 @@
 
 # 🛣️ AdBuster — Project Roadmap
 
+<br>
+
 ## 🎯 Current Focus: Reliable Operation and Behavioral Data
 
-AdBuster is currently a free Windows application available for testing. The basic prototype can be downloaded as a ZIP archive from this repository.
+<br>
 
-AdBuster is a Windows application that monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
+AdBuster is a free Windows application available for testing. The current prototype can be downloaded as a ZIP archive from this repository.
+
+It monitors television audio and can control the volume of compatible infrared devices in response to changing audio conditions. The project focuses on improving listening comfort while preserving user control and predictable system behavior.
 
 The application is being developed to explore context-aware audio control for TVs and other compatible devices.
 
