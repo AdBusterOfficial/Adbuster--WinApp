@@ -56,6 +56,12 @@
   Download → Unzip → Run <b>Start.bat</b>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ZIP_CONTENTS.md">
+    📦 View the contents of the ZIP package
+  </a>
+</p>
+
 ---
 
 ## ✨ Overview
