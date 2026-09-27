@@ -25,12 +25,14 @@ The package includes the following Windows application components:
 
 `Start.bat` launches the packaged application components. `azure.tcl` is a Tcl script included with the package.
 
-## Models and training data
+## Models and development data
 
 - `model.pkl`
 - `model_deep.pkl`
-- `training_data.csv`
+- `training_data.csv` — data used during ongoing model development.
 - `models_archive/` and `Models_Archives/` — folders for archived models.
+
+The model files are created and developed as part of ongoing work; they are not presented as pre-trained models.
 
 ## Configuration and state files
 
@@ -43,14 +45,6 @@ The package includes the following Windows application components:
 
 These files store application settings, IR command mappings, and machine learning authorization or unlock state. Keep any personal credentials or device-specific values private when sharing the package contents.
 
-## Logs
-
-- `server.log`
-- `tv_system_A.log`
-- `tv_system_B.log`
-
-These files contain server and TV system logs for diagnostics. Review any device-specific details before sharing logs publicly.
-
 ## Other files
 
 - `AdBuster_Desk.ico` — AdBuster desktop icon
@@ -62,7 +56,7 @@ These files contain server and TV system logs for diagnostics. Review any device
 ## Notes
 
 - This free PRO prototype is provided for testing and evaluation. You are welcome to share feedback and suggestions for improvements.
-- The package contains the compiled Windows application and its supporting components, models, configuration, and logs.
+- The package contains the compiled Windows application and its supporting components, model-development files, and configuration.
 - The application source code is not included in this PRO package.
 - Use of the software is subject to the [AdBuster 2.0 PRO Proprietary License Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/LICENSE.md).
 - CEPA Logic is subject to the [CEPA Logic Proprietary License & Trade Secret Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPA_LOGIC_LICENSE.md).
