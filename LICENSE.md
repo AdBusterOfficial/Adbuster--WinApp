@@ -17,7 +17,7 @@ You are granted a personal, non‑exclusive, non‑transferable, revocable licen
 
 ---
 
-### **PERMITTED TESTING AND FEEDBACK**
+### **1.1 PERMITTED TESTING AND FEEDBACK**
 Notwithstanding Section 2, you may install, run, and test the software for personal evaluation and provide feedback to the licensor. This permission does not authorize decompilation, reverse engineering, source-code extraction, redistribution, or disclosure of confidential CEPA materials.
 
 ---
