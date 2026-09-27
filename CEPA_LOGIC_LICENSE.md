@@ -91,4 +91,4 @@ Non-public aspects of CEPA Logic may qualify as trade secrets under applicable l
 
 ---
 
-© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
