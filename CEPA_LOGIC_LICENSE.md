@@ -38,7 +38,10 @@ You may not modify, alter, adapt, or create derivative works based on CEPA Logic
 ---
 
 ## **CONFIDENTIALITY**
-All CEPA Logic documentation, diagrams, descriptions, and technical materials are confidential. Sharing them with third parties requires a signed NDA (Non‑Disclosure Agreement).
+
+Confidential materials are CEPA Logic materials that have not been made publicly available by the licensor and are identified as confidential or reasonably understood to be confidential. Materials that the licensor has made publicly available, including materials published in this repository, are not confidential under this section solely because they relate to CEPA Logic.
+
+You may not disclose confidential materials to third parties without the licensor’s prior written permission.
 
 ---
 
