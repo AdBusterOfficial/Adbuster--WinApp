@@ -48,8 +48,8 @@
 - `README.odt` — OpenDocument README
 - `README.txt` — plain-text README
 
-🔒 **Note**
-This PRO package contains compiled application files and supporting resources. The source code is not included.
+🔒 **Note**  
+This PRO package contains compiled application files and supporting resources. The source code is not included. The software is protected by the AdBuster PRO proprietary license.
 
 ---
 
