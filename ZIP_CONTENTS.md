@@ -7,7 +7,12 @@
 
 # AdBuster PRO ZIP Package Contents
 
-📦 **Windows application**
+This document describes the contents of the AdBuster PRO Windows package.
+
+## Application and runtime components
+
+The package includes the following Windows application components:
+
 - `AdBuster.exe`
 - `Aduster.exe`
 - `cepa_logic.exe`
@@ -17,39 +22,50 @@
 - `ml_engine.exe`
 - `pro_engine.exe`
 - `VolMaster.exe`
-- `Start.bat` — starts the application components
-- `azure.tcl` — supporting Tcl script
 
-🧠 **Machine learning**
+`Start.bat` launches the packaged application components. `azure.tcl` is a Tcl script included with the package.
+
+## Models and training data
+
 - `model.pkl`
 - `model_deep.pkl`
 - `training_data.csv`
-- `models_archive/` and `Models_Archives/` — archived models
+- `models_archive/` and `Models_Archives/` — folders for archived models.
 
-⚙️ **Configuration and state**
-- `config.json` — application settings
-- `ir_codes.json` — infrared command mappings
-- `keys.json` — key configuration
-- `ml_auth_state.json` — machine learning authorization state
-- `ml_unlock_state.json` — machine learning unlock state
-- `tv_volume_config.json` — TV volume settings
+## Configuration and state files
 
-📋 **Logs**
+- `config.json`
+- `ir_codes.json`
+- `keys.json`
+- `ml_auth_state.json`
+- `ml_unlock_state.json`
+- `tv_volume_config.json`
+
+These files store application settings, IR command mappings, and machine learning authorization or unlock state. Keep any personal credentials or device-specific values private when sharing the package contents.
+
+## Logs
+
 - `server.log`
 - `tv_system_A.log`
 - `tv_system_B.log`
 
-🖼️ **Icons and images**
-- `AdBuster_Desk.ico` — desktop icon
-- `adbuster_qr_code.jpg` — QR code image
-- `paypal_qr.png` — PayPal QR code
+These files contain server and TV system logs for diagnostics. Review any device-specific details before sharing logs publicly.
 
-📄 **Documentation**
-- `README.odt` — OpenDocument README
-- `README.txt` — plain-text README
+## Other files
 
-🔒 **Note**  
-This PRO package contains compiled application files and supporting resources. The source code is not included. The software is protected by the AdBuster PRO proprietary license.
+- `AdBuster_Desk.ico` — AdBuster desktop icon
+- `adbuster_qr_code.jpg` — AdBuster QR code image
+- `paypal_qr.png` — PayPal QR code image
+- `README.odt` — package documentation in OpenDocument format
+- `README.txt` — package documentation in plain text format
+
+## Notes
+
+- This free PRO prototype is provided for testing and evaluation. You are welcome to share feedback and suggestions for improvements.
+- The package contains the compiled Windows application and its supporting components, models, configuration, and logs.
+- The application source code is not included in this PRO package.
+- Use of the software is subject to the [AdBuster 2.0 PRO Proprietary License Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/LICENSE.md).
+- For installation and startup instructions, consult `README.txt` or `README.odt`.
 
 ---
 
