@@ -65,6 +65,7 @@ These files contain server and TV system logs for diagnostics. Review any device
 - The package contains the compiled Windows application and its supporting components, models, configuration, and logs.
 - The application source code is not included in this PRO package.
 - Use of the software is subject to the [AdBuster 2.0 PRO Proprietary License Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/LICENSE.md).
+- CEPA Logic is subject to the [CEPA Logic Proprietary License & Trade Secret Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPA_LOGIC_LICENSE.md).
 - For installation and startup instructions, consult `README.txt` or `README.odt`.
 
 ---
