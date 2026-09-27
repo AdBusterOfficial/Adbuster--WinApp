@@ -45,6 +45,11 @@ The model files are created and developed as part of ongoing work; they are not 
 
 These files store application settings, IR command mappings, and machine learning authorization or unlock state. Keep any personal credentials or device-specific values private when sharing the package contents.
 
+## TV system logs
+
+- `tv_system_A.log`
+- `tv_system_B.log`
+
 ## Other files
 
 - `AdBuster_Desk.ico` — AdBuster desktop icon
