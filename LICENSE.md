@@ -17,12 +17,17 @@ You are granted a personal, non‑exclusive, non‑transferable, revocable licen
 
 ---
 
+### **PERMITTED TESTING AND FEEDBACK**
+Notwithstanding Section 2, you may install, run, and test the software for personal evaluation and provide feedback to the licensor. This permission does not authorize decompilation, reverse engineering, source-code extraction, redistribution, or disclosure of confidential CEPA materials.
+
+---
+
 ### **2. RESTRICTIONS**
 You are strictly prohibited from:
 - copying, sharing, or redistributing the software,
 - modifying, altering, or creating derivative works,
 - reverse engineering, decompiling, or attempting to extract the source code,
-- analyzing or reproducing the software’s behavior or decision logic,
+- analyzing or reproducing the software’s behavior or decision logic, except as expressly permitted under **PERMITTED TESTING AND FEEDBACK**,
 - selling, sublicensing, leasing, or transferring the software,
 - sharing or distributing license keys, activation files, or credentials,
 - bypassing or attempting to bypass activation mechanisms.
