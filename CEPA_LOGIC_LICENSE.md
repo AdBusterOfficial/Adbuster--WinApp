@@ -16,28 +16,28 @@ All components of CEPA Logic — including algorithms, conceptual structures, in
 
 ---
 
-## **NO REDISTRIBUTION**
+## **2. NO REDISTRIBUTION**
 You may not copy, publish, upload, mirror, disclose, or distribute CEPA Logic or any related materials without explicit written permission.
 
 ---
 
-## **NO REVERSE ENGINEERING**
+## **3. NO REVERSE ENGINEERING**
 Reverse engineering, decompiling, disassembling, analyzing, or attempting to derive the internal logic, methodology, or behavior of CEPA Logic is strictly prohibited. This includes behavioral analysis, pattern extraction, or modeling of CEPA’s decision processes.
 
 ---
 
-## **PERMITTED PRODUCT TESTING AND FEEDBACK**
+## **4. PERMITTED PRODUCT TESTING AND FEEDBACK**
 
 Notwithstanding the sections on reverse engineering and academic or research use, you may run and test CEPA Logic solely as integrated into AdBuster PRO for personal product evaluation and provide feedback to the licensor. This permission does not allow you to derive or reproduce CEPA’s internal logic, reverse engineer or modify it, train or evaluate machine learning models with it, or disclose confidential materials.
 
 ---
 
-## **NO MODIFICATION**
+## **5. NO MODIFICATION**
 You may not modify, alter, adapt, or create derivative works based on CEPA Logic or any of its conceptual structures.
 
 ---
 
-## **CONFIDENTIALITY**
+## **6. CONFIDENTIALITY**
 
 Confidential materials are CEPA Logic materials that have not been made publicly available by the licensor and are identified as confidential or reasonably understood to be confidential. Materials that the licensor has made publicly available, including materials published in this repository, are not confidential under this section solely because they relate to CEPA Logic.
 
@@ -45,53 +45,53 @@ You may not disclose confidential materials to third parties without the licenso
 
 ---
 
-## **NO ACADEMIC OR RESEARCH USE**
+## **7. NO ACADEMIC OR RESEARCH USE**
 You may not use CEPA Logic for academic, research, benchmarking, evaluation, or analytical purposes without written permission.
 This restriction does not prohibit the product testing expressly permitted under **PERMITTED PRODUCT TESTING AND FEEDBACK** above.
 
 ---
 
-## **NO MACHINE LEARNING USE**
+## **8. NO MACHINE LEARNING USE**
 You may not use CEPA Logic or any of its outputs to train, fine‑tune, evaluate, or assist any machine learning model or AI system.
 
 ---
 
-## **COMMERCIAL USE**
+## **9. COMMERCIAL USE**
 Commercial use — including OEM integration, product embedding, licensing, resale, or technology transfer — requires a separate commercial agreement.
 
 ---
 
-## **NO TRANSFER OF RIGHTS**
+## **10. NO TRANSFER OF RIGHTS**
 This license does not grant any ownership, rights, or claims to CEPA Logic. All rights remain exclusively with DP‑G / AdBuster Development Team.
 
 ---
 
-## **NO COMPETITIVE DEVELOPMENT**
+## **11. NO COMPETITIVE DEVELOPMENT**
 You are strictly prohibited from using CEPA Logic, its methodologies, conceptual structures, or any derived knowledge to design, develop, train, or support any competing analytical framework, decision engine, or context‑driven system intended to replicate or approximate CEPA Logic functionality.
 
 ---
 
-## **TERMINATION**
+## **12. TERMINATION**
 Any violation of this agreement results in immediate termination of all rights and access. Upon termination, you must cease all use and destroy all materials.
 
 ---
 
-## **LIMITATION OF LIABILITY**
+## **13. LIMITATION OF LIABILITY**
 The licensor is not liable for any damages, losses, or claims arising from the use, interpretation, or misapplication of CEPA Logic.
 
 ---
 
-## **GOVERNING LAW**
+## **14. GOVERNING LAW**
 This agreement is governed exclusively by the laws of Ireland. Any disputes shall be resolved in Irish courts.
 
 ---
 
-## **TRADE SECRET NOTICE**
+## **15. TRADE SECRET NOTICE**
 Non-public aspects of CEPA Logic may qualify as trade secrets under applicable law. Unauthorized acquisition, use, or disclosure of confidential, non-public CEPA Logic materials is prohibited.
 
 ---
 
-## **CONTACT**
+## **16. CONTACT**
 AdBuster Development Team — Dublin, Ireland — D.P‑G  
 [Contact the team](https://sites.google.com/view/adbuster-winapp/contact) 
 
