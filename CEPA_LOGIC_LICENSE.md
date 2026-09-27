@@ -26,6 +26,12 @@ Reverse engineering, decompiling, disassembling, analyzing, or attempting to der
 
 ---
 
+## **PERMITTED PRODUCT TESTING AND FEEDBACK**
+
+Notwithstanding the sections on reverse engineering and academic or research use, you may run and test CEPA Logic solely as integrated into AdBuster PRO for personal product evaluation and provide feedback to the licensor. This permission does not allow you to derive or reproduce CEPA’s internal logic, reverse engineer or modify it, train or evaluate machine learning models with it, or disclose confidential materials.
+
+---
+
 ## **NO MODIFICATION**
 You may not modify, alter, adapt, or create derivative works based on CEPA Logic or any of its conceptual structures.
 
@@ -38,6 +44,7 @@ All CEPA Logic documentation, diagrams, descriptions, and technical materials ar
 
 ## **NO ACADEMIC OR RESEARCH USE**
 You may not use CEPA Logic for academic, research, benchmarking, evaluation, or analytical purposes without written permission.
+This restriction does not prohibit the product testing expressly permitted under **PERMITTED PRODUCT TESTING AND FEEDBACK** above.
 
 ---
 
