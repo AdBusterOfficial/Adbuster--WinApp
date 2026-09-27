@@ -107,8 +107,6 @@ Any disputes shall be resolved in Irish courts.
 AdBuster Development Team — Dublin, Ireland — D.P‑G  
 [Contact the team](https://sites.google.com/view/adbuster-winapp/contact) 
 
-<br>
-
 ---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
