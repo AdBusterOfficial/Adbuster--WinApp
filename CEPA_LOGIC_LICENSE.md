@@ -91,4 +91,10 @@ Non-public aspects of CEPA Logic may qualify as trade secrets under applicable l
 
 ---
 
+## **CONTACT**
+AdBuster Development Team — Dublin, Ireland — D.P‑G  
+[Contact the team](https://sites.google.com/view/adbuster-winapp/contact) 
+
+---
+
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
