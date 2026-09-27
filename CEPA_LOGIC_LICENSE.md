@@ -11,7 +11,7 @@ CEPA Logic (Contextual Event Pattern Analysis Logic) is proprietary. Its non-pub
 
 ---
 
-## **INTELLECTUAL PROPERTY**
+## **1. INTELLECTUAL PROPERTY**
 All components of CEPA Logic — including algorithms, conceptual structures, interpretative rules, contextual mapping methods, decision logic, and internal mechanisms — remain the exclusive intellectual property of DP‑G / AdBuster Development Team. No rights are granted other than those explicitly stated in this agreement.
 
 ---
