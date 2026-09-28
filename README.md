@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/AdBuster_Booklet.pdf">
+  <a href="docs/pdf/AdBuster_Booklet.pdf">
     📘 Read the AdBuster project booklet (PDF)
   </a>
 </p>
