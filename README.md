@@ -656,7 +656,7 @@ This file contains:
 - step‑by‑step event walkthrough
 
  ### Are There Any Windows Applications Similar to AdBuster 2.0 PRO?
-No other Windows application offers automatic ad detection, audio analysis, and Broadlink-based volume control. Existing tools can only send manual IR commands and do not provide any intelligent automation.
+AdBuster 2.0 PRO is a Windows prototype that combines real-time audio analysis, loudness-pattern detection, and Broadlink IR volume control. It explores how these components can work together to reduce sudden volume increases during TV commercials.
 
  ### Comparison With Similar Windows Tools
 
