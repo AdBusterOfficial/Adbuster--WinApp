@@ -125,7 +125,7 @@ Two independent ML engines:
 Both run 100% locally.
 
 ### 🔹 Broadlink IR automation
-AdBuster is the only Windows tool that:
+AdBuster is the Windows tool that:
 - detects loud commercials  
 - decides what to do  
 - sends IR commands automatically  
