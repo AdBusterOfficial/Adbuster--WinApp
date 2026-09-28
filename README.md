@@ -266,7 +266,7 @@ The public ZIP release includes two models, while the development version adds a
 Lightweight model used for fast AD/NORMAL predictions based on short‑term RMS history.
 
 #### ML PRO — Long‑Term Behaviour Model (`model_deep.pkl`)
-Deep behavioural model trained offline.  
+The model can be trained offline using data collected during or after a session. Training does not take place in real time during audio monitoring.  
 Evaluates long‑term stability, drift, compression and contextual loudness patterns.
 
 📌 *These two models are included in the downloadable ZIP package.*
