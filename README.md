@@ -1097,7 +1097,7 @@ Fully offline:
 ## 🛑 CEPA & AdBuster — Protected Components (Technical Summary)
 
 This project contains proprietary, non‑open‑source components.  
-The following elements are protected and may not be copied, modified, analyzed, or reverse‑engineered.
+The following elements are proprietary. You may not copy, modify, or reverse-engineer their non-public implementation or internal logic. Product testing expressly permitted under the applicable license is allowed.
 
 ### 1. CEPA Logic (Decision Engine)
 Internal decision system responsible for audio pattern interpretation and reaction logic:
