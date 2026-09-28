@@ -843,7 +843,7 @@ After the initial Broadlink setup:
 A redesigned decision‑making engine with improved context awareness, better handling of borderline audio states, and more adaptive thresholds. The goal is to make CEPA less binary and more “human‑like” in how it reacts to dynamic audio environments.
 
 ### 🧬 ML Auto‑Training Mode
-A local, offline training pipeline that allows the model to refine itself based on the user’s environment. The system will collect short audio snapshots, classify them, and update the model without sending any data outside the device.
+A local, offline training pipeline that allows the model to refine itself based on the user’s environment. The system will collect short snapshots of derived audio measurements, classify them, and update the model without sending any data outside the device.
 
 ### 📡 Multi‑Device IR Support
 Extended IR control layer supporting multiple TVs, soundbars, receivers and Broadlink‑compatible devices. The goal is to allow users to define multiple profiles and switch between them dynamically.
