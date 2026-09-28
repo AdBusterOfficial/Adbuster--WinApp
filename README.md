@@ -775,7 +775,7 @@ If you use AdBuster with a Broadlink IR device
 (for example: Broadlink RM4 Mini or Broadlink RM4 Pro):
 
 1. Configure the Broadlink IR device in the official Broadlink mobile app (one‑time setup).  
-2. Connect the Broadlink device to your Wi‑Fi network.  
+2. 1. Connect the Broadlink device to your Wi-Fi network. Make sure the PC running AdBuster is connected to the same local network; it can use Wi-Fi or Ethernet.
 3. Place the Broadlink IR blaster near your TV or audio device.
 
 After completing these steps, AdBuster will automatically communicate with the Broadlink IR device.
