@@ -72,7 +72,7 @@ No cloud services.
 No accounts.
 No telemetry.
 Raw microphone audio is not saved as WAV recordings.
-Future versions may collect derived audio measurements locally for model development.
+Derived audio measurements may be collected locally for model development.
 All processing stays on your PC; no data is uploaded.
 
 ---
