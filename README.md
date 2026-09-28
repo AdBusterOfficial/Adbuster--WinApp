@@ -875,8 +875,10 @@ Yes.
 After the initial Broadlink setup, the entire system works 100% offline.
 
 ### 4. Does AdBuster collect or send any data?
-No.  
-There is no telemetry, no analytics, no cloud communication.
+No cloud services or accounts are required.
+AdBuster does not save raw microphone audio as WAV recordings.
+Derived audio measurements may be collected locally for model development.
+No data is uploaded to the cloud.
 
 ### 5. Why do I need Start.bat?
 Because Start.bat launches all required modules in the correct order:
@@ -891,7 +893,7 @@ Check:
 - MAC address must be UPPERCASE and without separators  
 - IP address must be correct  
 - Port 5000 must be free  
-- Broadlink must be on the same Wi‑Fi network
+- The Broadlink device and the PC must be on the same local network. The PC can connect by Wi-Fi or Ethernet.
 
 ### 7. Does AdBuster support Broadlink RM4 Mini and RM4 Pro?
 Yes — both models are fully supported.
