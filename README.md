@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/pdf/AdBuster_Booklet.pdf">
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/AdBuster_booklet.pdf">
     📘 Read the AdBuster project booklet (PDF)
   </a>
 </p>
