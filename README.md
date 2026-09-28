@@ -62,6 +62,8 @@
   </a>
 </p>
 
+📘 [Read the AdBuster project booklet (PDF)](docs/AdBuster_Booklet.pdf)
+
 ---
 
 ## ✨ Overview
