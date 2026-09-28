@@ -91,8 +91,8 @@ Everything runs locally on your PC or laptop.
 - 📉 **Automatic volume reduction during commercials**  
 - 🔄 **Smooth volume restoration after ads**  
 - 📡 **IR blaster support (Broadlink RM series)**  
-- ⚙️ **Configurable thresholds and reaction times**  
-- 🖥️ **Runs silently in the background**  
+- ⚙️ **Configurable thresholds and reaction times**
+- 🖥️ **Runs silently in the background**
 - 🔐 **Fully local — no internet required**
 
 ---
@@ -100,7 +100,6 @@ Everything runs locally on your PC or laptop.
 ## ⭐ Why This System Is Unique
 
 AdBuster 2.0 PRO is not a typical audio tool.  
-It is the only Windows application that combines:
 
 ### 🔹 Real‑time audio analysis (DSP)
 A dedicated audio engine extracts loudness, stability, spikes and long‑term patterns in real time — fully offline.
