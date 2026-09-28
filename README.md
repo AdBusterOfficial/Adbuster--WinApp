@@ -1087,7 +1087,7 @@ Provides:
 ## 🔐 Privacy
 
 Fully offline:
-- all audio is processed locally in real time and never recorded, transmitted, or stored
+- AdBuster does not save raw microphone recordings, such as WAV files. It may collect derived audio measurements for local model development; these measurements are not audio recordings.
 
 ---
 
