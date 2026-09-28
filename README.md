@@ -1150,6 +1150,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔶 Documentation
 
+🟨 [Project Bootleg](docs/AdBusterd
 🟦 [Architecture Overview](docs/overview.md)    
 ⬜ [Broadlink Server Log](docs/logs.md)  
 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)  
