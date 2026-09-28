@@ -679,7 +679,7 @@ AdBuster 2.0 PRO is a Windows prototype that combines TV audio analysis with aut
 
 ## 🗂️ For Investors & Partners
 
-AdBuster 2.0 PRO is a unique offline technology that combines real‑time microphone analysis,
+AdBuster 2.0 PRO is an offline Windows prototype that combines real-time microphone analysis,
 contextual CEPA logic, on‑device machine learning and Broadlink IR control to automatically
 stabilize TV audio. The system works on any Windows PC or laptop and supports virtually any
 IR‑based TV.
