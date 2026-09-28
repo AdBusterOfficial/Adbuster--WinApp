@@ -670,8 +670,7 @@ AdBuster 2.0 PRO is a Windows prototype that combines real-time audio analysis, 
 | Intelligent Algorithms            | None               | CEPA Logic + AdBuster Engine          |
 
 **Summary:**  
-AdBuster 2.0 PRO stands alone as the only Windows application capable of detecting loud commercials and automatically controlling TV volume through Broadlink devices.  
-All other tools are limited to basic, manual IR control and cannot be compared to the intelligent automation provided by AdBuster.
+AdBuster 2.0 PRO is a Windows prototype that combines TV audio analysis with automatic volume control through a Broadlink IR device. It is designed to detect loudness patterns and explore ways to stabilize TV volume.
 
 ▶️ For a Full Comparison, See the PDF:
  [WinApps Similar to AdBuster 2.0 PRO (PDF)](docs/pdf/WinApps%20Similar%20to%20AdBuster%202.0%20PRO.pdf)
