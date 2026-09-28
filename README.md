@@ -1149,7 +1149,8 @@ A separate proprietary license applies to CEPA Logic:
 ---
 
 ## 🔶 Documentation
-
+📘 [AdBuster Project (PDF)](docs/pdf)  
+📄 [AdBuster Project Booklet](docs/AdBuster_project_booklet.md)
 🟦 [Architecture Overview](docs/overview.md)    
 ⬜ [Broadlink Server Log](docs/logs.md)  
 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)  
