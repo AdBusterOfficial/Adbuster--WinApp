@@ -135,8 +135,7 @@ AdBuster is the Windows tool that:
 All processing happens on the user’s device.
 
 ### 🔹 Unique CEPA + ML + IR pipeline
-This combination does not exist in any other Windows application or smart‑home tool.  
-AdBuster 2.0 PRO stands alone as a complete, intelligent, privacy‑first audio stabilization system.
+AdBuster 2.0 PRO is a Windows prototype that brings together real-time microphone analysis, CEPA decision logic, machine-learning components, and Broadlink IR volume control. It explores a local approach to stabilizing TV audio.
 
 ---
 
