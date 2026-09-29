@@ -58,19 +58,19 @@
 
 <p align="center">
   <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/ZIP_CONTENTS.md">
-    📦 View the contents of the ZIP package
+    📦 Explore the AdBuster PRO package contents
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/AdBuster_booklet.pdf">
-    📘 Read the AdBuster project booklet (PDF)
+    📘 Read the AdBuster Project Booklet (PDF)
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/AdBuster_Project_Monograph_Full.pdf">
-    📘 Read the AdBuster project monograph (PDF)
+    📗 Read the AdBuster Technical Monograph (PDF)
   </a>
 </p>
 
