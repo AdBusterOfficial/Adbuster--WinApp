@@ -68,6 +68,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/AdBuster_Project_Monograph_Full.pdf">
+    📘 Read the AdBuster project monograph (PDF)
+  </a>
+</p>
+
 ---
 
 ## ✨ Overview
