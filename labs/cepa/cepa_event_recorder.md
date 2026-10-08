@@ -314,3 +314,7 @@ By continuously collecting observations and decisions, AdBuster PRO gains the ab
 CEPA Event Recorder is more than a logger.
 
 It is a behavioral telemetry and analytics engine that allows AdBuster PRO and CEPA Logic to observe, analyze, explain, and continuously improve their decision-making process using real-world behavioral data.
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
