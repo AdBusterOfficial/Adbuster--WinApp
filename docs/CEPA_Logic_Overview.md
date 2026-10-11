@@ -78,11 +78,12 @@ class CEPA:
         ]
 
 6. Step‑By‑Step Example:
-Event 1 — Dialog → BLOCK
-Event 2 — Advertisement → BOOST
-Event 3 — Too soon → DELAY
-Event 4 — Too many corrections → SMOOTH
-Event 5 — Normal content → ALLOW
+   
+- Event 1 — Dialog → BLOCK
+- Event 2 — Advertisement → BOOST
+- Event 3 — Too soon → DELAY
+- Event 4 — Too many corrections → SMOOTH
+- Event 5 — Normal content → ALLOW
 
 7. Purpose
 CEPA ensures stable, predictable, context‑aware automation suitable for real‑world use.
