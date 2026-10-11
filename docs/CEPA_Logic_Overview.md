@@ -77,7 +77,7 @@ class CEPA:
             if timestamp - t < 60
         ]
 
-6. Step‑By‑Step Example
+6. Step‑By‑Step Example:
 Event 1 — Dialog → BLOCK
 Event 2 — Advertisement → BOOST
 Event 3 — Too soon → DELAY
