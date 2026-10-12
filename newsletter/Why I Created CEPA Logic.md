@@ -65,7 +65,19 @@ CEPA Logic is the result of that exploration, and AdBuster serves as the platfor
 
 This newsletter will document that journey, the research behind it, and the challenges encountered along the way.
 
-Article content
+## Project Repository
+
 For those interested in following the project more closely:
 
 https://github.com/AdBusterOfficial/Adbuster--WinApp
+
+---
+
+Originally published on LinkedIn:
+
+https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/
+
+---
+
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+
