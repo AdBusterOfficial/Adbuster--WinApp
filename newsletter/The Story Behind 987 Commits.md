@@ -114,7 +114,7 @@ The development of AdBuster and CEPA Logic continues, and these statistics repre
 
 🔗 **Project Repository**
 
-https://github.com/AdBusterOfficial/Adbuster--WinApp
+ [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
