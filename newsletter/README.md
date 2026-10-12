@@ -4,9 +4,13 @@
 
 # AdBuster Research Notes
 
-> Research notes covering the development of AdBuster, CEPA Logic, behavioral audio analysis, contextual signal processing, and related engineering challenges.
+> Technical research notes documenting the development of AdBuster and CEPA Logic.
 
-Originally published on LinkedIn.
+Articles originally published on LinkedIn.
+
+AdBuster Research Notes documents the ongoing development of AdBuster and CEPA Logic, including research findings, architectural decisions, engineering challenges, experiments, failures, and breakthroughs encountered throughout the project.
+
+🔗 [LinkedIn Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 ## Editions
 
@@ -14,10 +18,4 @@ Originally published on LinkedIn.
 
 ---
 
-© 2026 D.P-G. | AdBuster Research Labs, Dublin
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
-</p>
+© 2026 D.P.-G. | AdBuster Research Labs, Dublin
