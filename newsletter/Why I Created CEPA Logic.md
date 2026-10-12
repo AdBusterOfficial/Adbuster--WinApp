@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes.png" alt="AdBuster Research Notes" width="100%">
+</p>
+<br>
+
 ## Why I Created CEPA Logic
 
 Most audio systems react to sound levels.
