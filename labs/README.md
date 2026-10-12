@@ -328,8 +328,6 @@ This podcast covers the full AdBuster 2.0 PRO process, including ML audio unders
 
 <br>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
 </p>
