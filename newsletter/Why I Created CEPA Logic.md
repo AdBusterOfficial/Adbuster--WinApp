@@ -59,6 +59,8 @@ CEPA Logic is the result of that exploration, and AdBuster serves as the platfor
 
 This newsletter will document that journey, the research behind it, and the challenges encountered along the way.
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster_infographic_2a.png" alt="AdBuster Infographic" width="100%">
 </p>
