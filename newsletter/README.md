@@ -22,10 +22,6 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
-
----
-
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 ---
