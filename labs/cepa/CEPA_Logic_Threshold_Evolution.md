@@ -108,3 +108,9 @@ This document reflects the real behaviour of the current NR 5 implementation, wh
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
