@@ -118,4 +118,10 @@ The development of AdBuster and CEPA Logic continues, and these statistics repre
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
