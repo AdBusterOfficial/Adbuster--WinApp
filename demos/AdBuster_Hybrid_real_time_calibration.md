@@ -9,3 +9,9 @@ Step by step, each iteration brings the engine closer to smooth, human‑like vo
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
