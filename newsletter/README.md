@@ -6,9 +6,7 @@
 
 > Research notes covering the development of AdBuster, CEPA Logic, behavioral audio analysis, contextual signal processing, and related engineering challenges.
 
-Articles originally published on LinkedIn.
-
-This newsletter documents the development of AdBuster and CEPA Logic, including research, technical challenges, design decisions, experiments, failures, and breakthroughs encountered along the way.
+Originally published on LinkedIn.
 
 ## Editions
 
