@@ -17,7 +17,7 @@ The charts below represent a snapshot of that journey.
 ## Commit Activity
 
 <p align="center">
-  ./GitHub2_Commits.png
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub2_Commits.png" alt="GitHub Commit Activity" width="100%">
 </p>
 
 The commit history shows periods of highly concentrated development activity rather than a constant linear workflow.
@@ -37,7 +37,7 @@ Research and development rarely progress in a straight line. Intense bursts of a
 ## Code Evolution
 
 <p align="center">
-  ./GitHub3_Code_frequency.png
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub3_Code_frequency.png" alt="GitHub Code Frequency" width="100%">
 </p>
 
 One of the most interesting aspects of the project is the balance between additions and deletions.
@@ -57,7 +57,7 @@ The development of CEPA Logic required continuous experimentation and refinement
 ## Contributor Statistics
 
 <p align="center">
-  ./GitHub1_Contributors.png
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub1_Contributors.png" alt="GitHub Contributor Statistics" width="100%">
 </p>
 
 The contributor statistics provide another perspective on the development process.
