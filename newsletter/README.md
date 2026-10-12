@@ -7,6 +7,8 @@
 
 Articles originally published on LinkedIn.
 
+This newsletter documents the development of AdBuster and CEPA Logic, including research, technical challenges, design decisions, experiments, failures, and breakthroughs encountered along the way.
+
 ## Editions
 
-- 2026-10-11 — Why I Created CEPA Logic
+- 2026-10-11 – [Why I Created CEPA Logic](./Why%20I%20Created%20CEPA%20Logic.md)
