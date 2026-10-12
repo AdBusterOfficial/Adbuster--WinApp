@@ -1,9 +1,10 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
 </p>
 
 # AdBuster Research Notes
+
+> Research notes covering the development of AdBuster, CEPA Logic, behavioral audio analysis, contextual signal processing, and related engineering challenges.
 
 Articles originally published on LinkedIn.
 
@@ -15,10 +16,10 @@ This newsletter documents the development of AdBuster and CEPA Logic, including 
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="AdBuster Footer" width="100%">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
 </p>
