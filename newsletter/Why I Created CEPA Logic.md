@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes.png" alt="AdBuster Research Notes" width="100%">
 </p>
-<br>
 
-## Why I Created CEPA Logic
+# Why I Created CEPA Logic
 
 Most audio systems react to sound levels.
 
@@ -25,21 +24,19 @@ This led me to explore a different approach based on context rather than raw sig
 
 Instead of asking:
 
-How loud is the signal?
+> How loud is the signal?
+
 CEPA Logic asks:
 
-Is the signal behaving differently than before?
+> Is the signal behaving differently than before?
+
 To answer that question, the system combines multiple observations, including:
 
-• RMS variation 
-
-• Standard deviation 
-
-• Signal range 
-
-• Event patterns 
-
-• Historical context
+- RMS variation
+- Standard deviation
+- Signal range
+- Event patterns
+- Historical context
 
 The goal is not to identify a single loud moment.
 
@@ -47,15 +44,12 @@ The goal is to understand whether the audio environment has genuinely changed.
 
 This shift in perspective gradually evolved into a hybrid behavioral model capable of detecting meaningful changes while reducing reactions to short spikes, transient events, and many common false triggers.
 
-Current development focuses on:
+### Current development focuses on:
 
-• Event recording and pattern analysis 
-
-• Context-aware classification 
-
-• Behavioral signal modeling 
-
-• Machine-learning-assisted decision support
+- Event recording and pattern analysis
+- Context-aware classification
+- Behavioral signal modeling
+- Machine-learning-assisted decision support
 
 I'm not trying to build another audio meter.
 
@@ -73,15 +67,18 @@ This newsletter will document that journey, the research behind it, and the chal
 
 For those interested in following the project more closely:
 
-https://github.com/AdBusterOfficial/Adbuster--WinApp
+🔗 **[AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)**
 
 ---
+
+## About AdBuster Research Notes
+
+AdBuster Research Notes documents the ongoing development of AdBuster and CEPA Logic, including research findings, architectural decisions, engineering challenges, experiments, failures, and breakthroughs encountered throughout the project.
 
 Originally published on LinkedIn:
 
-https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/
+🔗 **[AdBuster Research Notes Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)**
 
 ---
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
-
+© 2026 D.P.-G. | AdBuster Research Labs
