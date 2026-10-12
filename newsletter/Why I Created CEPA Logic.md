@@ -81,4 +81,4 @@ Originally published on LinkedIn:
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs
+© 2026 D.P-G | AdBuster Research Labs
