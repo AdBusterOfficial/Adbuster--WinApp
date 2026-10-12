@@ -15,7 +15,7 @@ This newsletter documents the development of AdBuster and CEPA Logic, including 
   
 ---
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
+© 2026 D.P-G | AdBuster Research Labs Dublin. All rights reserved.
 
 ---
 
