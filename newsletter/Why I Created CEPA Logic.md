@@ -79,7 +79,7 @@ Originally published on LinkedIn:
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
 
