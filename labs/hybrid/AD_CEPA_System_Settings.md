@@ -109,14 +109,12 @@ Spike Engine exists in the system, but Hybrid 3 runs without spike‑based react
 
 ---
 
-© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
-
----
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
 
-<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
-  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/footer.png" width="1010">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
 </p>
 
 
