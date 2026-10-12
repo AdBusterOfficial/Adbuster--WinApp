@@ -145,8 +145,6 @@ All implementation details remain protected under the AdBuster PRO license.
 
 <br>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="AdBuster Footer" width="100%">
 </p>
