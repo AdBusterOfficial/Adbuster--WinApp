@@ -24,7 +24,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
----
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
