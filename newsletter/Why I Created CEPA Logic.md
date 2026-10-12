@@ -69,18 +69,14 @@ This newsletter will document that journey, the research behind it, and the chal
 
 For those interested in following the project more closely:
 
-🔗 **[AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)**
+🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
-
-## About AdBuster Research Notes
-
-AdBuster Research Notes documents the ongoing development of AdBuster and CEPA Logic, including research findings, architectural decisions, engineering challenges, experiments, failures, and breakthroughs encountered throughout the project.
 
 Originally published on LinkedIn:
 
-🔗 **[AdBuster Research Notes Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)**
+🔗 [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 ---
 
-© 2026 D.P-G | AdBuster Research Labs
+© 2026 D.P.-G. | AdBuster Research Labs, Dublin
