@@ -8,49 +8,47 @@ Development statistics are often viewed as productivity metrics.
 
 I see them differently.
 
-For research-driven projects such as AdBuster and CEPA Logic, development metrics reveal the evolution of ideas, experiments, redesigns, and lessons learned throughout the process.
+For research-driven projects such as AdBuster and CEPA Logic, development metrics provide a glimpse into the evolution of ideas, experiments, design changes, and lessons learned throughout the project.
 
 The charts below represent a snapshot of that journey.
 
 ---
 
-## Commit Activity
+## Development Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub2_Commits.png" alt="GitHub Commit Activity" width="100%">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub2_Commits.png" alt="GitHub Development Activity" width="100%">
 </p>
 
-The commit history shows periods of highly concentrated development activity rather than a constant linear workflow.
+The development history shows periods of concentrated activity rather than a constant linear progression.
 
-These periods often correspond to:
+These periods often reflect:
 
 - New experiments
-- Architectural redesigns
-- Behavioral model refinements
-- Testing and validation cycles
-- Integration of new concepts into CEPA Logic
+- Research and investigation
+- Design revisions
+- Evaluation of alternative approaches
+- Integration of new concepts into AdBuster and CEPA Logic
 
-Research and development rarely progress in a straight line. Intense bursts of activity are often followed by periods of analysis, testing, and refinement.
+Research and development rarely move in a straight line. Periods of intense activity are often followed by analysis, testing, observation, and reflection before the next stage begins.
 
 ---
 
-## Code Evolution
+## Project Evolution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub3_Code_frequency.png" alt="GitHub Code Frequency" width="100%">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub3_Code_frequency.png" alt="GitHub Project Evolution" width="100%">
 </p>
 
-One of the most interesting aspects of the project is the balance between additions and deletions.
+Long-term projects evolve continuously as new information becomes available and assumptions are challenged.
 
-Large code additions were frequently followed by substantial removals.
+Some approaches are expanded.
 
-This should not be interpreted as wasted work.
+Others are reconsidered or replaced.
 
-In many cases, removing code was a sign of progress.
+The development of AdBuster and CEPA Logic has been shaped by ongoing experimentation, refinement, and adaptation rather than a fixed roadmap.
 
-Ideas that initially appeared promising sometimes failed to deliver the expected behavioral results and were replaced with simpler or more effective approaches.
-
-The development of CEPA Logic required continuous experimentation and refinement rather than simply accumulating features.
+Each iteration contributes to a deeper understanding of the problems being explored.
 
 ---
 
@@ -60,67 +58,61 @@ The development of CEPA Logic required continuous experimentation and refinement
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/GitHub1_Contributors.png" alt="GitHub Contributor Statistics" width="100%">
 </p>
 
-The contributor statistics provide another perspective on the development process.
+The contributor statistics provide another perspective on the project's development history.
 
 At the time of writing:
 
 - 987 commits
-- More than 11,000 lines added
-- More than 5,500 lines removed
+- More than 11,000 recorded additions
+- More than 5,500 recorded revisions
 
-The numbers indicate that the project has undergone significant iteration.
+The figures suggest a project that has gone through significant evolution over time.
 
-For behavioral systems such as CEPA Logic, progress is often measured not by the amount of code written but by the quality of decisions produced by the system.
-
-Sometimes the most valuable improvement comes from simplifying an existing solution rather than making it more complex.
+For research-oriented systems such as CEPA Logic, progress is not measured solely by activity metrics but by the gradual improvement of ideas, observations, and decision-making concepts being developed and tested.
 
 ---
 
 ## What These Metrics Do Not Show
 
-The charts reveal development activity.
+The charts provide insight into development activity.
 
 They do not reveal:
 
-- The internal architecture
-- The behavioral models
-- The signal processing techniques
-- The machine learning strategies
-- The proprietary algorithms used within AdBuster and CEPA Logic
+- Internal architecture
+- Research methodologies
+- Behavioral concepts
+- Signal analysis approaches
+- Proprietary technologies behind AdBuster and CEPA Logic
 
-Those components remain part of the project's intellectual property.
+Those elements remain part of the project's intellectual property.
 
-What the charts do show is the amount of experimentation, refinement, and persistence required to move from an idea toward a working behavioral system.
+What these statistics do reveal is the persistence required to transform an idea into a continuously evolving research project.
 
 ---
 
 ## Final Thoughts
 
-Many people associate software development with writing code.
+Research projects rarely follow a perfectly straight path.
 
-Research projects often tell a different story.
+Ideas evolve.
 
-Progress is not always represented by the number of lines added.
+Assumptions are challenged.
 
-Sometimes progress means rewriting a subsystem.
+New directions emerge.
 
-Sometimes it means removing thousands of lines.
+Understanding improves through experimentation and observation.
 
-And sometimes it means discovering that an idea simply does not work and having the discipline to replace it.
-
-The development of AdBuster and CEPA Logic continues, and these statistics represent only one small chapter of that journey.
+The development of AdBuster and CEPA Logic continues, and these statistics represent only one small chapter of a much larger journey.
 
 ---
 
 🔗 **Project Repository**
 
- [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+[AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
-© 2026 D.P-G. | AdBuster Research Labs, Dublin
-
-<br>
+© 2026 D.P.-G. | AdBuster Research Labs, Dublin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
