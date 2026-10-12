@@ -18,7 +18,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## Upcoming Editions
 
-- 2026-11-? – The Story Behind 987 Commits
+- 2026-11-? – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
 
 ---
 
