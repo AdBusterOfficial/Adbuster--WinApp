@@ -4,7 +4,7 @@
 
 ---
 
-## ⭐ CEPA – Contextual Event Pattern Analysis
+## 🧠 CEPA – Contextual Event Pattern Analysis
 
 
 CEPA is a proprietary analytical system invented and developed by the 
@@ -12,7 +12,7 @@ AdBuster Team (Dublin, 2026). It interprets events in context, identifies meanin
 patterns, and recognizes significant behaviors based on relationships between signals 
 rather than isolated impulses.
 
-## ⭐ CEPA Logic – Decision Framework
+## 🧠 CEPA Logic – Decision Framework
 
 
 CEPA Logic is the formal decision-making framework of CEPA. It analyzes 
