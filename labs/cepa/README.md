@@ -90,7 +90,7 @@ layer that:
 
 This is what allows the system to behave intelligently rather than mechanically.
 
-<strong>🟫 Why CEPA matters</strong>
+<strong>🟥 Why CEPA matters</strong>
 
 CEPA enables:
 - real‑time detection of complex behaviors,
