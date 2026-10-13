@@ -42,6 +42,93 @@ CEPA processes audio events through a structured, human‑like reasoning pipelin
 
 ---
 
+<div style="
+    margin:20px 0;
+    padding:20px 24px;
+    border-radius:8px;
+    border:1px solid #1f2f55;
+    background:#050b1a;
+    color:#ffffff;
+    font-family:'Segoe UI',sans-serif;
+    font-size:13px;
+    line-height:1.55;
+    white-space:pre-wrap;
+">
+
+<h3 style="margin-top:0;color:#ffffff;">CEPA – Contextual Event Pattern Analysis (Overview)</h3>
+
+CEPA (Contextual Event Pattern Analysis) is a custom analytical framework designed to detect
+meaningful patterns in streams of events by interpreting them in context, rather than as
+isolated signals. Unlike traditional event processing, CEPA evaluates how multiple events
+relate to each other over time, how they form patterns, and how those patterns change
+depending on the surrounding environment.
+
+<strong>What CEPA means in simple terms</strong>
+
+CEPA works like a system that “listens” to many signals at once and tries to understand
+what they mean together, not separately. A single event rarely tells the full story.
+CEPA looks for:
+- sequences of events,
+- timing between events,
+- repetitions or anomalies,
+- changes in intensity or behavior,
+- environmental context (noise level, device state, user activity, etc.).
+
+Only when these elements form a recognizable pattern does CEPA classify it as a meaningful event.
+
+<strong>Why CEPA is contextual</strong>
+
+The same event can mean different things depending on the situation. CEPA adjusts its
+interpretation based on:
+- background conditions,
+- system state,
+- user behavior,
+- noise or interference,
+- historical patterns.
+
+This allows CEPA to avoid false positives and react only when the whole situation indicates
+something important.
+
+<strong>Why CEPA is pattern‑based</strong>
+
+CEPA does not react to a single spike, click, or anomaly. It reacts to patterns, such as:
+- a sequence of signals occurring in a specific order,
+- repeated behavior within a time window,
+- coordinated activity across multiple modules,
+- deviations from normal patterns.
+
+This makes CEPA robust, reliable, and resistant to random noise.
+
+<strong>How CEPA works inside the AdBuster ecosystem</strong>
+
+Within the AdBuster architecture (AdBuster, Duster, VolMaster), CEPA acts as the intelligence
+layer that:
+- merges signals from multiple modules,
+- identifies meaningful relationships between them,
+- filters out irrelevant noise,
+- triggers actions only when a full pattern is confirmed.
+
+This is what allows the system to behave intelligently rather than mechanically.
+
+<strong>Why CEPA matters</strong>
+
+CEPA enables:
+- real‑time detection of complex behaviors,
+- high accuracy even in noisy environments,
+- adaptive interpretation based on context,
+- cooperation between modules,
+- scalable logic that can grow with new features.
+
+It is the foundation that makes the AdBuster system more than just a set of independent tools
+— it becomes a coordinated, context‑aware platform.
+
+AdBuster Team  
+2026 / Dublin, Ireland
+
+</div>
+
+---
+
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
