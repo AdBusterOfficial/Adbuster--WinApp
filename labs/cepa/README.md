@@ -122,9 +122,6 @@ CEPA enables:
 It is the foundation that makes the AdBuster system more than just a set of independent tools
 — it becomes a coordinated, context‑aware platform.
 
-AdBuster Team  
-2026 / Dublin, Ireland
-
 </div>
 
 ---
