@@ -106,7 +106,7 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 
 ---
 
-CEPA – Contextual Event Pattern Analysis (Overview)
+## CEPA – Contextual Event Pattern Analysis (Overview)
 CEPA (Contextual Event Pattern Analysis) is a custom analytical framework designed to detect meaningful patterns in streams of events by interpreting them in context, rather than as isolated signals. Unlike traditional event processing, CEPA evaluates how multiple events relate to each other over time, how they form patterns, and how those patterns change depending on the surrounding environment.
 
 What CEPA means in simple terms
