@@ -43,7 +43,7 @@ isolated signals. Unlike traditional event processing, CEPA evaluates how multip
 relate to each other over time, how they form patterns, and how those patterns change
 depending on the surrounding environment.
 
-<strong>What CEPA means in simple terms</strong>
+<strong>🟦 What CEPA means in simple terms</strong>
 
 CEPA works like a system that “listens” to many signals at once and tries to understand
 what they mean together, not separately. A single event rarely tells the full story.
@@ -56,7 +56,7 @@ CEPA looks for:
 
 Only when these elements form a recognizable pattern does CEPA classify it as a meaningful event.
 
-<strong>Why CEPA is contextual</strong>
+<strong>🟧 Why CEPA is contextual</strong>
 
 The same event can mean different things depending on the situation. CEPA adjusts its
 interpretation based on:
@@ -69,7 +69,7 @@ interpretation based on:
 This allows CEPA to avoid false positives and react only when the whole situation indicates
 something important.
 
-<strong>Why CEPA is pattern‑based</strong>
+<strong>🟪 Why CEPA is pattern‑based</strong>
 
 CEPA does not react to a single spike, click, or anomaly. It reacts to patterns, such as:
 - a sequence of signals occurring in a specific order,
@@ -79,7 +79,7 @@ CEPA does not react to a single spike, click, or anomaly. It reacts to patterns,
 
 This makes CEPA robust, reliable, and resistant to random noise.
 
-<strong>How CEPA works inside the AdBuster ecosystem</strong>
+<strong>🟨 How CEPA works inside the AdBuster ecosystem</strong>
 
 Within the AdBuster architecture (AdBuster, Duster, VolMaster), CEPA acts as the intelligence
 layer that:
@@ -90,7 +90,7 @@ layer that:
 
 This is what allows the system to behave intelligently rather than mechanically.
 
-<strong>Why CEPA matters</strong>
+<strong>🟫 Why CEPA matters</strong>
 
 CEPA enables:
 - real‑time detection of complex behaviors,
