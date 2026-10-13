@@ -67,7 +67,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [System_Report_13-09-2026.md](./hybrid/System_Report_13-09-2026.md)
 - [CEPA_Context_Aware_Engine.md](./hybrid/CEPA_Context_Aware_Engine.md)
 - [AdBuster_Engine_Technical_Overview.md](./hybrid/AdBuster_Engine_Technical_Overview.md)
-- [From_DSP_To_CEPA.md](./From_DSP_To_CEPA.md)
+- [From_DSP_To_CEPA](./From_DSP_To_CEPA.md)
   
 ### 📦 Other Markdown Files
 - [README](./README.md)
