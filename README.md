@@ -1161,7 +1161,8 @@ A separate proprietary license applies to CEPA Logic:
 🟦 [Architecture Overview](docs/overview.md)  
 ⬜ [Broadlink Server Log](docs/logs.md)  
 🟧 [ML Validation Layer](docs/CEPA_ML_Validation.md)  
-🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)   
+🟫 [CEPA Logic Overview](docs/CEPA_Logic_Overview.md)
+🟫 [Broadlink IR remote(docs/Broadlink_IR_remote.md)
 🟪 [AdBuster Demos](demos/) — real‑time showcases of the full AdBuster PRO pipeline, including ML classification, CEPA stabilization and Broadlink IR control working together in a synchronized, stable operating environment.
 
 ---
