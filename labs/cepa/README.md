@@ -33,11 +33,11 @@ CEPA processes audio events through a structured, human‑like reasoning pipelin
 6. Apply human‑like filters — ignore micro‑noise, ignore short spikes, apply deadzone & hysteresis.
 7. Enforce safety rules — anti‑spam window, 2× up/down protection, block unsafe actions.
 8. Decision Engine — choose the correct action:
-spike → VOL_DOWN
-drift up → VOL_DOWN
-drift down → VOL_UP
-stable → PASS
-unsafe → PASS
+- spike → VOL_DOWN
+- drift up → VOL_DOWN
+- drift down → VOL_UP
+- stable → PASS
+- unsafe → PASS
 9. Output final action — send command to IR controller via VolMaster.
 
 ---
