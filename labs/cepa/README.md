@@ -22,6 +22,26 @@ is confirmed.
 
 ---
 
+## Contextual Event Pattern Analysis — Algorithm
+CEPA processes audio events through a structured, human‑like reasoning pipeline:
+
+1. Collect RMS trends — short‑term and long‑term loudness behaviour.
+2. Detect anomalies — sudden spikes, drift up, drift down.
+3. Read ML state — AD / NORMAL mode from the ML controller.
+4. Evaluate recent actions — cooldown timers, safety limits, last volume changes.
+5. Build perceptual context — stable vs unstable, gradual vs sudden, spike vs natural fluctuation.
+6. Apply human‑like filters — ignore micro‑noise, ignore short spikes, apply deadzone & hysteresis.
+7. Enforce safety rules — anti‑spam window, 2× up/down protection, block unsafe actions.
+8. Decision Engine — choose the correct action:
+spike → VOL_DOWN
+drift up → VOL_DOWN
+drift down → VOL_UP
+stable → PASS
+unsafe → PASS
+9. Output final action — send command to IR controller via VolMaster.
+
+---
+
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
