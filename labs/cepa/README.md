@@ -106,6 +106,93 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 
 ---
 
+<section style="
+  background:#0A122A;
+  color:#FFFFFF;
+  padding:30px;
+  border-radius:12px;
+  font-family:Consolas, 'Courier New', monospace;
+">
+
+  <h2 style="
+    color:#D4AF37;
+    font-family:'Segoe UI', sans-serif;
+    font-weight:600;
+    margin-top:0;
+    margin-bottom:20px;
+  ">
+    CEPA Logic Diagram
+  </h2>
+
+  <pre style="
+    background:#0A122A;
+    color:#FFFFFF;
+    padding:20px 0;
+    font-size:14px;
+    line-height:1.35;
+    overflow-x:auto;
+    white-space:pre;
+  ">
+┌────────────────────────────────────────────┐
+│                AUDIO INPUT                 │
+│  - raw sound from environment              │
+└───────────────────────────────┬────────────┘
+                                │
+                                ▼
+┌────────────────────────────────────────────┐
+│           SIGNAL PRE-ANALYSIS              │
+│  - RMS / dynamics / spectral               │
+└───────────────────────────────┬────────────┘
+                                │
+                                ▼
+┌────────────────────────────────────────────┐
+│           PATTERN OBSERVATION              │
+│  - drift / spikes / micro-events           │
+└───────────────────────────────┬────────────┘
+                                │
+                                ▼
+┌────────────────────────────────────────────┐
+│          CONTEXT WINDOW UPDATE             │
+│  - rolling context of recent behaviour     │
+└───────────────────────────────┬────────────┘
+                                │
+                                ▼
+┌────────────────────────────────────────────┐
+│         BEHAVIOUR CLASSIFICATION           │
+│  - meaningful vs non-meaningful pattern    │
+└───────────────────────────────┬────────────┘
+                        ┌───────┴────────┐
+                        │                │
+                        ▼                ▼
+┌──────────────────────────────┐   ┌──────────────────────────────┐
+│           NO EVENT           │   │       MEANINGFUL EVENT       │
+└───────────────┬──────────────┘   └───────────────┬──────────────┘
+                │                                  │
+                ▼                                  ▼
+┌──────────────────────────────┐   ┌──────────────────────────────┐
+│            PASS              │   │       ML CONFIRMATION        │
+└──────────────────────────────┘   └───────────────┬──────────────┘
+                                                   │
+                                                   ▼
+                                        ┌──────────────────────────┐
+                                        │      DECISION ENGINE     │
+                                        └───────────────┬──────────┘
+                                                        │
+                                                        ▼
+                                        ┌──────────────────────────┐
+                                        │        IR ACTION         │
+                                        └───────────────┬──────────┘
+                                                        │
+                                                        ▼
+                                        ┌──────────────────────────┐
+                                        │        STABILIZE         │
+                                        └──────────────────────────┘
+  </pre>
+
+</section>
+
+---
+
 ## Contextual Event Pattern Analysis — Algorithm
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
 
