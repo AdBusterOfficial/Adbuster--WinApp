@@ -4,6 +4,10 @@
 
 ---
 
+[CEPA - First Official Publication_D.P-G_03_03_2026](./pdf/First Official Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
+
+---
+
 ## ⭐ CEPA – Contextual Event Pattern Analysis
 
 
