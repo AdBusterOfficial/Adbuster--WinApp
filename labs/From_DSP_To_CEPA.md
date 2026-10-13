@@ -8,7 +8,7 @@
 
 ## Original Goal
 
-Reduce disruptive TV advertisements.
+Limiting intrusive, loud TV commercials.
 
 ## Phase 1 – RMS
 
