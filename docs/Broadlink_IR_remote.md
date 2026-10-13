@@ -2,8 +2,6 @@
   <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
 
----
-
 <br>
 
 <p align="center">
