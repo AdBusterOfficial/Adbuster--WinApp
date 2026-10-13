@@ -270,6 +270,8 @@ CEPA processes audio events through a structured, human‑like reasoning pipelin
 
 ---
 
+<br>
+
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
