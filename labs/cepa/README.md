@@ -22,26 +22,6 @@ is confirmed.
 
 ---
 
-## Contextual Event Pattern Analysis — Algorithm
-CEPA processes audio events through a structured, human‑like reasoning pipeline:
-
-1. Collect RMS trends — short‑term and long‑term loudness behaviour.
-2. Detect anomalies — sudden spikes, drift up, drift down.
-3. Read ML state — AD / NORMAL mode from the ML controller.
-4. Evaluate recent actions — cooldown timers, safety limits, last volume changes.
-5. Build perceptual context — stable vs unstable, gradual vs sudden, spike vs natural fluctuation.
-6. Apply human‑like filters — ignore micro‑noise, ignore short spikes, apply deadzone & hysteresis.
-7. Enforce safety rules — anti‑spam window, 2× up/down protection, block unsafe actions.
-8. Decision Engine — choose the correct action:
-- spike → VOL_DOWN
-- drift up → VOL_DOWN
-- drift down → VOL_UP
-- stable → PASS
-- unsafe → PASS
-9. Output final action — send command to IR controller via VolMaster.
-
----
-
 <div style="
     margin:20px 0;
     padding:20px 24px;
@@ -123,6 +103,84 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 — it becomes a coordinated, context‑aware platform.
 
 </div>
+
+---
+
+CEPA – Contextual Event Pattern Analysis (Overview)
+CEPA (Contextual Event Pattern Analysis) is a custom analytical framework designed to detect meaningful patterns in streams of events by interpreting them in context, rather than as isolated signals. Unlike traditional event processing, CEPA evaluates how multiple events relate to each other over time, how they form patterns, and how those patterns change depending on the surrounding environment.
+
+What CEPA means in simple terms
+
+CEPA works like a system that “listens” to many signals at once and tries to understand what they mean together, not separately. A single event rarely tells the full story. CEPA looks for:
+
+sequences of events,
+timing between events,
+repetitions or anomalies,
+changes in intensity or behavior,
+environmental context (noise level, device state, user activity, etc.).
+Only when these elements form a recognizable pattern does CEPA classify it as a meaningful event.
+
+Why CEPA is contextual
+
+The same event can mean different things depending on the situation. CEPA adjusts its interpretation based on:
+
+background conditions,
+system state,
+user behavior,
+noise or interference,
+historical patterns.
+This allows CEPA to avoid false positives and react only when the whole situation indicates something important.
+
+Why CEPA is pattern‑based
+
+CEPA does not react to a single spike, click, or anomaly. It reacts to patterns, such as:
+
+a sequence of signals occurring in a specific order,
+repeated behavior within a time window,
+coordinated activity across multiple modules,
+deviations from normal patterns.
+This makes CEPA robust, reliable, and resistant to random noise.
+
+How CEPA works inside the AdBuster ecosystem
+
+Within the AdBuster architecture (AdBuster, Duster, VolMaster), CEPA acts as the intelligence layer that:
+
+merges signals from multiple modules,
+identifies meaningful relationships between them,
+filters out irrelevant noise,
+triggers actions only when a full pattern is confirmed.
+This is what allows the system to behave intelligently rather than mechanically.
+
+Why CEPA matters
+
+CEPA enables:
+
+real‑time detection of complex behaviors,
+high accuracy even in noisy environments,
+adaptive interpretation based on context,
+cooperation between modules,
+scalable logic that can grow with new features.
+It is the foundation that makes the AdBuster system more than just a set of independent tools — it becomes a coordinated, context‑aware platform.
+
+---
+
+## Contextual Event Pattern Analysis — Algorithm
+CEPA processes audio events through a structured, human‑like reasoning pipeline:
+
+1. Collect RMS trends — short‑term and long‑term loudness behaviour.
+2. Detect anomalies — sudden spikes, drift up, drift down.
+3. Read ML state — AD / NORMAL mode from the ML controller.
+4. Evaluate recent actions — cooldown timers, safety limits, last volume changes.
+5. Build perceptual context — stable vs unstable, gradual vs sudden, spike vs natural fluctuation.
+6. Apply human‑like filters — ignore micro‑noise, ignore short spikes, apply deadzone & hysteresis.
+7. Enforce safety rules — anti‑spam window, 2× up/down protection, block unsafe actions.
+8. Decision Engine — choose the correct action:
+- spike → VOL_DOWN
+- drift up → VOL_DOWN
+- drift down → VOL_UP
+- stable → PASS
+- unsafe → PASS
+9. Output final action — send command to IR controller via VolMaster.
 
 ---
 
