@@ -196,7 +196,7 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 ## CEPA Logic in Action
 A simplified real‑world scenario showing how CEPA reacts step by step.
 
-- 00:00
+- 00:00 -
 Stable dialogue
 CEPA detects a natural, stable scene. No anomalies → no action.
 
