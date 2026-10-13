@@ -629,7 +629,7 @@ Short demo recorded quickly on a phone — quality is low, but it clearly shows 
 ---
 
 ## 🗂️ Documentation
-➡️ Full documentation is available in the [overview.md](docs/overview.md) file.
+➡️ Full documentation is available in the [overview](docs/overview.md) file.
 
 ---
 
@@ -640,7 +640,7 @@ This repository includes an additional proprietary license covering the **CEPA L
 
 For full terms, see the dedicated license file:
 
-➡️ [CEPA_LOGIC_LICENSE.md](CEPA_LOGIC_LICENSE.md)
+➡️ [CEPA_LOGIC_LICENSE](CEPA_LOGIC_LICENSE.md)
 
 ---
 
@@ -648,7 +648,7 @@ For full terms, see the dedicated license file:
 CEPA Logic is not a generic algorithm but a full contextual reasoning framework for real‑time audio event interpretation and automation.
 A full technical explanation of how CEPA Logic works — including decision flow, contextual evaluation, human‑like behavior model, data processing pipeline and real‑world examples — is available in a dedicated document:
 
-➡️ [CEPA_Logic_Overview.md](docs/CEPA_Logic_Overview.md)
+➡️ [CEPA_Logic_Overview](docs/CEPA_Logic_Overview.md)
 <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/CEPA.png" width="280">
 
 ### Intended Audience
@@ -1146,11 +1146,11 @@ This protection prevents:
 
 AdBuster 2.0 PRO is not open‑source.  
 The repository is public for transparency, but all application code and models are covered by:  
-**[LICENSE.md](LICENSE.md)**  
+**[LICENSE](LICENSE.md)**  
 No redistribution, modification or commercial use is permitted.
 
 A separate proprietary license applies to CEPA Logic:  
-**[CEPA_LOGIC_LICENSE.md](CEPA_LOGIC_LICENSE.md)**
+**[CEPA_LOGIC_LICENSE](CEPA_LOGIC_LICENSE.md)**
 
 ---
 
