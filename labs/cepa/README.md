@@ -250,7 +250,7 @@ This is CEPA Logic in action — the part of AdBuster 2.0 PRO that the user noti
   
 ---
 
-## ⭐ Contextual Event Pattern Analysis — Algorithm
+## ⚙️ Contextual Event Pattern Analysis — Algorithm
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
 
 1. Collect RMS trends — short‑term and long‑term loudness behaviour.
