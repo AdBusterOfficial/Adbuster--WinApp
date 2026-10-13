@@ -34,41 +34,41 @@ room size, content type).
 
 ### 🔁 Documentation:
 - Hybrid Engine — Main Document  
-  [AdBuster_Hybrid_Engine_v13.md](./AdBuster_Hybrid_Engine_v13.md)
+  [AdBuster_Hybrid_Engine_v13](./AdBuster_Hybrid_Engine_v13.md)
 
 - CEPA Logic — Signal Flow  
-  [CEPA Logic-Signal Flow_v13 Hybrid.md](./CEPA%20Logic-Signal%20Flow_v13%20Hybrid.md)
+  [CEPA Logic-Signal Flow_v13 Hybrid](./CEPA%20Logic-Signal%20Flow_v13%20Hybrid.md)
 
 - System Report  
-  [System_Report_13-09-2026.md](./System_Report_13-09-2026.md)
+  [System_Report_13-09-2026](./System_Report_13-09-2026.md)
 
 - CEPA Logic PRO — Context‑Aware Engine  
-  [CEPA_Context_Aware_Engine.md](./CEPA_Context_Aware_Engine.md)
+  [CEPA_Context_Aware_Engine](./CEPA_Context_Aware_Engine.md)
 
 - CEPA Logic PRO — Contextual Pattern Analysis  
-  [CEPA_Pattern_Analysis.md](./CEPA_Pattern_Analysis.md)
+  [CEPA_Pattern_Analysis](./CEPA_Pattern_Analysis.md)
 
 - Hybrid Engine v13 — Stable System Behavior Report  
-  [StableHybridEngine_v13.md](./StableHybridEngine_v13.md)
+  [StableHybridEngine_v13](./StableHybridEngine_v13.md)
 
 - AD‑CEPA System Settings — Full Variable & Parameter Reference  
-  [AD_CEPA_System_Settings.md](./AD_CEPA_System_Settings.md)
+  [AD_CEPA_System_Settings](./AD_CEPA_System_Settings.md)
 
 - AdBuster — Project Roadmap  
-  [ROADMAP.md](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/ROADMAP.md)
+  [ROADMAP](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/ROADMAP.md)
 
 ### 🧩 Images:
 - CEPA Preset Setup  
-  [Cepa_preset_setup.png](./Cepa_preset_setup.png)
+  [Cepa_preset_setup](./Cepa_preset_setup.png)
 
 - Hybrid Engine Diagram  
-  [AdBuster_Hybrid_v13.png](./AdBuster_Hybrid_v13.png)
+  [AdBuster_Hybrid_v13](./AdBuster_Hybrid_v13.png)
 
 - Hardware Concept Banner  
-  [Banner_NEW_GOLD_labs.png](../Banner_NEW_GOLD_labs.png)
+  [Banner_NEW_GOLD_labs](../Banner_NEW_GOLD_labs.png)
 
 - CEPA Context Pattern → Decision → IR  
-  [CEPA_Context_Pattern_Decision_IR.png](./CEPA_Context_Pattern_Decision_IR.png)
+  [CEPA_Context_Pattern_Decision_IR](./CEPA_Context_Pattern_Decision_IR.png)
 
 ### 📌 Notes:
 This module is part of AdBuster PRO Hybrid Engine v13.
