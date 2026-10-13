@@ -4,7 +4,7 @@
 
 ---
 
-## CEPA – Contextual Event Pattern Analysis
+## ⭐ CEPA – Contextual Event Pattern Analysis
 
 
 CEPA is a proprietary analytical system invented and developed by the 
@@ -12,7 +12,7 @@ AdBuster Team (Dublin, 2026). It interprets events in context, identifies meanin
 patterns, and recognizes significant behaviors based on relationships between signals 
 rather than isolated impulses.
 
-## CEPA Logic – Decision Framework
+## ⭐ CEPA Logic – Decision Framework
 
 
 CEPA Logic is the formal decision-making framework of CEPA. It analyzes 
@@ -193,7 +193,7 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 
 ---
 
-## CEPA Logic in Action
+## ⭐ CEPA Logic in Action
 A simplified real‑world scenario showing how CEPA reacts step by step.
 
 - 00:00 -
@@ -250,7 +250,7 @@ This is CEPA Logic in action — the part of AdBuster 2.0 PRO that the user noti
   
 ---
 
-## Contextual Event Pattern Analysis — Algorithm
+## ⭐ Contextual Event Pattern Analysis — Algorithm
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
 
 1. Collect RMS trends — short‑term and long‑term loudness behaviour.
