@@ -121,7 +121,7 @@ It is the foundation that makes the AdBuster system more than just a set of inde
     margin-top:0;
     margin-bottom:20px;
   ">
-    CEPA Logic Diagram
+    ⭐ CEPA Logic Diagram
   </h2>
 
   <pre style="
