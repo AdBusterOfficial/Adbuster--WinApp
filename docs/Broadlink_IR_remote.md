@@ -6,7 +6,7 @@
 
 <br>
 
-![broadlink_logo.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/CEPAlogic_AdBuster_Cover.png)
+![broadlink_logo.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/broadlink_logo.png)
 
 
 <div style="font-family:Arial, sans-serif; line-height:1.7; padding:25px; max-width:900px; margin:auto; background:#0A0F1F; color:#EEE; border:1px solid #D4AF37; border-radius:10px;">
