@@ -70,7 +70,7 @@ including training workflows, feature extraction logic, model evaluation, and CE
 - [From_DSP_To_CEPA.md](./From_DSP_To_CEPA.md)
   
 ### 📦 Other Markdown Files
-- [README.md](./README.md)
+- [README](./README.md)
 
 ---
 
