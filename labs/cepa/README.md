@@ -35,7 +35,7 @@ is confirmed.
     white-space:pre-wrap;
 ">
 
-<h3 style="margin-top:0;color:#ffffff;">CEPA – Contextual Event Pattern Analysis (Overview)</h3>
+<h3 style="margin-top:0;color:#ffffff;">🧩 CEPA – Contextual Event Pattern Analysis (Overview)</h3>
 
 CEPA (Contextual Event Pattern Analysis) is a custom analytical framework designed to detect
 meaningful patterns in streams of events by interpreting them in context, rather than as
