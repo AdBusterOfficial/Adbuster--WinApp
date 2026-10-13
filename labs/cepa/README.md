@@ -193,6 +193,204 @@ It is the foundation that makes the AdBuster system more than just a set of inde
 
 ---
 
+<section class="cepa-block">
+  <div class="cepa-header">
+    <h2>CEPA Logic in Action</h2>
+    <p class="cepa-subtitle">
+      A simplified real‑world scenario showing how CEPA reacts step by step.
+    </p>
+  </div>
+
+  <div class="cepa-timeline">
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:00</div>
+      <div class="cepa-content">
+        <h3>Stable dialogue</h3>
+        <p>CEPA detects a natural, stable scene. No anomalies → no action.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:03</div>
+      <div class="cepa-content">
+        <h3>Small spike</h3>
+        <p>A single micro‑fluctuation. CEPA ignores it.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:05</div>
+      <div class="cepa-content">
+        <h3>Second spike</h3>
+        <p>Still natural behaviour. No pattern → ignored.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:07</div>
+      <div class="cepa-content">
+        <h3>Gradual rise</h3>
+        <p>A slow, systematic drift‑up begins. CEPA opens a context window but waits for confirmation.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:09</div>
+      <div class="cepa-content">
+        <h3>Sudden jump</h3>
+        <p>
+          Unnatural behaviour appears:<br>
+          – abrupt loudness jump<br>
+          – compressed dynamics<br>
+          – loss of natural structure<br>
+          CEPA marks this as a meaningful event.
+        </p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:10</div>
+      <div class="cepa-content">
+        <h3>ML validation</h3>
+        <p>
+          Machine Learning confirms AD‑like behaviour.<br>
+          ML does <strong>not</strong> control volume — it only validates CEPA’s interpretation.
+        </p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:10.2</div>
+      <div class="cepa-content">
+        <h3>First correction</h3>
+        <p>CEPA applies a minimal VOL_DOWN (1 step). No prediction. No aggression.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:10.6</div>
+      <div class="cepa-content">
+        <h3>Stability check</h3>
+        <p>CEPA evaluates whether the signal is returning to a natural zone.</p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:11</div>
+      <div class="cepa-content">
+        <h3>Second correction</h3>
+        <p>
+          A smooth, perceptual adjustment:<br>
+          – prevents oscillation<br>
+          – avoids over‑correction<br>
+          – keeps the transition comfortable
+        </p>
+      </div>
+    </div>
+
+    <div class="cepa-step">
+      <div class="cepa-time">00:12</div>
+      <div class="cepa-content">
+        <h3>Back to normal</h3>
+        <p>
+          The scene stabilizes. CEPA closes the context window and returns to passive observation.<br>
+          No guessing. No forecasting.<br>
+          Just behaviour‑based, deterministic logic.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="cepa-footer">
+    <p>
+      This is CEPA Logic in action — the part of AdBuster 2.0 PRO that the user notices, even though it stays invisible.
+    </p>
+  </div>
+</section>
+
+<style>
+  .cepa-block {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 2.5rem;
+    background: #0A0F1F; /* AdBuster navy */
+    color: #FFFFFF;
+    border-radius: 14px;
+    border: 1px solid rgba(212, 175, 55, 0.25); /* gold outline */
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  .cepa-header h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.9rem;
+    letter-spacing: 0.02em;
+    color: #D4AF37; /* gold */
+  }
+
+  .cepa-subtitle {
+    margin: 0 0 1.8rem;
+    font-size: 1rem;
+    color: #EDEDED;
+  }
+
+  .cepa-timeline {
+    border-left: 2px solid rgba(212, 175, 55, 0.6); /* gold line */
+    margin-left: 0.8rem;
+    padding-left: 1.5rem;
+  }
+
+  .cepa-step {
+    display: flex;
+    gap: 1.2rem;
+    margin-bottom: 1.4rem;
+    position: relative;
+  }
+
+  .cepa-step::before {
+    content: "";
+    position: absolute;
+    left: -1.7rem;
+    top: 0.35rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #D4AF37; /* gold */
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.6);
+  }
+
+  .cepa-time {
+    min-width: 70px;
+    font-weight: 600;
+    color: #D4AF37;
+    font-size: 1rem;
+  }
+
+  .cepa-content h3 {
+    margin: 0 0 0.25rem;
+    font-size: 1.05rem;
+    color: #FFFFFF;
+  }
+
+  .cepa-content p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.45;
+    color: #E0E0E0;
+  }
+
+  .cepa-footer {
+    margin-top: 2rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid rgba(212, 175, 55, 0.25);
+    font-size: 0.95rem;
+    color: #E0E0E0;
+  }
+</style>
+
+---
+
 ## Contextual Event Pattern Analysis — Algorithm
 CEPA processes audio events through a structured, human‑like reasoning pipeline:
 
