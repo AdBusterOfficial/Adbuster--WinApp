@@ -4,7 +4,7 @@
 
 ---
 
-[CEPA - First Official Publication_D.P-G_03_03_2026](docs/pdf/docs/pdf/First%20Official%20Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
+[CEPA - First Official Publication_D.P-G_03_03_2026](./docs/pdf/docs/pdf/First%20Official%20Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
 
 ---
 
