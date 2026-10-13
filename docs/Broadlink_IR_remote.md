@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/broadlink_logo.png?raw=true" alt="Broadlink logo" width="220">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/broadlink_logo.png?raw=true" alt="Broadlink logo" width="320">
 </p>
 
 
