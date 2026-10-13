@@ -200,19 +200,19 @@ A simplified real‑world scenario showing how CEPA reacts step by step.
 Stable dialogue
 CEPA detects a natural, stable scene. No anomalies → no action.
 
-- 00:03
+- 00:03 -
 Small spike
 A single micro‑fluctuation. CEPA ignores it.
 
-- 00:05
+- 00:05 -
 Second spike
 Still natural behaviour. No pattern → ignored.
 
-- 00:07
+- 00:07 -
 Gradual rise
 A slow, systematic drift‑up begins. CEPA opens a context window but waits for confirmation.
 
-- 00:09
+- 00:09 -
 Sudden jump
 Unnatural behaviour appears:
 – abrupt loudness jump
@@ -220,27 +220,27 @@ Unnatural behaviour appears:
 – loss of natural structure
 CEPA marks this as a meaningful event.
 
-- 00:10
+- 00:10 -
 ML validation
 Machine Learning confirms AD‑like behaviour.
 ML does not control volume — it only validates CEPA’s interpretation.
 
-- 00:10.2
+- 00:10.2 -
 First correction
 CEPA applies a minimal VOL_DOWN (1 step). No prediction. No aggression.
 
-- 00:10.6
+- 00:10.6 - 
 Stability check
 CEPA evaluates whether the signal is returning to a natural zone.
 
-- 00:11
+- 00:11 -
 Second correction
 A smooth, perceptual adjustment:
 – prevents oscillation
 – avoids over‑correction
 – keeps the transition comfortable
 
-- 00:12
+- 00:12 -
 Back to normal
 The scene stabilizes. CEPA closes the context window and returns to passive observation.
 No guessing. No forecasting.
