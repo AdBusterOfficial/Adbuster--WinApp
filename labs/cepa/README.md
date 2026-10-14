@@ -29,9 +29,10 @@ is confirmed.
 
 ## CEPA Research Library
 
+### Core Research — `labs/cepa`
+
 | Document | Description |
 |-----------|-------------|
-| [README — CEPA Research Library](./README.md) | Main index of the CEPA research documentation |
 | [CEPA Foundations](./CEPA_Foundations.md) | Foundational principles and core concepts of CEPA |
 | [CEPA Behaviour Flow](./CEPA_Behaviour_Flow.md) | Contextual processing flow and behavioural logic |
 | [CEPA Behaviour Scenarios](./CEPA_Behaviour_Scenarios.md) | Scenarios illustrating contextual behaviour and decision-making |
@@ -42,6 +43,24 @@ is confirmed.
 | [CEPA Truth Validation](./CEPA_Truth_Validation.md) | Validation of contextual decisions and analytical results |
 | [CEPA vs DSP](./CEPA_vs_DSP.md) | Comparison of contextual event analysis and traditional digital signal processing |
 | [Human Volume Logic](./human_volume_logic.md) | Human-inspired logic for adaptive television volume control |
+
+### Behaviour & Decision Models — `labs`
+
+| Document | Description |
+|-----------|-------------|
+| [CEPA PRO Overview](../CEPA_PRO_Overview.md) | Overview of the CEPA PRO system and its core concepts |
+| [CEPA Real-Time Decision v2](../CEPA_RealTimeDecision_v2.md) | Real-time contextual decision-making |
+| [CEPA Ads Behaviour](../CEPA_ads_behaviour.md) | Contextual behaviour analysis for advertising segments |
+| [CEPA Dialog Behaviour](../CEPA_dialog_behaviour.md) | Behavioural analysis of dialogue and speech |
+| [CEPA Music Behaviour](../CEPA_music_behaviour.md) | Contextual analysis of music and musical segments |
+| [CEPA Normal Behaviour](../CEPA_normal_behaviour.md) | Analysis of normal television audio behaviour |
+
+### Hybrid Architecture — `labs/hybrid`
+
+| Document | Description |
+|-----------|-------------|
+| [CEPA Logic-Signal Flow v13 Hybrid](../hybrid/CEPA%20Logic-Signal%20Flow_v13%20Hybrid.md) | Hybrid signal-processing and contextual decision flow |
+| [CEPA Context-Aware Engine](../hybrid/CEPA_Context_Aware_Engine.md) | Context-aware engine architecture and decision logic |
 
 ---
 
