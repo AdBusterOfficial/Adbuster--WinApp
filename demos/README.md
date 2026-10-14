@@ -6,8 +6,8 @@ This section contains technical demonstrations, experimental documentation, and 
 
 ## 📘 Demonstrations & Documentation
 
-| Document | Description |
-|----|----|
+| Document   | Description |
+|------|----|
 | [AdBuster CEPA AVG](./AdBuster%20CEPA%20AVG.md) | CEPA-based analysis and average behaviour documentation |
 | [AdBuster PRO — Stability & Precision](./AdBusterPRO_stability_precision.md) | Stability and precision analysis |
 | [AdBuster — Three Modules](./AdBuster_3_Modules.md) | Overview of the three main system modules |
