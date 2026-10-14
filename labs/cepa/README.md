@@ -23,17 +23,6 @@ is confirmed.
 
 ---
 
-## CEPA Research Library
-
-| Document | Description |
-|-----------|-----------|
-| [From DSP To CEPA](./From%20DSP%20To%20CEPA.md) | Evolution from traditional DSP approaches to contextual analysis |
-| [CEPA Architecture](./CEPA%20Architecture.md) | Core concepts and architectural overview |
-| [Observation → Context → Behavior → Event → Decision](./Observation%20Context%20Behaviour%20Event%20Decision.md) | Fundamental CEPA processing model |
-| [Why CEPA Was Created](./Why%20CEPA%20Was%20Created.md) | Motivation and design rationale |
-
----
-
 ![CEPAlogic_AdBuster_Cover.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa/CEPAlogic_AdBuster_Cover.png)
 
 <br>
