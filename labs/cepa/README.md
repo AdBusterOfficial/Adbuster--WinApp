@@ -252,7 +252,8 @@ This is CEPA Logic in action — the part of AdBuster 2.0 PRO that the user noti
 ---
 
 ## ⚙️ Contextual Event Pattern Analysis — Algorithm
-structured context-aware reasoning pipeline:
+
+CEPA processes events through a structured context-aware reasoning pipeline:
 
 1. Collect RMS trends — short‑term and long‑term loudness behaviour.
 2. Detect anomalies — sudden spikes, drift up, drift down.
