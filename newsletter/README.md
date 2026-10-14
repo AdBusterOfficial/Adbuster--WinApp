@@ -24,6 +24,10 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ---
 
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
