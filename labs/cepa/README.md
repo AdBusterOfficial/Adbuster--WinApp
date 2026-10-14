@@ -63,6 +63,13 @@ is confirmed.
 | [CEPA Context-Aware Engine](../hybrid/CEPA_Context_Aware_Engine.md) | Context-aware engine architecture and decision logic |
 | [CEPA Pattern Analysis](../hybrid/CEPA_Pattern_Analysis.md) | Pattern analysis within the CEPA contextual decision engine |
 
+### CEPA Documentation — `docs`
+
+| Document | Description |
+|-----------|-------------|
+| [CEPA Logic Overview](../../docs/CEPA_Logic_Overview.md) | Overview of CEPA logic, principles and decision-making architecture |
+| [CEPA ML Validation](../../docs/CEPA_ML_Validation.md) | Validation of machine-learning models and their analytical performance |
+
 ---
 
 <div style="
