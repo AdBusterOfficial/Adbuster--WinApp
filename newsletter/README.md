@@ -12,6 +12,8 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 🔗 [LinkedIn Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
+<br>
+
 ## Editions
 
 - 2026-10-11 – [Why I Created CEPA Logic](./Why%20I%20Created%20CEPA%20Logic.md)
