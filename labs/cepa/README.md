@@ -27,6 +27,24 @@ is confirmed.
 
 <br>
 
+## CEPA Research Library
+
+| Document | Description |
+|-----------|-------------|
+| [README — CEPA Research Library](./README.md) | Main index of the CEPA research documentation |
+| [CEPA Foundations](./CEPA_Foundations.md) | Foundational principles and core concepts of CEPA |
+| [CEPA Behaviour Flow](./CEPA_Behaviour_Flow.md) | Contextual processing flow and behavioural logic |
+| [CEPA Behaviour Scenarios](./CEPA_Behaviour_Scenarios.md) | Scenarios illustrating contextual behaviour and decision-making |
+| [CEPA Event Recorder](./CEPA_EVENT_RECORDER.md) | Event recording concepts and event data analysis |
+| [CEPA Logic Threshold Evolution](./CEPA_Logic_Threshold_Evolution.md) | Evolution of logic thresholds in contextual analysis |
+| [CEPA ML Dynamic Threshold](./CEPA_ML_Dynamic_Threshold.md) | Dynamic threshold concepts and machine-learning integration |
+| [CEPA Reaction Margin Evolution](./CEPA_Reaction_Margin_Evolution.md) | Development of reaction margins and response timing |
+| [CEPA Truth Validation](./CEPA_Truth_Validation.md) | Validation of contextual decisions and analytical results |
+| [CEPA vs DSP](./CEPA_vs_DSP.md) | Comparison of contextual event analysis and traditional digital signal processing |
+| [Human Volume Logic](./human_volume_logic.md) | Human-inspired logic for adaptive television volume control |
+
+---
+
 <div style="
     margin:20px 0;
     padding:20px 24px;
