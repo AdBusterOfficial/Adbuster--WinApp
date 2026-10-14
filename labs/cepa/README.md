@@ -2,8 +2,6 @@
 
 <br>
 
----
-
 [CEPA Logic - First Official Publication D.P-G 03/03/2026](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/First%20Official%20Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
 
 ---
