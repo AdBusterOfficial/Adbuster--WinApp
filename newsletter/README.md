@@ -20,6 +20,8 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 - November 2026 – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
 
+<br>
+
 ---
 
 <br>
@@ -29,8 +31,6 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 ---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
