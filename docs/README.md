@@ -45,3 +45,13 @@
 ---
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
