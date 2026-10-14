@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/cepa/cepa-banner.png" alt="CEPA Logic Banner" width="100%">
 </p>
 
-![CEPAlogic_AdBuster_Cover.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa/CEPAlogic_AdBuster_Cover.png)
-
 <br>
 
 [CEPA Logic - First Official Publication D.P-G 03/03/2026](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/First%20Official%20Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
@@ -24,6 +22,10 @@ to detect patterns and trigger actions only when a complete, meaningful structur
 is confirmed.
 
 ---
+
+![CEPAlogic_AdBuster_Cover.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa/CEPAlogic_AdBuster_Cover.png)
+
+<br>
 
 <div style="
     margin:20px 0;
