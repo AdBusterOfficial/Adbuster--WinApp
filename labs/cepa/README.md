@@ -61,6 +61,7 @@ is confirmed.
 |-----------|-------------|
 | [CEPA Logic-Signal Flow v13 Hybrid](../hybrid/CEPA%20Logic-Signal%20Flow_v13%20Hybrid.md) | Hybrid signal-processing and contextual decision flow |
 | [CEPA Context-Aware Engine](../hybrid/CEPA_Context_Aware_Engine.md) | Context-aware engine architecture and decision logic |
+| [CEPA Pattern Analysis](../hybrid/CEPA_Pattern_Analysis.md) | Pattern analysis within the CEPA contextual decision engine |
 
 ---
 
