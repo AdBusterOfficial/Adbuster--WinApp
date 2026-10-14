@@ -1,13 +1,10 @@
 ![YouTube_Demos.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/demos/YouTube_Demos.png)
+
 <br>
 
+# AdBuster PRO & CEPA Logic — YouTube Demos
 
-
-# AdBuster PRO — Demos & Technical Demonstrations
-
-### AdBuster PRO & CEPA Logic — YouTube Demos
-
-Watch video demonstrations of AdBuster PRO and CEPA Logic on YouTube.
+### Watch video demonstrations of AdBuster PRO and CEPA Logic on YouTube.
 
 <br>
 
