@@ -11,10 +11,7 @@
 ## ⭐ CEPA – Contextual Event Pattern Analysis
 
 
-CEPA is a proprietary analytical system invented and developed by the 
-AdBuster Team (Dublin, 2026). It interprets events in context, identifies meaningful 
-patterns, and recognizes significant behaviors based on relationships between signals 
-rather than isolated impulses.
+CEPA is a proprietary analytical framework designed and developed by D.P-G as part of the AdBuster Project (Dublin, Ireland). It interprets events in context, identifies meaningful patterns, and recognizes behaviors based on relationships between signals rather than isolated events or impulses.
 
 ## ⭐ CEPA Logic – Decision Framework
 
@@ -81,18 +78,18 @@ CEPA does not react to a single spike, click, or anomaly. It reacts to patterns,
 - coordinated activity across multiple modules,
 - deviations from normal patterns.
 
-This makes CEPA robust, reliable, and resistant to random noise.
+This improves robustness and reduces sensitivity to random noise.
 
 <strong>🟨 How CEPA works inside the AdBuster ecosystem</strong>
 
-Within the AdBuster architecture (AdBuster, Duster, VolMaster), CEPA acts as the intelligence
-layer that:
+Within the AdBuster architecture (AdBuster, Duster, and VolMaster), CEPA acts as a contextual decision layer that:
+
 - merges signals from multiple modules,
 - identifies meaningful relationships between them,
 - filters out irrelevant noise,
-- triggers actions only when a full pattern is confirmed.
+- triggers actions only when a complete pattern has been confirmed.
 
-This is what allows the system to behave intelligently rather than mechanically.
+This allows the system to react to contextual patterns rather than isolated measurements.
 
 <strong>🟥 Why CEPA matters</strong>
 
@@ -255,7 +252,7 @@ This is CEPA Logic in action — the part of AdBuster 2.0 PRO that the user noti
 ---
 
 ## ⚙️ Contextual Event Pattern Analysis — Algorithm
-CEPA processes audio events through a structured, human‑like reasoning pipeline:
+structured context-aware reasoning pipeline:
 
 1. Collect RMS trends — short‑term and long‑term loudness behaviour.
 2. Detect anomalies — sudden spikes, drift up, drift down.
@@ -277,7 +274,7 @@ CEPA processes audio events through a structured, human‑like reasoning pipelin
 
 <br>
 
-© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+© 2026 **D.P‑G | AdBuster Research Labs. All rights reserved.**
 
 <br>
 
