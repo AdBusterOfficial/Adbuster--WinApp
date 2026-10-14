@@ -275,7 +275,7 @@ CEPA processes events through a structured context-aware reasoning pipeline:
 
 <br>
 
-© 2026 **D.P‑G | AdBuster Research Labs. All rights reserved.**
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
 
