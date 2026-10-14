@@ -1,11 +1,13 @@
 ![YouTube_Demos.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/demos/YouTube_Demos.png)
 <br>
 
----
+
 
 # AdBuster PRO — Demos & Technical Demonstrations
 
 This section contains technical demonstrations, experimental documentation, and examples related to AdBuster PRO and CEPA Logic.
+
+<br>
 
 <table>
   <thead>
