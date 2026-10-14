@@ -5,7 +5,9 @@
 
 # AdBuster PRO — Demos & Technical Demonstrations
 
-### This section contains technical demonstrations, experimental documentation, and examples related to AdBuster PRO and CEPA Logic.
+### AdBuster PRO & CEPA Logic — YouTube Demos
+
+Watch video demonstrations of AdBuster PRO and CEPA Logic on YouTube.
 
 <br>
 
