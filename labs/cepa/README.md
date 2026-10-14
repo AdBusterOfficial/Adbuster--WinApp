@@ -11,7 +11,7 @@
 ## ⭐ CEPA – Contextual Event Pattern Analysis
 
 
-CEPA is a proprietary analytical framework designed and developed by D.P-G as part of the AdBuster Project (Dublin, Ireland, 2026). It interprets events in context, identifies meaningful patterns, and recognizes behaviors based on relationships between signals rather than isolated events or impulses.
+CEPA is a proprietary analytical framework designed and developed by D.P-G as part of the AdBuster Project (Dublin, Ireland, 2026). It interprets events in context, identifies meaningful events, and recognizes behaviors based on relationships between signals rather than isolated events or impulses.
 
 ## ⭐ CEPA Logic – Decision Framework
 
@@ -39,7 +39,7 @@ is confirmed.
 <h3 style="margin-top:0;color:#ffffff;">🧠 CEPA – Contextual Event Pattern Analysis (Overview)</h3>
 
 CEPA (Contextual Event Pattern Analysis) is a custom analytical framework designed to detect
-meaningful patterns in streams of events by interpreting them in context, rather than as
+meaningful event in streams of events by interpreting them in context, rather than as
 isolated signals. Unlike traditional event processing, CEPA evaluates how multiple events
 relate to each other over time, how they form patterns, and how those patterns change
 depending on the surrounding environment.
