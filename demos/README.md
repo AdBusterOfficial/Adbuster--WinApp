@@ -11,46 +11,46 @@
 <table>
   <thead>
     <tr>
-      <th width="480">Document</th>
+      <th width="480">YouTube Video Demonstration</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="./AdBuster%20CEPA%20AVG.md">AdBuster CEPA AVG</a></td>
-      <td>CEPA-based analysis and average behaviour documentation</td>
+      <td>Video demonstration of CEPA AVG analysis</td>
     </tr>
     <tr>
       <td><a href="./AdBusterPRO_stability_precision.md">AdBuster PRO — Stability &amp; Precision</a></td>
-      <td>Stability and precision analysis</td>
+      <td>Video demonstration of system stability and precision</td>
     </tr>
     <tr>
       <td><a href="./AdBuster_3_Modules.md">AdBuster — Three Modules</a></td>
-      <td>Overview of the three main system modules</td>
+      <td>Video overview of the three main system modules</td>
     </tr>
     <tr>
       <td><a href="./AdBuster_HYBRID_DSP_ML_CEPA_IR.md">AdBuster — Hybrid DSP, ML, CEPA &amp; IR</a></td>
-      <td>Hybrid architecture combining DSP, ML, CEPA Logic and infrared control</td>
+      <td>Video demonstration of the hybrid DSP, ML, CEPA and IR architecture</td>
     </tr>
     <tr>
       <td><a href="./AdBuster_Hybrid_Engine_v13.md">AdBuster Hybrid Engine v13</a></td>
-      <td>Documentation of the hybrid engine, version 13</td>
+      <td>Video demonstration of Hybrid Engine v13</td>
     </tr>
     <tr>
       <td><a href="./AdBuster_Hybrid_real_time_calibration.md">AdBuster Hybrid — Real-Time Calibration</a></td>
-      <td>Real-time calibration approach and behaviour</td>
+      <td>Video demonstration of real-time calibration</td>
     </tr>
     <tr>
       <td><a href="./Detection_FULL.md">Detection — Full Overview</a></td>
-      <td>Overview of the detection process</td>
+      <td>Video overview of the detection process</td>
     </tr>
     <tr>
       <td><a href="./ML-Detection.md">ML Detection</a></td>
-      <td>Machine-learning-based detection documentation</td>
+      <td>Video demonstration of machine-learning-based detection</td>
     </tr>
     <tr>
       <td><a href="./Server_Log_Stability.md">Server Log Stability</a></td>
-      <td>Server log examples and stability observations</td>
+      <td>Video demonstration of server log stability</td>
     </tr>
   </tbody>
 </table>
