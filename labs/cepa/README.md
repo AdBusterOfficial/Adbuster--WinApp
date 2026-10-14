@@ -2,7 +2,7 @@
 
 <br>
 
----
+
 
 <p align="center">
   <img src="images/cepa-banner.png" alt="CEPA Logic Banner" width="100%">
@@ -13,6 +13,8 @@
 <p align="center">
 Contextual Event Pattern Analysis
 </p>
+
+---
 
 [CEPA Logic - First Official Publication D.P-G 03/03/2026](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/pdf/First%20Official%20Publication_DP-G_03_03_2026-Dublin_Ireland.pdf)
 
