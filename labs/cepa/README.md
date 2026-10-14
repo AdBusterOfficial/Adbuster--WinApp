@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/labs/cepa/cepa-banner.png" alt="CEPA Logic Banner" width="100%">
+</p>
+
 ![CEPAlogic_AdBuster_Cover.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/cepa/CEPAlogic_AdBuster_Cover.png)
 
 <br>
