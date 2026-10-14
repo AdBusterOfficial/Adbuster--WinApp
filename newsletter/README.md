@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes1.png" alt="AdBuster Research Notes" width="100%">
 </p>
 
-# AdBuster Research Notes
+# 📝 AdBuster Research Notes
 
 > Technical research notes documenting the development of AdBuster and CEPA Logic.
 
-## Articles originally published on LinkedIn.
+## 🔁 Articles originally published on LinkedIn.
 
 AdBuster Research Notes documents the ongoing development of AdBuster and CEPA Logic, including research findings, architectural decisions, engineering challenges, experiments, failures, and breakthroughs encountered throughout the project.
 
@@ -14,11 +14,11 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 <br>
 
-## Editions
+## ✅ Editions
 
 - 2026-10-11 – [Why I Created CEPA Logic](./Why%20I%20Created%20CEPA%20Logic.md)
 
-## Upcoming Editions
+## 🔼 Upcoming Editions
 
 - November 2026 – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
 
