@@ -280,6 +280,10 @@ the backend operates continuously, the IR dispatcher processes commands correctl
 
 > **Note:** Generated automatically as part of ongoing 24/7 system operation.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
