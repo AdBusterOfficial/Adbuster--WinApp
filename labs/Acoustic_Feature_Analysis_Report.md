@@ -36,7 +36,7 @@ This Labs entry documents the acoustic foundations used by CEPA Logic PRO to int
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
