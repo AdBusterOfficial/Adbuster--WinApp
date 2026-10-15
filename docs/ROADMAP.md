@@ -77,6 +77,12 @@ The software should be considered experimental and is not presented as a finishe
 
 Testing feedback and real-world observations are used to evaluate future improvements and development priorities.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
