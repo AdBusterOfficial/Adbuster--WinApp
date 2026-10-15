@@ -148,6 +148,10 @@ CEPA Logic PRO v13 makes decisions using **16 independent context layers**:
 
 **AdBuster Hybrid Engine v13 is a context‑aware audio engine, not a simple volume controller.**
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
