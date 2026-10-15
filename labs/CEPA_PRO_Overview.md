@@ -189,6 +189,10 @@ This makes AdBuster PRO react not to raw loudness, but to:
 
 This is the complete, production‑ready CEPA PRO Overview.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
