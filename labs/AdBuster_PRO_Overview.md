@@ -48,7 +48,7 @@ AdBuster PRO does not enforce a fixed number of volume steps — the magnitude o
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
