@@ -106,6 +106,10 @@ This ensures CEPA handles music smoothly and avoids reacting to musical peaks as
 Music Mode is designed specifically for musical playback.  
 If dialog is the primary sound, Music Mode should remain OFF to ensure CEPA reacts correctly.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
