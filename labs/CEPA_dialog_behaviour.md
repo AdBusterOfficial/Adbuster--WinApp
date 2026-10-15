@@ -67,6 +67,10 @@ This prevents unnecessary volume changes while still catching disruptive spikes.
 
 This example demonstrates how CEPA Logic PRO stabilizes dialogue — reacting only when long spikes occur and maintaining clear, consistent speech.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
