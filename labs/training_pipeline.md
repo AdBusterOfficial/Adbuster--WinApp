@@ -69,6 +69,10 @@ The classifier becomes active immediately and CEPA begins real‑time detection.
 A clean dataset, proper WAV conversion and a consistent pipeline result in a stable and reliable CEPA‑driven ad‑detection model.  
 This workflow ensures deterministic behaviour, predictable reactions and high stability across diverse audio environments.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
