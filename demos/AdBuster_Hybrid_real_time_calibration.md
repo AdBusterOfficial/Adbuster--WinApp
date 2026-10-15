@@ -6,6 +6,12 @@ This video shows a live calibration session of the AdBuster Hybrid engine, where
 The goal of this test is to fine‑tune behavioural thresholds, reaction margins, and stability parameters so the system responds more naturally to dynamic audio conditions.  
 Step by step, each iteration brings the engine closer to smooth, human‑like volume control and precise automated correction.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
