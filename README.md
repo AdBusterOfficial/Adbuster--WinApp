@@ -76,6 +76,8 @@
 
 ---
 
+<br>
+
 ## ✨ Overview
 AdBuster PRO is a lightweight Windows application that monitors TV audio in real time and automatically reduces the volume when loud commercials appear.  
 When normal audio returns, the volume is restored smoothly and naturally.
@@ -110,9 +112,9 @@ What started as an attempt to reduce loud TV advertisements evolved into a broad
 
 This research led to the development of CEPA Logic (Contextual Event Pattern Analysis), the analytical framework behind AdBuster PRO.
 
-<br>
-
 ---
+
+<br>
 
 
 ## 🚀 Quick Start
@@ -125,6 +127,8 @@ This research led to the development of CEPA Logic (Contextual Event Pattern Ana
 
 ---
 
+<br>
+
 ## 🎯 Key Features
 - 🔊 **Real‑time loudness detection**  
 - 📉 **Automatic volume reduction during commercials**  
@@ -135,6 +139,8 @@ This research led to the development of CEPA Logic (Contextual Event Pattern Ana
 - 🔐 **Fully local — no internet required**
 
 ---
+
+<br>
 
 ## ⭐ Why This System Is Unique
 
@@ -178,6 +184,8 @@ AdBuster 2.0 PRO is an original Windows prototype that brings together real-time
 
 ---
 
+<br>
+
 ## 🛠️ How It Works
 1. A microphone listens to the TV audio.  
 2. When a sudden loudness spike is detected (typical for ads), AdBuster PRO decides whether to lower the volume.  
@@ -189,6 +197,8 @@ AdBuster 2.0 PRO is an original Windows prototype that brings together real-time
 All logic is processed locally — no cloud, no external servers.
 
 ---
+
+<br>
 
 ## 📐 Architecture Diagram (High‑Level)
 
@@ -284,6 +294,7 @@ Automatic volume changes are always constrained by:
 - **anti‑spam**  
 - **CEPA validation**
 
+<br>
 
 ## 🧩 Architecture Overview — 3 Modules + CEPA Brain
 AdBuster 2.0 PRO is built from three independent modules that work together in real time.
