@@ -315,6 +315,10 @@ CEPA Event Recorder is more than a logger.
 
 It is a behavioral telemetry and analytics engine that allows AdBuster PRO and CEPA Logic to observe, analyze, explain, and continuously improve their decision-making process using real-world behavioral data.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
