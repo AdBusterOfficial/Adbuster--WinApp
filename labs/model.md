@@ -174,6 +174,10 @@ These may offer better generalization on diverse audio patterns.
 These improvements are optional and not required for the current AdBuster workflow,
 but they outline possible directions for future development.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
