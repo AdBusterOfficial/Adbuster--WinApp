@@ -42,7 +42,7 @@
   </tbody>
 </table>
 
----
+<br>
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
