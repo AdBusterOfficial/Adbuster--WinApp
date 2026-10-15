@@ -11,7 +11,7 @@ The system reacts only when necessary — fast during ad‑like segments and gen
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
