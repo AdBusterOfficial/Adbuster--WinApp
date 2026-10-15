@@ -79,7 +79,7 @@ Testing feedback and real-world observations are used to evaluate future improve
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
