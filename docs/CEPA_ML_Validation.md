@@ -48,7 +48,7 @@ The CEPA engine works together with the offline‑trained AD detector model, ens
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
