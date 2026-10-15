@@ -180,6 +180,8 @@ This ensures stable, predictable, human‑like volume behaviour.
 
 <br>
 
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
