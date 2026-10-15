@@ -77,15 +77,18 @@
 ---
 
 ## ✨ Overview
-AdBuster PRO is a lightweight Windows application that monitors TV audio in real time and automatically reduces the volume when loud commercials appear.  
+
+AdBuster PRO is a lightweight Windows application that monitors TV audio in real time and automatically reduces the volume when loud commercials appear.
+
 When normal audio returns, the volume is restored smoothly and naturally.
 
-No cloud services.
-No accounts.
-No telemetry.
-Raw microphone audio is not saved as WAV recordings.
-Derived audio measurements may be collected locally for model development.
-All processing stays on your PC; no data is uploaded.
+Unlike traditional audio processors, AdBuster does not modify the audio stream itself. Instead, it listens through a microphone, analyses audio behaviour, and adjusts TV volume using Broadlink IR control.
+
+No cloud services. No accounts. No telemetry.
+
+Raw microphone audio is not saved or transmitted. Derived audio measurements may be collected locally for model development and system calibration.
+
+All processing remains on your PC. No data is uploaded.
 
 ---
 
