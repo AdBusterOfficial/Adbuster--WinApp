@@ -120,6 +120,10 @@ Dynamic margin evolution inside AdBuster PRO ensures:
 
 CEPA behavioural logic evolves its sensitivity based on **behaviour over time**, making every reaction intentional, stable, and human‑like.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
