@@ -136,47 +136,46 @@ This research led to the development of CEPA Logic (Contextual Event Pattern Ana
 
 ## ⭐ Why This System Is Unique
 
-AdBuster 2.0 PRO is not a typical audio tool.  
+AdBuster 2.0 PRO is not a typical audio tool.
 
-### 🔹 Real‑time audio analysis (DSP)
-A dedicated audio engine extracts loudness, stability, spikes and long‑term patterns in real time — fully offline.
+🔹 Real-time audio analysis
 
-### 🔹 CEPA Logic — human‑like decision framework
+A dedicated audio engine continuously evaluates loudness, stability, spikes and behavioural trends in real time.
 
-A proprietary contextual reasoning layer that interprets audio events in a human-like manner:
+🔹 CEPA Core
 
-• detects disruptive spikes
+The system uses a behavioural decision layer designed to:
 
-• avoids over-correction
+• detect disruptive loudness events
 
-• restores volume smoothly
+• avoid over-correction
 
-• adapts to context and time of day
+• restore volume naturally
 
-**Note:**  
-**The public release of AdBuster 2.0 PRO includes the CEPA Core (Perception → Behaviour → Action).  
-The full CEPA Logic v2 framework described in the documentation is proprietary and not included in the test build.**
+• adapt to changing conditions
 
+**Note:**
+The public release includes the CEPA Core (Perception → Behaviour → Action).
 
-### 🔹 Offline machine learning (FREE + PRO)
-Two independent ML engines:
-- **model.pkl** — lightweight, short‑term classifier  
-- **model_deep.pkl** — PRO‑level long‑term pattern recognizer  
+The complete CEPA Logic framework described in the documentation remains proprietary.
 
-Both run 100% locally.
+🔹 Offline machine learning
 
-### 🔹 Broadlink IR automation
-AdBuster is the Windows tool that:
-- detects loud commercials  
-- decides what to do  
-- sends IR commands automatically  
-- stabilizes TV volume without user interaction  
+Machine-learning components validate audio patterns locally without cloud services or external processing.
 
-### 🔹 Fully offline architecture
-All processing happens on the user’s device.
+🔹 Broadlink IR automation
 
-### 🔹 Unique CEPA + ML + IR pipeline
-AdBuster 2.0 PRO is an original Windows prototype that brings together real-time microphone analysis, CEPA decision logic, machine-learning components, and Broadlink IR volume control. It explores a local approach to stabilizing TV audio.
+Detected events are translated into safe VOL_UP and VOL_DOWN commands sent through Broadlink IR devices.
+
+🔹 Fully offline architecture
+
+No cloud services.
+No accounts.
+No telemetry.
+
+🔹 Integrated CEPA + ML + IR pipeline
+
+AdBuster combines real-time audio monitoring, behavioural analysis, machine learning and IR automation into a single local system designed to stabilize TV audio.
 
 ---
 
