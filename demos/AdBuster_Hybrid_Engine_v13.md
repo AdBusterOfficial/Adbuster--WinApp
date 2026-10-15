@@ -18,7 +18,7 @@ Even without a full ad, the engine correctly identifies anomalies and switches C
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
