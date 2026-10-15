@@ -34,6 +34,12 @@ The report explains how AdBuster PRO detects ADS/NORMAL using its local ML model
 
 This Labs entry documents the acoustic foundations used by CEPA Logic PRO to interpret audio context and maintain consistent behavioural responses during ADS/NORMAL transitions.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
