@@ -46,6 +46,12 @@ AdBuster PRO does not enforce a fixed number of volume steps — the magnitude o
 - Flexible configuration for different environments  
 - Designed to avoid unnecessary or disruptive volume changes  
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
