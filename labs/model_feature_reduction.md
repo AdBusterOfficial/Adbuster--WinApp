@@ -86,6 +86,10 @@ The new model is:
 
 This upgrade significantly improved the overall behaviour of AdBuster PRO, making the system feel more natural, more responsive, and more “human‑like” in real‑time operation.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
