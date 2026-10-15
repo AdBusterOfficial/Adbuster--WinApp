@@ -24,6 +24,10 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 <br>
 
+- November 2026 – [Why Most Automation Systems Overreact.md](./Why%20Most%20Automation%20Systems%20Overreact.md)
+
+<br>
+
 ---
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
