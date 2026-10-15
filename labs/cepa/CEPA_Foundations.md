@@ -147,6 +147,10 @@ CEPA behavioural logic inside AdBuster PRO is built on:
 
 It stabilizes loudness deterministically — exactly like a human with a remote, only faster and more consistent.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
