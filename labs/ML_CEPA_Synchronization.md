@@ -122,6 +122,10 @@ CEPA decides the **behaviour**.
 
 This synchronization makes AdBuster PRO feel **human**, **predictable**, and **stable** in real‑time operation.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
