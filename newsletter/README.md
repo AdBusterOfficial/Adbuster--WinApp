@@ -22,9 +22,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 - November 2026 – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
 
-<br>
-
-- November 2026 – [Why Most Automation Systems Overreact.md](./Why%20Most%20Automation%20Systems%20Overreact.md)
+- November 2026 – [Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
 
 <br>
 
