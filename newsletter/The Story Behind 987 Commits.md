@@ -106,13 +106,21 @@ The development of AdBuster and CEPA Logic continues, and these statistics repre
 
 ---
 
-🔗 **Project Repository**
+## Project Repository
 
-[AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+For those interested in following the project more closely:
+
+🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+Originally published on LinkedIn:
+
+🔗 [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
 
