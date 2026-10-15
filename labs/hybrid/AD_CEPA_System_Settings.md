@@ -105,7 +105,10 @@ Spike Engine exists in the system, but Hybrid 3 runs without spike‑based react
   including real‑time reactions, stability checks, and behaviour tuning during calibration.
 </p>
 
+
 <br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
