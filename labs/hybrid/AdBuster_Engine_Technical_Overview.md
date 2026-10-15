@@ -93,9 +93,6 @@ It is designed for 24/7 operation, adapting to user habits, room acoustics and c
 This document provides a full technical breakdown of the engine’s architecture, internal logic, 
 decision flow and real‑time behaviour.
 
----
-
-[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 <br>
 
