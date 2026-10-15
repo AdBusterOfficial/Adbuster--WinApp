@@ -45,6 +45,12 @@ The flow diagram above represents the internal logic used to stabilize loudness 
 - The flow is stable and predictable under test conditions.  
 - Further work: refine Anti‑Drift sensitivity and CEPA FIRST reaction margin.
 
+<br>
+
+
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
