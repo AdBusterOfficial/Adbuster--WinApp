@@ -9,6 +9,12 @@ AdBuster Hybrid Engine v13 delivers stable, intelligent and fully predictable vo
 The 4‑feature ML layer accurately detects recurring advertisement‑like patterns, CEPA Logic PRO maintains a comfortable loudness zone, and the IR Dispatcher ensures safe, non‑intrusive control of the TV.
 The system reacts only when necessary — fast during ad‑like segments and gently during normal content — resulting in smooth, consistent TV audio without sudden volume jumps.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
