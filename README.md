@@ -89,7 +89,7 @@ All processing stays on your PC; no data is uploaded.
 
 ---
 
-## 🎯 Why AdBuster Exists
+## 🧮 Why AdBuster Exists
 
 Television audio has suffered from the same problems for decades:
 
