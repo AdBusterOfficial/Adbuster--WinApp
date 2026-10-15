@@ -88,6 +88,12 @@ class CEPA:
 7. Purpose
 CEPA ensures stable, predictable, context‑aware automation suitable for real‑world use.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
