@@ -104,6 +104,10 @@ The change affects how the threshold is defined, not the core detection and stab
 
 This document reflects the real behaviour of the current NR 5 implementation, while acknowledging the previous dynamic design.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
