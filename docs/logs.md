@@ -94,6 +94,12 @@ The `msg` field provides a clear, step‑by‑step trace of the Broadlink contro
 
 Together, these logs confirm that the Broadlink backend is operational and able to execute volume‑control commands triggered by AdBuster.
 
+<br>
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
