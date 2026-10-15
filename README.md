@@ -142,12 +142,16 @@ AdBuster 2.0 PRO is not a typical audio tool.
 A dedicated audio engine extracts loudness, stability, spikes and long‑term patterns in real time — fully offline.
 
 ### 🔹 CEPA Logic — human‑like decision framework
-A proprietary contextual reasoning layer that interprets audio events the same way a human would:
 
-detects disruptive spikes
-avoids over‑correction
-restores volume smoothly
-adapts to context and time of day
+A proprietary contextual reasoning layer that interprets audio events in a human-like manner:
+
+• detects disruptive spikes
+
+• avoids over-correction
+
+• restores volume smoothly
+
+• adapts to context and time of day
 
 **Note:**  
 **The public release of AdBuster 2.0 PRO includes the CEPA Core (Perception → Behaviour → Action).  
