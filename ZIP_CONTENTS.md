@@ -67,6 +67,10 @@ These files store application settings, IR command mappings, and machine learnin
 - CEPA Logic is subject to the [CEPA Logic Proprietary License & Trade Secret Agreement](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/CEPA_LOGIC_LICENSE.md).
 - For installation and startup instructions, consult `README.txt` or `README.odt`.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
