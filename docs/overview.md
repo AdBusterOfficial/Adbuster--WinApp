@@ -129,7 +129,7 @@ The full source code is proprietary and not publicly available.
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
