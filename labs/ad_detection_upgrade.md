@@ -74,6 +74,10 @@ This AD‑detection upgrade is a **preview‑stage research model**.
 It demonstrates the direction of the next generation of AdBuster’s audio‑ML engine, but it is not a final or production‑ready component.  
 Further development will continue as part of the AdBuster lab’s ongoing research.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
