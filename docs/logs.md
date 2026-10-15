@@ -96,7 +96,7 @@ Together, these logs confirm that the Broadlink backend is operational and able 
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
