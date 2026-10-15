@@ -119,6 +119,10 @@ This is exactly what defines **Hybrid Engine v13**:
 
 > **A stable, logical, predictable and noise‑resistant real‑time volume stabilization system.**
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
