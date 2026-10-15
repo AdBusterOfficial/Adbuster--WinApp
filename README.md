@@ -89,6 +89,32 @@ All processing stays on your PC; no data is uploaded.
 
 ---
 
+<br>
+
+## 🎯 Why AdBuster Exists
+
+Television audio has suffered from the same problems for decades:
+
+- loud advertisements
+- quiet dialogue
+- sudden volume spikes
+- inconsistent loudness between channels and streaming platforms
+
+Most existing solutions rely on compressors, AGC systems, dynamic range control, or simple volume normalization. While useful, they often react only after the loudness change has already become noticeable.
+
+AdBuster explores a different approach.
+
+Instead of modifying the audio stream itself, the system observes audio behaviour in real time, evaluates context through CEPA Logic, and adjusts volume using external IR control.
+
+What started as an attempt to reduce loud TV advertisements evolved into a broader research project focused on behavioural audio analysis, contextual decision-making, and intelligent volume stabilization.
+
+This research led to the development of CEPA Logic (Contextual Event Pattern Analysis), the analytical framework behind AdBuster PRO.
+
+<br>
+
+---
+
+
 ## 🚀 Quick Start
 
 1. Download the latest release from the Releases page.
