@@ -8,7 +8,7 @@ Step by step, each iteration brings the engine closer to smooth, human‑like vo
 
 <br>
 
----
+
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
