@@ -137,6 +137,10 @@ AdBuster PRO provides a full GUI with:
 This document describes **behaviour**, **architecture** and **decision flow** of the AdBuster Hybrid Engine v13.  
 All implementation details remain protected under the AdBuster PRO license.
 
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
