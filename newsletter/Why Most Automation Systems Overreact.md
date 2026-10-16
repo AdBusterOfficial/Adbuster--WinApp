@@ -179,7 +179,7 @@ We welcome constructive conversations with engineers and researchers working in 
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
 
