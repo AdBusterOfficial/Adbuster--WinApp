@@ -179,9 +179,11 @@ Sometimes, it is a better understanding of how the whole system behaves.
 
 Explore AdBuster PRO, CEPA Logic and the ongoing research:
 
-🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
 
-🌐 Project website: https://sites.google.com/view/adbuster-winapp
+🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
 
 I welcome constructive discussions with engineers and researchers working on machine learning, real-time systems, signal analysis and intelligent automation.
 
