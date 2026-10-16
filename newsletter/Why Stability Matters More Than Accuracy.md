@@ -193,7 +193,7 @@ We welcome constructive discussions with engineers and researchers working on ma
 
 ---
 
-© 2026 D.P.-G. | AdBuster Research Labs, Dublin
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
 
