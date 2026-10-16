@@ -171,9 +171,7 @@ AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA 
 
 ---
 
-🔗 **Project Repository**
-
-[AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
