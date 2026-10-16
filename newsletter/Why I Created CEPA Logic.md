@@ -65,6 +65,13 @@ This newsletter will document that journey, the research behind it, and the chal
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster_infographic_2a.png" alt="AdBuster Infographic" width="100%">
 </p>
 
+
+## About AdBuster Research Notes
+
+AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+
+---
+
 ## Project Repository
 
 For those interested in following the project more closely:
