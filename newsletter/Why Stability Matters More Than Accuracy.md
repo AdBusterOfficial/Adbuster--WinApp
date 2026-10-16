@@ -186,3 +186,17 @@ Explore AdBuster PRO, CEPA Logic and the ongoing research:
 I welcome constructive discussions with engineers and researchers working on machine learning, real-time systems, signal analysis and intelligent automation.
 
 #MachineLearning #RealTimeSystems #SystemStability #AudioEngineering #CEPALogic #AdBusterPRO #IntelligentAutomation
+
+---
+
+## About AdBuster Research Notes
+
+AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+
+---
+
+🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 D.P.-G. | AdBuster Research Labs, Dublin
