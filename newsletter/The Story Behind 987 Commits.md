@@ -118,13 +118,19 @@ For those interested in following the project more closely:
 
 🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
----
+<br>
 
 Originally published on LinkedIn:
 
 🔗 [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
+<br>
+
+We’re happy to have productive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis, and intelligent automation.
+
 ---
+
+<br>
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
