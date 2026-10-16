@@ -24,7 +24,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 ## 🔼 Upcoming Editions
 
 - **Coming Next** – [Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
-- – [Why Stability Matters More Than Accuracy](./Why%20Stability%20Matters%20More%20Than%20Accuracy.md)
+-                 – [Why Stability Matters More Than Accuracy]
 
 <br>
 
