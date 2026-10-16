@@ -179,7 +179,7 @@ Sometimes, it is a better understanding of how the whole system behaves.
 
 Explore AdBuster PRO, CEPA Logic and the ongoing research:
 
-🔗 GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
+🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 🌐 Project website: https://sites.google.com/view/adbuster-winapp
 
@@ -190,10 +190,6 @@ I welcome constructive discussions with engineers and researchers working on mac
 ## About AdBuster Research Notes
 
 AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
-
----
-
-🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
