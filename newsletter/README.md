@@ -10,7 +10,7 @@
 
 AdBuster Research Notes documents the ongoing development of AdBuster and CEPA Logic, including research findings, architectural decisions, engineering challenges, experiments, failures, and breakthroughs encountered throughout the project.
 
-🔗 [LinkedIn Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+📄 [LinkedIn Newsletter](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 <br>
 
