@@ -78,7 +78,7 @@ For those interested in following the project more closely:
 
 🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
----
+
 
 Originally published on LinkedIn:
 
@@ -87,6 +87,8 @@ Originally published on LinkedIn:
 ---
 
 We’re open to engaging in constructive conversations with engineers and researchers involved in machine learning, real-time systems, signal analysis, and intelligent automation.
+
+---
 
 <br>
 
