@@ -104,6 +104,10 @@ Understanding improves through experimentation and observation.
 
 The development of AdBuster and CEPA Logic continues, and these statistics represent only one small chapter of a much larger journey.
 
+## About AdBuster Research Notes
+
+AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+
 ---
 
 ## Project Repository
