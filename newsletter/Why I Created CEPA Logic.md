@@ -78,7 +78,7 @@ For those interested in following the project more closely:
 
 🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
-
+<br>
 
 Originally published on LinkedIn:
 
