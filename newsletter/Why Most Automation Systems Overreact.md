@@ -173,6 +173,10 @@ AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA 
 
 🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
+<br>
+
+We welcome constructive conversations with engineers and researchers working in machine learning, real-time systems, signal analysis, and intelligent automation.
+
 ---
 
 © 2026 D.P.-G. | AdBuster Research Labs, Dublin
