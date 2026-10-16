@@ -175,22 +175,19 @@ Sometimes, it is a better understanding of how the whole system behaves.
 
 ---
 
-**Project and technical documentation**
+## About AdBuster Research Notes
 
-Explore AdBuster PRO, CEPA Logic and the ongoing research:
+AdBuster Research Notes documents the ongoing research behind AdBuster PRO and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+
+## Project and Technical Documentation
+
+Explore the AdBuster PRO project, CEPA Logic framework, and the ongoing research.
 
 🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
 
 🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
----
-
-I welcome constructive discussions with engineers and researchers working on machine learning, real-time systems, signal analysis and intelligent automation.
-
-
-## About AdBuster Research Notes
-
-AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+I welcome constructive discussions with engineers and researchers working on machine learning, real-time systems, signal analysis, and intelligent automation.
 
 ---
 
