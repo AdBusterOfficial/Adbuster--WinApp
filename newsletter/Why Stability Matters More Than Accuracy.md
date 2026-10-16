@@ -173,6 +173,8 @@ The next step is not always a larger model or a higher accuracy score.
 
 Sometimes, it is a better understanding of how the whole system behaves.
 
+---
+
 ## About AdBuster Research Notes
 
 AdBuster Research Notes documents the ongoing research behind AdBuster PRO and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
@@ -184,6 +186,10 @@ Explore the AdBuster PRO project, CEPA Logic framework, and the ongoing research
 🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
 
 🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+*Originally published on LinkedIn.*
 
 I welcome constructive discussions with engineers and researchers working on machine learning, real-time systems, signal analysis, and intelligent automation.
 
