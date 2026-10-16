@@ -173,8 +173,6 @@ The next step is not always a larger model or a higher accuracy score.
 
 Sometimes, it is a better understanding of how the whole system behaves.
 
----
-
 ## About AdBuster Research Notes
 
 AdBuster Research Notes documents the ongoing research behind AdBuster PRO and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
