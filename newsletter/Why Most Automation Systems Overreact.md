@@ -169,7 +169,7 @@ But meaningful decision-making is where real intelligence begins.
 
 AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
 
----
+<br>
 
 🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
