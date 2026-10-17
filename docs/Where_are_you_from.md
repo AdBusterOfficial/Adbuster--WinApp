@@ -7,6 +7,9 @@
 # 🌍 Where are you from?
 
 We are curious about where visitors to AdBuster PRO come from.
+
+<br>
+
 <p align="center">
   <img src="https://i.imgur.com/RajyGcL.jpeg"
        alt="Where are you from?"
