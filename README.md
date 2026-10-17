@@ -1229,6 +1229,8 @@ Find out more and share your country:
 
 <br>
 
+---
+
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
