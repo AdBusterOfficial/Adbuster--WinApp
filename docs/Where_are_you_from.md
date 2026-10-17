@@ -1,8 +1,6 @@
-
-
 # 🌍 Where are you from?
 
-Help us discover where the AdBuster PRO community is growing.
+I'm curious where AdBuster PRO visitors are coming from.
 
 <p align="center">
   <img src="https://i.imgur.com/RajyGcL.jpeg"
@@ -12,23 +10,18 @@ Help us discover where the AdBuster PRO community is growing.
 
 ---
 
-## 🌍 Join the AdBuster PRO community
+## Tell me your country
 
-**Where are you from?**
+If you have a moment, please enter the country you're visiting from.
 
-Tell us which country you are visiting from. We'd love to see
-how far the AdBuster PRO community reaches.
+### 👉 Submit your country
 
-<p align="center">
+**[Open the form](https://docs.google.com/forms/d/e/1FAIpQLSdAJ9YwDJtZmD-bRjah-sgHQg5OTe74Hn2HuP_fh-CERLf9dg/viewform)**
 
-### 👉 Share your country
-
-[**🌍 CLICK HERE TO ENTER YOUR COUNTRY**](https://docs.google.com/forms/d/e/1FAIpQLSdAJ9YwDJtZmD-bRjah-sgHQg5OTe74Hn2HuP_fh-CERLf9dg/viewform)
-
-</p>
-
-Thank you for supporting AdBuster PRO!
+Thank you!
 
 ---
 
 [← Back to AdBuster PRO](../README.md)
+
+
