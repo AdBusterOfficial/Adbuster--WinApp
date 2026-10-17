@@ -13,7 +13,7 @@ Help us discover where the AdBuster PRO community is growing.
 
 Use the form below to tell us where you are visiting from.
 
-[**🌍 Share your country**](https://formspree.io/f/mayvpzkn)
+[**🌍 Share your country**]([https://formspree.io/f/mayvpzkn](https://formspree.io/f/mayvpzkn))
 
 ---
 
