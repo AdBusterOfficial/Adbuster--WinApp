@@ -20,9 +20,7 @@ I'm curious where AdBuster PRO visitors are coming from.
 
 If you have a moment, please enter the country you're visiting from.
 
-### Submit your country
-
-👉 **[Open the form](https://docs.google.com/forms/d/e/1FAIpQLSdAJ9YwDJtZmD-bRjah-sgHQg5OTe74Hn2HuP_fh-CERLf9dg/viewform)**
+### 👉 **[Open the form](https://docs.google.com/forms/d/e/1FAIpQLSdAJ9YwDJtZmD-bRjah-sgHQg5OTe74Hn2HuP_fh-CERLf9dg/viewform)**
 
 Thank you!
 
