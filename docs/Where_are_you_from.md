@@ -1,5 +1,4 @@
 
-
 # 🌍 Where are you from?
 
 Help us discover where the AdBuster PRO community is growing.
@@ -12,18 +11,15 @@ Help us discover where the AdBuster PRO community is growing.
 
 ---
 
-## 🌍 Share your country
+## 🌍 Join the AdBuster PRO community
 
-We would love to know where the AdBuster PRO community is
-visiting from.
+**Where are you from?**
 
-### Tell us your country
+Tell us which country you are visiting from.
 
-[**🌍 CLICK HERE TO ENTER YOUR COUNTRY AND SEND**](https://formspree.io/f/mayvpzkn)
-
-The link opens the form service. If the form is not displayed,
-the Formspree endpoint may need to be configured or checked.
+[✉️ Share your country by email](mailto:adbuster_official@outlook.ie?subject=AdBuster%20PRO%20-%20Where%20are%20you%20from&body=Hello%20AdBuster%20PRO%2C%0A%0AMy%20country%20is%3A%20)
 
 ---
 
 [← Back to AdBuster PRO](../README.md)
+
