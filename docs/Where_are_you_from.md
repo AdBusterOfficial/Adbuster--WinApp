@@ -22,7 +22,7 @@ If you have a moment, please enter the country you're visiting from.
 
 ### 👉 [Open the form](https://docs.google.com/forms/d/e/1FAIpQLSdAJ9YwDJtZmD-bRjah-sgHQg5OTe74Hn2HuP_fh-CERLf9dg/viewform)
 
-Thank you!
+Thank you for participating.
 
 <br>
 
