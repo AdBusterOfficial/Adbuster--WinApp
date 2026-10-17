@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png?raw=true" width="1010">
+</p>
+
+<br>
+
 # 🌍 Where are you from?
 
 I'm curious where AdBuster PRO visitors are coming from.
