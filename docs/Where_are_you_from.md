@@ -1,7 +1,7 @@
 
 # 🌍 Where are you from?
 
-Help us discover where the AdBuster PRO community is growing.
+Help us discover where the AdBuster PRO community is growing. 
 
 <div style="text-align:center; padding:40px 0; font-family:Arial, sans-serif;">
 
