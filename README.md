@@ -1221,6 +1221,14 @@ This podcast explains the entire AdBuster 2.0 PRO process — ML audio understan
 
 ---
 
+### 🌍 Visitor Location Survey
+
+Find out more and share your country:
+
+➡️ [Where are you from?](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/Where_are_you_from.md)
+
+<br>
+
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
 
 <br>
