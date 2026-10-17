@@ -16,7 +16,7 @@ I'm curious where AdBuster PRO visitors are coming from.
 
 ---
 
-## Tell me your country
+## Tell us your country
 
 If you have a moment, please enter the country you're visiting from.
 
