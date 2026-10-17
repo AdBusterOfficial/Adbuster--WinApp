@@ -22,6 +22,6 @@ Thank you!
 
 ---
 
-[← Back to AdBuster PRO](../README.md)
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 
