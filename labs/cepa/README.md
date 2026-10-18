@@ -34,6 +34,8 @@ is confirmed.
 | Document | Description |
 |-----------|-------------|
 | [CEPA Foundations](./CEPA_Foundations.md) | Foundational principles and core concepts of CEPA |
+| [CEPA Design Principles](./CEPA_Design_Principles.md) | Core design principles guiding CEPA architecture and contextual decision-making |
+| [CEPA Evolution Timeline](./CEPA_Evolution_Timeline.md) | Historical development and evolution of CEPA concepts and logic |
 | [CEPA Logic Methodology](./CEPA_Logic_Methodology.md) | Operational methodology and decision process |
 | [CEPA Logic Case Studies](./CEPA_Case_Studies.md) | Real-world examples of CEPA decision-making |
 | [CEPA Behaviour Flow](./CEPA_Behaviour_Flow.md) | Contextual processing flow and behavioural logic |
