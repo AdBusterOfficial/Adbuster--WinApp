@@ -37,7 +37,7 @@ is confirmed.
 | [CEPA Design Principles](./CEPA_Design_Principles.md) | Core design principles guiding CEPA architecture and contextual decision-making |
 | [CEPA Evolution Timeline](./CEPA_Evolution_Timeline.md) | Historical development and evolution of CEPA concepts and logic |
 | [CEPA Logic Methodology](./CEPA_Logic_Methodology.md) | Operational methodology and decision process |
-| [CEPA Logic Case Studies](./CEPA_Case_Studies.md) | Real-world examples of CEPA decision-making |
+| [CEPA Logic Case Studies](./CEPA_Logic_Case_Studies.md) | Real-world examples of CEPA decision-making |
 | [CEPA Behaviour Flow](./CEPA_Behaviour_Flow.md) | Contextual processing flow and behavioural logic |
 | [CEPA Behaviour Scenarios](./CEPA_Behaviour_Scenarios.md) | Scenarios illustrating contextual behaviour and decision-making |
 | [CEPA Event Recorder](./CEPA_EVENT_RECORDER.md) | Event recording concepts and event data analysis |
