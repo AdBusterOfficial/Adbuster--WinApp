@@ -9,7 +9,7 @@
 | Document | Description |
 |---|---|
 | [CEPA Design Principles](../../labs/pdf/CEPA%20Design%20Principles.pdf) | Principles of CEPA Logic philosophy |
-| [CEPA Evolution Timeline](../../labs/pdf/CEPA_Evolution_Timeline.md) | Stages in the development of CEPA logic |
+| [CEPA Evolution Timeline](../../labs/pdf/CEPA%20Evolution%20Timeline.pdf) | Stages in the development of CEPA logic |
 | [Acoustic Feature Analysis Report](../../labs/pdf/Acoustic%20Feature%20Analysis%20Report.pdf) | Acoustic feature analysis and audio characteristics |
 | [CEPA Logic PRO v13](../../labs/pdf/CEPA%20Logic%20PRO%20v13.pdf) | CEPA Logic PRO version 13 documentation |
 | [CEPA Logic PRO + AdBuster PRO](../../labs/pdf/CEPA_Logic_PRO%2BAdBuster_PRO.pdf) | CEPA Logic integration with AdBuster PRO |
