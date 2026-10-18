@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # CEPA Logic Case Studies
 
 ## Real-World Examples of Contextual Event Pattern Analysis
@@ -555,3 +559,20 @@ Is action necessary?
 Only after these questions have been evaluated does CEPA decide whether action should be taken.
 
 This context-first approach is one of the fundamental principles of CEPA Logic.
+
+<br>
+
+
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
