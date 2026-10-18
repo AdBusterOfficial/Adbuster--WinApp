@@ -386,3 +386,21 @@ This realization became one of the foundations of CEPA Logic.
 CEPA Logic represents the result of a gradual evolution from traditional signal-processing techniques toward context-driven behavioural analysis.
 
 Rather than replacing earlier approaches, CEPA builds upon them and integrates their strengths into a framework focused on meaning, context, patterns, and decision-making.
+
+---
+
+<br>
+
+
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
