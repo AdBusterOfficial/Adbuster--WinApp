@@ -34,6 +34,8 @@ is confirmed.
 | Document | Description |
 |-----------|-------------|
 | [CEPA Foundations](./CEPA_Foundations.md) | Foundational principles and core concepts of CEPA |
+| [CEPA Logic Methodology](./CEPA_Logic_Methodology.md) | Operational methodology describing how CEPA observes, interprets, evaluates, and makes contextual decisions |
+| [CEPA Logic Case Studies](./CEPA_Case_Studies.md) | Practical examples showing how CEPA applies contextual reasoning and decision-making in real-world scenarios |
 | [CEPA Behaviour Flow](./CEPA_Behaviour_Flow.md) | Contextual processing flow and behavioural logic |
 | [CEPA Behaviour Scenarios](./CEPA_Behaviour_Scenarios.md) | Scenarios illustrating contextual behaviour and decision-making |
 | [CEPA Event Recorder](./CEPA_EVENT_RECORDER.md) | Event recording concepts and event data analysis |
