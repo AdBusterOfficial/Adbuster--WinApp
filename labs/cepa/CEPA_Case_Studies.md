@@ -560,6 +560,8 @@ Only after these questions have been evaluated does CEPA decide whether action s
 
 This context-first approach is one of the fundamental principles of CEPA Logic.
 
+---
+
 <br>
 
 
