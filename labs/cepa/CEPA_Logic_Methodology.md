@@ -1,3 +1,10 @@
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
+</p>
+
+<br>
+
+
 # CEPA Logic Methodology
 
 ## A Context-Driven Framework for Event Interpretation and Behavioral Decision-Making
@@ -293,4 +300,19 @@ In many situations the correct decision is deliberate non-reaction.
 
 ---
 
+<br>
+
+
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
 
