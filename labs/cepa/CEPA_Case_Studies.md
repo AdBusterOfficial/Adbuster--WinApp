@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+<p align="center" style="padding-left: 1.5cm; padding-right: 1.5cm;">
+  <img src="https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/header.png" width="1010">
 </p>
+
+<br>
+
 
 # CEPA Logic Case Studies
 
