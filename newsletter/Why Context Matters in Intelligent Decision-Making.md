@@ -175,8 +175,6 @@ GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
 
 Project website: https://sites.google.com/view/adbuster-winapp
 
-#CEPALogic #AdBusterPRO #SoftwareArchitecture #MachineLearning #SignalProcessing #IntelligentSystems
-
 ---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
