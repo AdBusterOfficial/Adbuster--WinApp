@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # Beyond Detection: Why Context Matters in Intelligent Decision-Making
 
 *Introducing CEPA Logic — a developing methodology for event interpretation, contextual analysis and behavioural decision-making.*
@@ -172,3 +176,14 @@ GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
 Project website: https://sites.google.com/view/adbuster-winapp
 
 #CEPALogic #AdBusterPRO #SoftwareArchitecture #MachineLearning #SignalProcessing #IntelligentSystems
+
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
