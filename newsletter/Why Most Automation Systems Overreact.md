@@ -171,9 +171,15 @@ AdBuster Research Notes documents my ongoing work on AdBuster PRO, system stabil
 
 The project is a working prototype and an experimental basis for further development, analysis and testing — not a claim of a finished, independently validated product.
 
-GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
+## Project and Technical Documentation
 
-Project website: https://sites.google.com/view/adbuster-winapp
+Explore the AdBuster PRO project, CEPA Logic framework, and the ongoing research.
+
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
+
+🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
 
