@@ -181,7 +181,7 @@ Explore the AdBuster PRO project, CEPA Logic framework, and the ongoing research
 
 🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
-We welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
+We’re open to engaging in constructive conversations with engineers and researchers involved in machine learning, real-time systems, signal analysis, and intelligent automation.
 
 ---
 
