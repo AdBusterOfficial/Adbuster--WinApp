@@ -177,6 +177,8 @@ Project website: https://sites.google.com/view/adbuster-winapp
 
 I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
 
+---
+
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
 <br>
