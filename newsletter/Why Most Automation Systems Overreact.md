@@ -151,33 +151,31 @@ It reacts only when action is genuinely necessary.
 
 ## Final Thoughts
 
-As systems become increasingly capable of detecting events, the challenge shifts elsewhere.
+As automated systems become better at detecting events, another challenge becomes increasingly important: deciding when a response is actually necessary.
 
-The future may not belong to systems that observe more.
+Reacting quickly is not always the same as reacting appropriately.
 
-It may belong to systems that understand more.
+A reliable system must account for the consequences of its actions, the conditions in which events occur, and the possibility that waiting may be better than intervening.
 
-Detection is important.
+This question has become an important part of my work on AdBuster PRO.
 
-Context is important.
+In the next AdBuster Research Notes article, I will explore why system stability presents a different engineering challenge from model accuracy, using the development of AdBuster PRO as a practical example.
 
-But meaningful decision-making is where real intelligence begins.
+Because better automation is not necessarily about reacting more often. It is about making better decisions.
 
 ---
 
 ## About AdBuster Research Notes
 
-AdBuster Research Notes documents the ongoing research behind AdBuster and CEPA Logic, including behavioural analysis, contextual decision frameworks, event interpretation methods, and the evolution of intelligent volume stabilization systems.
+AdBuster Research Notes documents my ongoing work on AdBuster PRO, system stability, contextual analysis and the development of CEPA Logic.
 
-<br>
+The project is a working prototype and an experimental basis for further development, analysis and testing — not a claim of a finished, independently validated product.
 
-🔗 [AdBuster GitHub Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
 
-<br>
+Project website: https://sites.google.com/view/adbuster-winapp
 
-We welcome constructive conversations with engineers and researchers working in machine learning, real-time systems, signal analysis, and intelligent automation.
-
----
+I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
