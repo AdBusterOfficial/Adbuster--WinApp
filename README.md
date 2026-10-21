@@ -1185,7 +1185,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ## 🔶 Documentation
 
-🌍 [**CEPA Logic Wiki**](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki) — Complete knowledge base covering concepts, methodology, design principles, case studies and ongoing research.  
+🌍 [**CEPA Logic Wiki**](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki) — Concepts, methodology, case studies and research. 
 🟩 [AdBuster PRO (PDFs)](docs/pdf/)  
 🟨 [AdBuster Project Booklet](docs/AdBuster_project_booklet.md)  
 🟦 [Architecture Overview](docs/overview.md)  
