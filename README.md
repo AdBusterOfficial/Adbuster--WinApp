@@ -94,7 +94,7 @@ All processing remains on your PC. No data is uploaded.
 
 ## 🌍 CEPA Logic
 
-**Contextual Event Pattern Analysis** is a context-oriented analytical framework for evaluating events in context and determining when a system should react.
+**Contextual Event Pattern Analysis** is a context-oriented analytical framework for interpreting event patterns, evaluating contextual relationships, and supporting structured decision-making.
 
 The **CEPA Logic Wiki** documents the framework's concepts, methodology, design principles, processing models, case studies, publications, and ongoing research.
 
