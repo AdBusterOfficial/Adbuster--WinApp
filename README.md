@@ -125,7 +125,7 @@ This research led to the development of CEPA Logic (Contextual Event Pattern Ana
 
 ## 🚀 Quick Start
 
-1. Download the latest release from the Releases page.
+1. Download the latest prototype for testing from the Releases page.
 2. Unzip the folder anywhere on your PC.
 3. Run Start.bat to launch all modules automatically.
 4. (Optional) Configure your Broadlink IR device for volume control.
