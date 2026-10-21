@@ -18,7 +18,7 @@ The Wiki also distinguishes between the CEPA Logic methodology and its experimen
 
 This documentation is an ongoing effort to explain the ideas behind CEPA Logic, clarify its scope, and provide a foundation for further exploration.
 
-📖 [Explore the CEPA Logic Wiki →](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+🌍 [Explore the CEPA Logic Wiki →](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
 
 Thank you to everyone who takes an interest in this work. Feedback and thoughtful discussion are welcome.
 
