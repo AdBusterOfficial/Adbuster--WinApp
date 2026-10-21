@@ -119,7 +119,7 @@ Instead of modifying the audio stream itself, the system observes audio behaviou
 
 What started as an attempt to reduce loud TV advertisements evolved into a broader research project focused on behavioural audio analysis, contextual decision-making, and intelligent volume stabilization.
 
-This research led to the development of CEPA Logic (Contextual Event Pattern Analysis), the analytical framework behind AdBuster PRO.
+This research led to the development of CEPA Logic (Contextual Event Pattern Analysis), the analytical framework that guides the design and development of AdBuster PRO.
 
 ---
 
