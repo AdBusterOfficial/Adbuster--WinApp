@@ -143,7 +143,7 @@ All implementation details remain protected under the AdBuster PRO license.
 
 The behavioural decision layer described in this document is further documented in:
 
-📘 CEPA Logic PRO — Signal Flow (v13 Hybrid)
+📘 [CEPA Logic PRO — Signal Flow (v13 Hybrid)](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/hybrid/CEPA%20Logic-Signal%20Flow_v13%20Hybrid.md)
 
 This companion document explains how CEPA Logic PRO moves from:
 
