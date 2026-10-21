@@ -98,7 +98,7 @@ All processing remains on your PC. No data is uploaded.
 
 The **CEPA Logic Wiki** documents the framework's concepts, methodology, design principles, processing models, case studies, publications, and ongoing research.
 
-📖 [**Explore the CEPA Logic Wiki →**](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+📖 [Explore the CEPA Logic Wiki →](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
 
 ---
 
