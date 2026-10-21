@@ -1207,7 +1207,7 @@ A separate proprietary license applies to CEPA Logic:
 
 ---
 
-## 🔵 AdBuster Research Labs
+## ☘️ AdBuster Research Labs
 
 🔵 [Audio‑ML Training Pipeline](labs/training_pipeline.md)  
 🟣 [Model & Dataset Overview](labs/model.md)  
