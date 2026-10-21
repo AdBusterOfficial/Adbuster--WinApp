@@ -104,3 +104,17 @@ The final version of Hybrid Engine v13 contains less complexity than several ear
 Hybrid Engine v13 demonstrated that behavioural stability is often the result of simplification rather than expansion.
 
 Removing unnecessary reactions, reducing model complexity and eliminating redundant logic produced a system that is easier to understand, easier to debug and more reliable during real-world operation.
+
+<br>
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
