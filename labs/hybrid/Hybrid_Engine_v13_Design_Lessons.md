@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/header.png">
+</p>
+
+---
 
 # Hybrid Engine v13 Design Lessons
 
