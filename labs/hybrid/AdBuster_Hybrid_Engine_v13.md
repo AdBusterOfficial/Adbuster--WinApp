@@ -137,6 +137,27 @@ AdBuster PRO provides a full GUI with:
 This document describes **behaviour**, **architecture** and **decision flow** of the AdBuster Hybrid Engine v13.  
 All implementation details remain protected under the AdBuster PRO license.
 
+---
+
+## Related Documentation
+
+The behavioural decision layer described in this document is further documented in:
+
+📘 CEPA Logic PRO — Signal Flow (v13 Hybrid)
+
+This companion document explains how CEPA Logic PRO moves from:
+
+Audio Input
+→ Perception
+→ Intent
+→ Behaviour State
+→ Comfort Evaluation
+→ Final Action Decision
+
+and provides a detailed view of the internal contextual decision process used by Hybrid Engine v13.
+
+---
+
 <br>
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
