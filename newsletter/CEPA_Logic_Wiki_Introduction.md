@@ -24,3 +24,29 @@ https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki
 
 Thank you to everyone who takes an interest in this work. Feedback and thoughtful discussion are welcome.
 
+## About AdBuster Research Notes
+
+AdBuster Research Notes serves as documentation for our ongoing work on the AdBuster PRO system, covering system stability, contextual analysis, and the development of CEPA Logic technology.
+
+This project is a working prototype and acts as an experimental foundation for further development, analysis, and testing—it is not a finished product subject to independent verification.
+
+## Project Documentation and Technical Details
+
+Explore the AdBuster PRO project, the CEPA Logic environment, and our current research.
+
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
+
+🔵 **GitHub:** [Full Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
