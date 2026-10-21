@@ -92,6 +92,16 @@ All processing remains on your PC. No data is uploaded.
 
 ---
 
+## 🌍 CEPA Logic
+
+**Contextual Event Pattern Analysis** is a context-oriented analytical framework for evaluating events in context and determining when a system should react.
+
+The **CEPA Logic Wiki** documents the framework's concepts, methodology, design principles, processing models, case studies, publications, and ongoing research.
+
+📖 [**Explore the CEPA Logic Wiki →**](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+
+---
+
 ## 🧮 Why AdBuster Exists
 
 Television audio has suffered from the same problems for decades:
