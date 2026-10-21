@@ -54,11 +54,11 @@ room size, content type).
 - AD‑CEPA System Settings — Full Variable & Parameter Reference  
   [AD_CEPA_System_Settings](./AD_CEPA_System_Settings.md)
 
-- AdBuster — Project Roadmap  
-  [ROADMAP](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/ROADMAP.md)
-
 - Lessons on designing the Hybrid Engine v13 — improving stability by simplifying the design and refining the logic
 [Hybrid_Engine_v13_Design_Lessons](./Hybrid_Engine_v13_Design_Lessons.md)
+
+- AdBuster — Project Roadmap  
+  [ROADMAP](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/docs/ROADMAP.md)
 
 ### 🧩 Images:
 - CEPA Preset Setup  
