@@ -46,8 +46,8 @@ is confirmed.
 | [CEPA Reaction Margin Evolution](./CEPA_Reaction_Margin_Evolution.md) | Development of reaction margins and response timing |
 | [CEPA Truth Validation](./CEPA_Truth_Validation.md) | Validation of contextual decisions and analytical results |
 | [CEPA vs DSP](./CEPA_vs_DSP.md) | Comparison of contextual event analysis and traditional digital signal processing |
-| [Human Volume Logic](./human_volume_logic.md) | Human-inspired logic for adaptive television volume control |
 | [CEPA Anti-Oscillation System](./CEPA_Anti_Oscillation_System.md) | Behavioural safeguards that prevent unstable reaction loops and maintain contextual stability |
+| [Human Volume Logic](./human_volume_logic.md) | Human-inspired logic for adaptive television volume control |
 
 ### Behaviour & Decision Models — `labs`
 
