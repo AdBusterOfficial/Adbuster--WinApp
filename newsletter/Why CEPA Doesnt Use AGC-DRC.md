@@ -6,6 +6,8 @@
 
 *Why detecting a change in sound is not the same as deciding whether to react.*
 
+<br>
+
 ![CEPA Logic — Context Before Action](https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/Context%20Before%20Action.png)
 
 ## Two Different Approaches to Audio
