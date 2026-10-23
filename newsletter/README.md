@@ -16,7 +16,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## ✅ Editions
 
-- **2026-10-24** – [Why CEPA Doesnt Use AGC-DRC](./Why%20CEPA%20Doesnt%20Use%20AGC-DRC.md)
+- **2026-10-24** – [Why CEPA Doesn’t Use AGC/DRC: Context Before Action](./Why%20CEPA%20Doesnt%20Use%20AGC-DRC.md)
 - **2026-10-21** – [CEPA Logic Wiki Introduction](./CEPA_Logic_Wiki_Introduction.md)
 - **2026-10-19** – [Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
 - **2026-10-15** – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
@@ -26,8 +26,8 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – Why CEPA Doesn’t Use AGC/DRC: Context Before Action
-- Why Context Matters in Intelligent Decision-Making
+- **Coming Next** – Why Context Matters in Intelligent Decision-Making
+
 - Why Stability Matters More Than Accuracy
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
