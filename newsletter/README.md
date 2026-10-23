@@ -25,10 +25,9 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – Why Stability Matters More Than Accuracy
+- **Coming Next** – Why CEPA Doesnt Use AGC/DRC
 -                 – Why Context Matters in Intelligent Decision-Making
--                 – Why CEPA Doesnt Use AGC-DRC
-
+-                 – Why Stability Matters More Than Accuracy  
 <br>
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
