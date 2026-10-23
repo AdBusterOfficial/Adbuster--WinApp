@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
 </p>
 
-# Why CEPA Doesn’t Use AGC/DRC: Context Before Audio Processing
+# Why CEPA Doesn’t Use AGC/DRC: Context Before Action
 
 *Why detecting a change in sound is not the same as deciding whether to react.*
 
