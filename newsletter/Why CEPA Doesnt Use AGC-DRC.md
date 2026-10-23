@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # Why CEPA Doesn’t Use AGC/DRC: Context Before Audio Processing
 
 *Why detecting a change in sound is not the same as deciding whether to react.*
@@ -65,10 +69,30 @@ That is why CEPA Logic places contextual interpretation before action.
 
 ---
 
-**Author:** D.P-G  
-**Project:** CEPA Logic  
-**Location:** Dublin, Ireland
+## About AdBuster Research Notes
+
+AdBuster Research Notes explores the ideas, design principles and technical concepts behind AdBuster and CEPA Logic, including contextual analysis, system stability and decision-making in real-time systems.
+
+Each edition examines a specific aspect of the project, from its underlying methodology to the engineering challenges involved in developing context-aware automation.
+
+## Project and Technical Documentation
+
+Explore the AdBuster project, CEPA Logic framework, and related technical documentation.
+
+🟢 **Website:** [AdBuster – Official Project Website](https://sites.google.com/view/adbuster-winapp)
+
+🔵 **GitHub:** [Project and Technical Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+I welcome constructive conversations with engineers and researchers interested in machine learning, real-time systems, signal analysis, contextual decision-making, and intelligent automation.
+
+---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
 
+<br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
