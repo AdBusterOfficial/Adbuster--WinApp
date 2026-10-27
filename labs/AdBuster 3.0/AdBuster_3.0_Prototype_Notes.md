@@ -5,7 +5,7 @@
 <br>
 
 # AdBuster 3.0 — Prototype Notes
-![AdBuster 3.0 Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster 3.0/AdBuster%203.0/AdB_3.0_s01.png)
+![AdBuster 3.0 Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/AdB_3.0_s01.png)
 
 ## Overview
 
