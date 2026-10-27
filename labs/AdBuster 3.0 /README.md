@@ -12,6 +12,14 @@ This laboratory prototype focuses on integrating these components and observing 
 
 For the experimental scope, initial observations, configuration details, and follow-up items, see [AdBuster 3.0 Prototype Notes](AdBuster_3.0_Prototype_Notes.md).
 
+
+## Prototype Demo
+
+[![AdBuster 3.0 — Hybrid Prototype Demo](https://img.youtube.com/vi/jprODtEdIpo/0.jpg)](https://youtu.be/jprODtEdIpo?si=p3QyttgQVAapupnH)
+
+This video presents the first demonstration of the AdBuster 3.0 hybrid prototype and its integrated components.
+
+
 ## Hybrid Analysis
 
 The prototype combines:
