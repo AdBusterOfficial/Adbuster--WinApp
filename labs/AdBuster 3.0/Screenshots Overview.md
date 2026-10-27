@@ -188,3 +188,18 @@ AdBuster 3.0 combines three primary technologies:
 - CEPA Context-Aware Decision Logic
 
 Together these systems detect advertisement-related loudness patterns, determine appropriate corrective actions and safely control television volume while minimizing false positives, command oscillation and unnecessary user intervention.
+
+<br>
+
+[← Back to AdBuster Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 **D.P-G. | AdBuster Research Labs, Dublin**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
