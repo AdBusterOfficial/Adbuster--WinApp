@@ -12,6 +12,7 @@ This laboratory prototype focuses on integrating these components and observing 
 
 For the experimental scope, initial observations, configuration details, and follow-up items, see [AdBuster 3.0 Prototype Notes](AdBuster_3.0_Prototype_Notes.md).
 
+---
 
 ## Prototype Demo
 
@@ -19,6 +20,28 @@ For the experimental scope, initial observations, configuration details, and fol
 
 This video presents the first demonstration of the AdBuster 3.0 hybrid prototype and its integrated components.
 
+---
+
+## Screenshots Overview
+
+A complete visual walkthrough of the AdBuster 3.0 interface and operational states is available in:
+
+📷 **[Screenshots Overview](./Screenshots%20Overview.md)**
+
+The document presents the full behavioural workflow of the prototype, including:
+
+- System startup and initialization
+- Environment calibration
+- Advertisement suspicion detection
+- Advertisement confirmation
+- Automatic volume reduction
+- Safety pause monitoring
+- Command limiting and protection mechanisms
+- CEPA contextual decision analysis
+
+Together, the screenshots illustrate how Machine Learning, CEPA Logic, dynamic volume targets and Broadlink TV control interact during real-world operation.
+
+---
 
 ## Hybrid Analysis
 
@@ -32,6 +55,8 @@ The prototype combines:
 
 Automatic volume corrections depend on target-level conditions and timing rules. CEPA suggestions are subject to these conditions rather than triggering volume changes directly.
 
+---
+
 ## Calibration
 
 Calibration measures the median audio level over a 20-second period and sets the active period's target two points above the measured median.
@@ -39,6 +64,8 @@ Calibration measures the median audio level over a 20-second period and sets the
 Calibration does not issue a volume command. Each daily period maintains its own target, and the active target changes automatically according to local time.
 
 The slider adjusts the target level, not the TV volume directly.
+
+---
 
 ## Safety and Data
 
@@ -51,23 +78,14 @@ The slider adjusts the target level, not the TV volume directly.
 
 The ML model detects ad-like audio patterns; it does not independently identify dialogue or classify music in this simplified build.
 
-## Experimental Status
-
-AdBuster 3.0 is an experimental laboratory build intended for integration testing and behavioural evaluation. Its implementation and observed behaviour should be assessed against the actual source code and test results.
-
 ---
 
-[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+## Experimental Status
+
+AdBuster 3.0 is an experimental laboratory build intended for integration testing and behavioural evaluation. Its implementation andack to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
 <br>
 
 © 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
-</p>
-
