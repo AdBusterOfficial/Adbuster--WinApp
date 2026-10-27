@@ -5,7 +5,7 @@
 <br>
 
 # AdBuster 3.0 — Prototype Notes
-![AdBuster 3.0 Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/screenshots/AdBuster%203.0/AdB_3.0_s01.png)
+![AdBuster 3.0 Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/screenshots/AdB_3.0_s01.png)
 *AdBuster 3.0 hybrid prototype during an active calibration session. The interface displays live audio-level monitoring, ML-based ad detection, CEPA analysis, volume-target calibration, Broadlink controller status, and manual TV controls. Automatic volume adjustments are temporarily paused while calibration is in progress.*
 
 ## Overview
