@@ -1,4 +1,4 @@
-![AdB_3.0 prototype.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdB_3.0%20prototype.png)
+![AdBuster 3.0 Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdB_3.0%20prototype.png)
 
 <br>
 
@@ -11,16 +11,6 @@ AdBuster 3.0 integrates the existing trained ad-detection model, CEPA logic, aud
 This laboratory prototype focuses on integrating these components and observing their behaviour under controlled testing conditions.
 
 For the experimental scope, initial observations, configuration details, and follow-up items, see [AdBuster 3.0 Prototype Notes](AdBuster_3.0_Prototype_Notes.md).
-
-## Quick Start
-
-1. Install Python 3.10+ and the dependencies listed in `requirements.txt`.
-2. Run `Start.bat` to launch AdBuster and its local TV-control service.
-3. Wait for `TV CONTROLLER CONNECTED`, verify the Broadlink IP and MAC addresses, and connect the controller.
-4. Click `START LISTENING` to begin audio analysis and enable automatic volume control.
-5. Use the manual IR controls when needed. Click `STOP LISTENING` to pause automatic control.
-
-The application provides volume, mute, and power commands through the Broadlink controller.
 
 ## Hybrid Analysis
 
@@ -53,14 +43,6 @@ The slider adjusts the target level, not the TV volume directly.
 
 The ML model detects ad-like audio patterns; it does not independently identify dialogue or classify music in this simplified build.
 
-## Device Configuration
-
-The prototype uses a copy of the Broadlink IP/MAC configuration and IR codes from the source project.
-
-Configuration, logs, and runtime data are maintained within the prototype folder, allowing it to run separately from the existing application.
-
 ## Experimental Status
 
 AdBuster 3.0 is an experimental laboratory build intended for integration testing and behavioural evaluation. Its implementation and observed behaviour should be assessed against the actual source code and test results.
-
-See [AdBuster 3.0 Prototype Notes](AdBuster_3.0_Prototype_Notes.md) for further technical details.
