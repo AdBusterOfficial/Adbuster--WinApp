@@ -6,7 +6,7 @@
 
 An isolated experimental build exploring hybrid behavioural stabilization for TV volume control.
 
-AdBuster 3.0 integrates the existing trained ad-detection model, CEPA logic, audio feature extraction, volume-target management, and Broadlink IR control into a single application window. The original project files remain unchanged.
+AdBuster 3.0 integrates the existing trained ad-detection model, [CEPA Logic](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki), audio feature extraction, volume-target management, and Broadlink IR control into a single application window. The original project files remain unchanged.
 
 This laboratory prototype focuses on integrating these components and observing their behaviour under controlled testing conditions.
 
