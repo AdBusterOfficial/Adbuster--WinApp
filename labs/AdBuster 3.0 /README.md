@@ -46,3 +46,20 @@ The ML model detects ad-like audio patterns; it does not independently identify 
 ## Experimental Status
 
 AdBuster 3.0 is an experimental laboratory build intended for integration testing and behavioural evaluation. Its implementation and observed behaviour should be assessed against the actual source code and test results.
+
+---
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+<br>
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
