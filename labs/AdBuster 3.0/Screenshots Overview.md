@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/header.png">
+</p>
+
+<br>
+
 # AdBuster 3.0 — Screenshots Overview
 
 This document illustrates the main operating states of AdBuster 3.0 and demonstrates how Machine Learning, CEPA Logic and automatic TV volume control interact in real-time.
