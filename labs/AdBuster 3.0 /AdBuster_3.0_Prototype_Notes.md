@@ -46,4 +46,4 @@ These values describe the current test configuration and may change during devel
 
 For comparable results, keep the configuration and target level consistent throughout each test session.
 
-After testing, export the sample and event CSV files and record the session time and TV content. The exports include historical records accumulated in the local database, not only data from the latest session.
+After each test session, the sample and event data are exported to CSV files, and the session duration and TV content are recorded. The exported files include historical records accumulated in the local database, not just data from the most recent session.
