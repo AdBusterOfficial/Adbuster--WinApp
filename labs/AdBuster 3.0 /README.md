@@ -1,4 +1,4 @@
-![AdB_3.0 prototype.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0%20/AdB_3.0%20prototype.png)
+![AdB_3.0 prototype.png](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdB_3.0%20prototype.png)
 
 <br>
 
