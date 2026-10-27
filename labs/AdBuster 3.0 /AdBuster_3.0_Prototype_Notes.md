@@ -1,38 +1,49 @@
+# AdBuster 3.0 — Prototype Notes
 
-# AdBuster 3.0 Prototype Notes
+## Overview
 
-## Purpose
+AdBuster 3.0 is an experimental hybrid prototype integrating audio monitoring, ML-based ad-like signal detection, CEPA logic, volume-target management, and Broadlink IR control in a single application.
 
-AdBuster 3.0 is an integrated prototype for real-world testing. It brings live audio monitoring, ad-like signal analysis, CEPA decision support, time-of-day targets, and Broadlink TV volume control into one application. The prototype is being refined through logged observation rather than presented as a finished production system.
+The prototype combines these components to explore context-aware TV volume stabilization.
 
-## What is integrated
+## Integrated Components
 
-- A live microphone meter based on block RMS, with a fixed 0–60 chart scale and a ten-second history.
-- The existing four-feature ad model and CEPA logic working alongside target-level rules.
-- Separate saved targets for morning, afternoon, evening, and night, with a 20-second calibration flow.
-- Automatic and manual Broadlink controls, a connection watchdog, cooldown and command-rate limits.
-- Local sample and event logging in SQLite, plus paired CSV exports for later review. Raw microphone audio is not stored.
+- Live microphone monitoring and RMS-based signal-level measurement.
+- Existing four-feature ML model and CEPA logic.
+- Time-of-day volume targets and manual calibration.
+- Automatic and manual Broadlink IR control.
+- Connection monitoring and safeguards for automatic volume adjustments.
+- Local SQLite logging and CSV export for reviewing test results.
 
-## First observations from the logs
+Raw microphone audio is not stored.
 
-The reviewed database covers 25–26 October 2026 and contains 55,891 samples and 7,592 events. It includes several code and settings revisions, so the full period should not be treated as one controlled test.
+## Initial Test Observations
 
-- The `rms-v3` meter accounts for 44,215 samples. Only five level readings and seven raw readings were zero, which is a strong improvement over the earlier meter records in the same database.
-- The event log records 348 automatic command reservations. VolMaster returned an accepted result for 343; four requests timed out under an older 0.8-second timeout, and one reservation has no matching result. The later records use a 20-second automatic cooldown.
-- The logs contain 102 manual requests. Seventy-nine were accepted. Other entries show earlier 60-second and one-second manual guards, so they do not represent the current 0.5-second manual repeat guard.
-- The ML model recorded 253 confirmed-detection sample rows, while only five rows entered `AD` context. The level gate was subsequently changed to 16. There were no further confirmed detections after the restart in the reviewed period, so the effect of the new threshold still needs a suitable test.
-- Sixteen audio errors report `Invalid device`, clustered around 21:20–21:22 UTC. The sample log also records `server_connected=0` in about 19% of `rms-v3` samples. This means the local VolMaster status endpoint did not respond in those samples; it does not by itself prove that the Broadlink device was disconnected.
+Initial logs from 25–26 October 2026 show that the integrated system can process audio samples, record detection and decision events, and issue volume-control requests through the local control service.
 
-The logs confirm that the integrated command path can reach VolMaster and record its responses. They also identify the next reliability and tuning areas: audio-device recovery, local service availability, and validation of the lower ad-context level gate.
+The logs also identified areas requiring further investigation:
 
-## Current test settings
+- Audio-device errors and recovery.
+- Availability of the local TV-control service.
+- The relationship between ML detections, CEPA context, and audio-level thresholds.
+- Validation of automatic volume adjustments under consistent test conditions.
 
-- Ad context level gate: 16 on the 0–60 meter scale.
-- Automatic volume down: more than 2 points above target for 2 seconds.
-- Automatic volume up: more than 2 points below target for 6 seconds.
-- Automatic cooldown: 20 seconds, with a maximum of three automatic steps per two minutes.
-- Manual volume repeat guard: 0.5 seconds.
-- Calibration duration: 20 seconds.
-- Default targets: morning 18, afternoon 20, evening 19, and night 17. The reviewed `settings.json` has a calibrated evening target of 17.54.
+The reviewed logs contain multiple code and configuration revisions. They therefore provide preliminary observations rather than results from a single controlled test.
 
-For comparable tests, keep these settings and the active target fixed during each session. Export both CSV files after a session and record the time period and TV content. The export contains historical data accumulated in the local database, not just the latest session.
+## Current Test Configuration
+
+- **Ad-context level gate:** 16 on a 0–60 scale.
+- **Automatic volume down:** Level above target by more than 2 points for 2 seconds.
+- **Automatic volume up:** Level below target by more than 2 points for 6 seconds.
+- **Automatic control limit:** 20-second cooldown, maximum three steps per two minutes.
+- **Manual volume repeat guard:** 0.5 seconds.
+- **Calibration:** 20 seconds.
+- **Default targets:** Morning 18, afternoon 20, evening 19, night 17.
+
+These values describe the current test configuration and may change during development.
+
+## Test Procedure
+
+For comparable results, keep the configuration and target level consistent throughout each test session.
+
+After testing, export the sample and event CSV files and record the session time and TV content. The exports include historical records accumulated in the local database, not only data from the latest session.
