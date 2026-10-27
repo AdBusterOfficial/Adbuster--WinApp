@@ -25,7 +25,7 @@ Raw microphone audio is not stored.
 
 ## Initial Test Observations
 
-Initial logs from 25–26 October 2026 show that the integrated system can process audio samples, record detection and decision events, and issue volume-control requests through the local control service.
+Initial test logs indicate that the integrated system can process audio samples, record detection and decision events, and issue volume-control requests through the local control service.
 
 The logs also identified areas requiring further investigation:
 
@@ -48,25 +48,24 @@ The reviewed logs contain multiple code and configuration revisions. They theref
 
 These values describe the current test configuration and may change during development.
 
-## Test Procedure
+## Test Records
 
-For comparable results, keep the configuration and target level consistent throughout each test session.
+Following each test session, sample and event data are exported to CSV files. The session duration and the content displayed on the television are also recorded.
 
-After each test session, the sample and event data are exported to CSV files, and the session duration and TV content are recorded. The exported files include historical records accumulated in the local database, not just data from the most recent session.
+The exported files include historical records accumulated in the local database, rather than being limited to data from the most recent session.
+
+These records support the review of experimental observations and comparisons between test sessions.
 
 <br>
 
-
-
-[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+[← Back to AdBuster Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
-© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+© 2026 **D.P-G. | AdBuster Research Labs, Dublin**
 
 <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
 </p>
-
