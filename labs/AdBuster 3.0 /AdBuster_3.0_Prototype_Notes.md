@@ -53,3 +53,20 @@ These values describe the current test configuration and may change during devel
 For comparable results, keep the configuration and target level consistent throughout each test session.
 
 After each test session, the sample and event data are exported to CSV files, and the session duration and TV content are recorded. The exported files include historical records accumulated in the local database, not just data from the most recent session.
+
+<br>
+
+
+
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+---
+
+© 2026 — **D.P‑G & AdBuster Team Dublin. All rights reserved.**
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
