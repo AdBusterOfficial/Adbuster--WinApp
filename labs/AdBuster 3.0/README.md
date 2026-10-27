@@ -26,7 +26,7 @@ This video presents the first demonstration of the AdBuster 3.0 hybrid prototype
 
 A complete visual walkthrough of the AdBuster 3.0 interface and operational states is available in:
 
-📷 **[Screenshots Overview](./Screenshots%20Overview.md)**
+📷 [Screenshots Overview](./Screenshots%20Overview.md)
 
 The document presents the full behavioural workflow of the prototype, including:
 
