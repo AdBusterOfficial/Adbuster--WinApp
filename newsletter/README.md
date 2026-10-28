@@ -27,8 +27,8 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – Why Stability Matters More Than Accuracy
-- Why Context Matters in Intelligent Decision-Making
+- **Coming Next** – Why Context Matters in Intelligent Decision-Making
+- 
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
