@@ -16,6 +16,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## ✅ Editions
 
+- **2026-10-28** – [Why Stability Matters More Than Accuracy](./Why%20Stability%20Matters%20More%20Than%20Accuracy.md)
 - **2026-10-24** – [Why CEPA Doesn’t Use AGC/DRC: Context Before Action](./Why%20CEPA%20Doesnt%20Use%20AGC-DRC.md)
 - **2026-10-21** – [CEPA Logic Wiki Introduction](./CEPA_Logic_Wiki_Introduction.md)
 - **2026-10-19** – [Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
