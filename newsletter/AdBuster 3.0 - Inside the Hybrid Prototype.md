@@ -95,7 +95,7 @@ This is the direction I continue to explore through AdBuster and CEPA Logic — 
 
 **Demo:** [AdBuster 3.0 — Hybrid Prototype Demo](https://youtu.be/jprODtEdIpo)
 
-**GitHub:** [AdBuster 3.0 — Hybrid Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+**GitHub:** [AdBuster 3.0 — Hybrid Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/labs/AdBuster%203.0)
 
 **Screenshots:** [Screenshots Overview](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/Screenshots%20Overview.md)
 
