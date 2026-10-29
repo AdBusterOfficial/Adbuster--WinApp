@@ -29,6 +29,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 - **Coming Next** – Why Context Matters in Intelligent Decision-Making
 - AdBuster 3.0 - Inside the Hybrid Prototype
+- A Month of AdBuster Research Notes: What I Learned
 
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
