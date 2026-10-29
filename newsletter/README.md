@@ -25,6 +25,18 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ---
 
+## Audio Editions — Podcast
+
+Prefer listening to reading? Explore the audio editions of AdBuster Research Notes, featuring spoken versions of selected publications.
+
+<a href="./podcast/README.md">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/podcast/spotify_podcast_cover.png" alt="AdBuster Research Notes Podcast — Listen on Spotify" width="100%">
+</a>
+
+[Explore the Podcast — Audio Editions](./podcast/README.md)
+
+---
+
 ## 🔼 Upcoming Editions
 
 - **Coming Next** – Why Context Matters in Intelligent Decision-Making
