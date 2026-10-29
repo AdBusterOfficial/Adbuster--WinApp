@@ -36,10 +36,19 @@ This page provides a central index of published audio editions, with direct link
 
 These audio editions complement the written AdBuster Research Notes newsletter and provide an alternative way to explore the ideas, experiences and development behind CEPA Logic.
 
-New episodes will be added to this page as they are published.
+New episodes will be listed here as they are published.
 
 **Author:** D.P-G  
 **Project:** AdBuster Research Notes  
 **Location:** Dublin, Ireland
 
+---
+
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
