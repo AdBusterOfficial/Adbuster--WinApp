@@ -72,6 +72,8 @@ The objective is not to make every prediction trigger an action.
 
 It is to make the actions that do occur more consistent with the situation.
 
+![FromML-StableDecision](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/newsletter/FromML-StableDecision.png)
+
 ## 4. Stability is a behaviour that must be engineered
 
 In a real-time control system, instability can take several forms:
