@@ -46,6 +46,8 @@ New episodes will be listed here as they are published.
 **Project:** AdBuster Research Notes  
 **Location:** Dublin, Ireland
 
+[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
 ---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
