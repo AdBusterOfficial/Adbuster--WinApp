@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/podcast/spotify_podcast_cover.png" alt="AdBuster Research Notes Podcast" width="100%">
+</p>
+
 # AdBuster Research Notes — Podcast
 
 Audio editions of AdBuster Research Notes, featuring reflections on CEPA Logic, automation, system stability and the development of the project.
