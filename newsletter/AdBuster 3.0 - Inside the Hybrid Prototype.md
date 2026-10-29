@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # AdBuster 3.0 — Inside the Hybrid Prototype
 
 *Exploring the integration of ML, CEPA Logic and real-time TV volume control*
@@ -93,16 +97,35 @@ This is the direction I continue to explore through AdBuster and CEPA Logic — 
 
 ### Prototype Demonstration and Documentation
 
-**Demo:** [AdBuster 3.0 — Hybrid Prototype Demo](https://youtu.be/jprODtEdIpo)
+- **Demo:** [AdBuster 3.0 — Hybrid Prototype Demo](https://youtu.be/jprODtEdIpo)
+- **GitHub:** [AdBuster 3.0 — Hybrid Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/labs/AdBuster%203.0)
+- **Screenshots:** [Screenshots Overview](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/Screenshots%20Overview.md)
+- **Prototype Notes:** [Initial Observations and Test Configuration](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/AdBuster_3.0_Prototype_Notes.md)
 
-**GitHub:** [AdBuster 3.0 — Hybrid Prototype](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/labs/AdBuster%203.0)
+---
 
-**Screenshots:** [Screenshots Overview](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/Screenshots%20Overview.md)
+## About AdBuster Research Notes
 
-**Prototype Notes:** [Initial Observations and Test Configuration](https://github.com/AdBusterOfficial/Adbuster--WinApp/blob/main/labs/AdBuster%203.0/AdBuster_3.0_Prototype_Notes.md)
+AdBuster Research Notes explores my ongoing work on AdBuster PRO, system stability, contextual analysis and the development of CEPA Logic.
 
-### About AdBuster Research Notes
+The newsletter covers experimental development, technical observations and the engineering questions involved in building more stable, context-aware systems. Prototype observations are presented in the context of ongoing development, not as proof of independently validated system-level reliability.
 
-AdBuster Research Notes explores the ongoing research behind AdBuster PRO and CEPA Logic, covering behavioural analysis, contextual decision-making, event interpretation, and the development of more stable, reliable volume-control systems.
+## Project and Technical Documentation
+
+Explore the AdBuster project, CEPA Logic framework and related technical documentation.
+
+- **Website:** [AdBuster PRO — Official Project Website](https://sites.google.com/view/adbuster-winapp)
+- **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+- **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
+
+---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
