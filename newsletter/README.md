@@ -39,6 +39,8 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 - AdBuster 3.0 - Inside the Hybrid Prototype
 - A Month of AdBuster Research Notes: What I Learned
 
+--- 
+
 [← Go to CEPA Logic Wiki](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
 
 [← Go to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
