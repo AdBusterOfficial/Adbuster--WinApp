@@ -20,6 +20,8 @@
 
 ---
 
+[← Back to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
+
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
