@@ -323,9 +323,12 @@ CEPA v3.0 becomes the central behaviour engine of AdBuster PRO, orchestrating st
 This podcast covers the full AdBuster 2.0 PRO process, including ML audio understanding, CEPA decision logic, real-time loudness stabilization, and more.
 
 ---
-[← Back to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
 
-[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+[← Go to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
+
+[← Go to CEPA Logic Wiki](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+
+[← Go to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
