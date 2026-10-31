@@ -329,6 +329,8 @@ CEPA processes events through a structured context-aware reasoning pipeline:
 
 [← Back to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
 
+[← CEPA Logic Wiki](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+
 [← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
