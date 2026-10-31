@@ -57,9 +57,11 @@
 
 <br>
 
-[← Back to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
+[← Go to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
 
-[← Back to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+[← Go to CEPA Logic Wiki](https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki)
+
+[← Go to AdBuster PRO Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
 
