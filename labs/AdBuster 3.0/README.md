@@ -86,6 +86,8 @@ AdBuster 3.0 is an experimental laboratory build intended for integration testin
 
 <br>
 
+[← Back to Newsletter](https://github.com/AdBusterOfficial/Adbuster--WinApp/tree/main/newsletter)
+
 [← Back to AdBuster Repository](https://github.com/AdBusterOfficial/Adbuster--WinApp)
 
 ---
