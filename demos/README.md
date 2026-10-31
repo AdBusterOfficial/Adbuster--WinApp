@@ -32,12 +32,10 @@
       <td><a href="./AdBuster_HYBRID_DSP_ML_CEPA_IR.md">AdBuster — Hybrid DSP, ML, CEPA &amp; IR</a></td>
       <td>Video demonstration of the hybrid DSP, ML, CEPA and IR architecture</td>
     </tr>
-
     <tr>
   <td><a href="./AdBuster_3.0_Hybrid_Prototype_Demo.md">AdBuster 3.0 — Hybrid Prototype Demo</a></td>
   <td>Video demonstration of the first integrated AdBuster 3.0 hybrid prototype</td>
-    </tr>
-    
+    </tr>  
     <tr>
       <td><a href="./AdBuster_Hybrid_Engine_v13.md">AdBuster Hybrid Engine v13</a></td>
       <td>Video demonstration of Hybrid Engine v13</td>
