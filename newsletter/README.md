@@ -27,9 +27,9 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## 🎧 Audio Editions — Podcast
 
-Prefer listening to reading? Explore selected AdBuster Research Notes audio editions on Spotify.
+Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
-[← Explore Audio Editions of Research Notes](./podcast/README.md)
+[← Browse Research Notes Audio Library](./podcast/README.md)
 
 ---
 
