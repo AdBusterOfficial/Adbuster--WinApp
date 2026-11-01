@@ -197,3 +197,14 @@ Explore the AdBuster project, CEPA Logic framework and related technical documen
 - **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
+
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
+
