@@ -171,9 +171,11 @@ Methodology research and prototype development by D.P-G, Dublin, Ireland.
 
 Explore the AdBuster PRO project, prototype and technical documentation:
 
-GitHub: https://github.com/AdBusterOfficial/Adbuster--WinApp
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
 
-Project website: https://sites.google.com/view/adbuster-winapp
+🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
 ---
 
