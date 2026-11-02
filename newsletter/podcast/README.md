@@ -10,6 +10,10 @@ This page provides a central index of published audio editions, with direct link
 
 ## Available Episodes
 
+### 7. Why Context Matters in Intelligent Decision-Making
+
+[▶ Listen on Spotify](https://open.spotify.com/episode/26wPQ3aijYJnZ3Jk6Yg7PU?si=8e97e9a3aa454ad7o)
+
 ### 6. Why Stability Matters More Than Accuracy
 
 [▶ Listen on Spotify](https://open.spotify.com/episode/4FfBj5o4Bw89Ry3CBplkOo)
