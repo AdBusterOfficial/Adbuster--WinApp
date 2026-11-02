@@ -16,6 +16,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## ✅ Editions
 
+- **2026-11-02** – [Why Context Matters in Intelligent Decision-Making](./Why%20Context%20Matters%20in%20Intelligent%20Decision-Making.md)
 - **2026-10-28** – [Why Stability Matters More Than Accuracy](./Why%20Stability%20Matters%20More%20Than%20Accuracy.md)
 - **2026-10-24** – [Why CEPA Doesn’t Use AGC/DRC: Context Before Action](./Why%20CEPA%20Doesnt%20Use%20AGC-DRC.md)
 - **2026-10-21** – [CEPA Logic Wiki Introduction](./CEPA_Logic_Wiki_Introduction.md)
@@ -35,8 +36,7 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – Why Context Matters in Intelligent Decision-Making
-- AdBuster 3.0 - Inside the Hybrid Prototype
+- **Coming Next** – AdBuster 3.0 - Inside the Hybrid Prototype
 - A Month of AdBuster Research Notes: What I Learned
 - From Integration to Evidence: Why Repeatable Testing Matters
 
