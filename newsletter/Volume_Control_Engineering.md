@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # The Hidden Engineering Behind a Simple Volume Adjustment
 
 *What it takes to connect audio analysis, software logic and physical device control.*
