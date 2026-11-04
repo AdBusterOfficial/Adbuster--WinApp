@@ -39,6 +39,7 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 - **Coming Next** – AdBuster 3.0 - Inside the Hybrid Prototype
 - A Month of AdBuster Research Notes: What I Learned
 - From Integration to Evidence: Why Repeatable Testing Matters
+- The Hidden Engineering Behind a Simple Volume Adjustment
 
 --- 
 
