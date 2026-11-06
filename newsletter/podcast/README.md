@@ -10,6 +10,10 @@ This page provides a central index of published audio editions, with direct link
 
 ## Available Episodes
 
+### 8. AdBuster 3.0 — Inside the Hybrid Prototype
+
+[▶ Listen on Spotify](x)
+
 ### 7. Why Context Matters in Intelligent Decision-Making
 
 [▶ Listen on Spotify](https://open.spotify.com/episode/26wPQ3aijYJnZ3Jk6Yg7PU?si=8e97e9a3aa454ad7o)
