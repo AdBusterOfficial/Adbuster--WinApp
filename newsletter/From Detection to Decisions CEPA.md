@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
 
 # From Detection Flags to Decisions: Reading the AdBuster PRO Logs
 
@@ -141,6 +144,28 @@ The objective is not to make a system react to everything it detects.
 
 It is to understand when, why and under what conditions a response is appropriate.
 
-*AdBuster PRO — Experimental Research & Development*
+---
+
+## About the project
+
+**CEPA Logic — Contextual Event Pattern Analysis**
+
+Methodology research and prototype development by D.P-G, Dublin, Ireland.
+
+Explore the AdBuster PRO project, prototype and technical documentation:
+
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
+
+🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
