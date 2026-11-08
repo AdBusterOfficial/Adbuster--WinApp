@@ -88,7 +88,7 @@ This is the engineering challenge that continues to shape my research into CEPA 
 
 ---
 
-## About the project
+### About the project
 
 **CEPA Logic — Contextual Event Pattern Analysis**
 
