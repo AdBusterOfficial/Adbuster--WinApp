@@ -86,6 +86,28 @@ Building systems that can make appropriate decisions requires more than accurate
 
 This is the engineering challenge that continues to shape my research into CEPA Logic.
 
-*AdBuster PRO — Experimental Research & Development*
+---
+
+## About the project
+
+**CEPA Logic — Contextual Event Pattern Analysis**
+
+Methodology research and prototype development by D.P-G, Dublin, Ireland.
+
+Explore the AdBuster PRO project, prototype and technical documentation:
+
+🟢 **Website:** [AdBuster PRO – Official Project Website](https://sites.google.com/view/adbuster-winapp)
+
+🔵 **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+
+🟣 **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+---
 
 © 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
