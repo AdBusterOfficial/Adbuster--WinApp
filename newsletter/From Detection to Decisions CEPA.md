@@ -17,6 +17,8 @@ Across the dataset, 310 observations were marked with `ad_detected = 1`.
 
 However, only 11 of these observations were recorded with `context = AD`. The remaining 299 retained the NORMAL context.
 
+These figures represent recorded observations, not 310 independently confirmed advertising events.
+
 At first glance, this difference might suggest a detection or classification problem. However, the decision logs provide additional information.
 
 They show that advertising evidence is evaluated through further conditions, including accumulated detection hits, probability thresholds and minimum loudness requirements.
@@ -29,22 +31,23 @@ That distinction is important when examining systems that combine machine learni
 
 The recorded decision messages provide a more detailed picture of how advertising evidence is evaluated.
 
-Some entries explicitly report conditions such as:
+The logs contain different combinations of confirmation conditions rather than one universal threshold.
 
-- Accumulated advertising evidence: 4 out of 12.
-- Confirmation probability threshold: 0.70.
-- A lower probability level used as a possible indication.
+For example, recorded conditions include:
+
+- Accumulated advertising evidence of 4 out of 12, with a probability threshold of 0.70.
+- Accumulated advertising evidence of 5 out of 12, with a probability threshold of 0.71.
 - Additional loudness requirements before CEPA enters the AD context.
 
-The logs also show that the required loudness level can vary, with recorded conditions referring to levels of 16 and 22.
+The recorded loudness conditions also include different levels, such as 16 and 22.
 
-These details demonstrate that the system does not rely on a single detection value.
+These variations are important because they show that the confirmation process involves multiple conditions. The system does not rely on a single detection value.
 
-Instead, several conditions participate in determining whether an observation should influence the wider decision process.
+Instead, accumulated evidence, probability and audio-level requirements contribute to the evaluation.
 
-This raises an important engineering question: how effectively do these confirmation conditions distinguish a genuine advertising event from other changes in the audio environment?
+An important question is how these conditions interact across different operating situations, and whether they consistently distinguish genuine advertising events from other changes in the audio environment.
 
-That question requires further testing against the recorded sequences, rather than conclusions based on individual values.
+Answering that question requires examining complete event sequences rather than drawing conclusions from individual log entries.
 
 ### 3. The Importance of Operational States
 
