@@ -40,7 +40,6 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 - **Coming Next** – A Month of AdBuster Research Notes: What I Learned
 - From Integration to Evidence: Why Repeatable Testing Matters
 - The Hidden Engineering Behind a Simple Volume Adjustment
-- Beyond Detection: What Real-World Data Reveals About CEPA Logic
 
 --- 
 
