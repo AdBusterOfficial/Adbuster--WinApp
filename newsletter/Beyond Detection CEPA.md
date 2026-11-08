@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/newsletter/AdBuster%20Research%20Notes%20Cover.png" alt="AdBuster Research Notes" width="100%">
+</p>
+
 # Beyond Detection: What Real-World Data Reveals About CEPA Logic
 
 ## Looking Beyond Individual Events to Understand System Behaviour
