@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  Offline audio stabilization engine powered by ML/AI and CEPA Logic.
+  ❖ Offline audio stabilization engine powered by ML/AI and CEPA Logic.
 </p>
 
 <p align="center">
