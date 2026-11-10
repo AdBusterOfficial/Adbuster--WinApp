@@ -22,9 +22,9 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 - **2026-10-28** – [Why Stability Matters More Than Accuracy](./Why%20Stability%20Matters%20More%20Than%20Accuracy.md)
 - **2026-10-24** – [Why CEPA Doesn’t Use AGC/DRC: Context Before Action](./Why%20CEPA%20Doesnt%20Use%20AGC-DRC.md)
 - **2026-10-21** – [CEPA Logic Wiki Introduction](./CEPA_Logic_Wiki_Introduction.md)
-- **2026-10-19** – [Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
-- **2026-10-15** – [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
-- **2026-10-11** – [Why I Created CEPA Logic](./Why%20I%20Created%20CEPA%20Logic.md)
+- **2026-10-19** – ( 3)[Why Most Automation Systems Overreact](./Why%20Most%20Automation%20Systems%20Overreact.md)
+- **2026-10-15** – ( 2) [The Story Behind 987 Commits](./The%20Story%20Behind%20987%20Commits.md)
+- **2026-10-11** – ( 1) [Why I Created CEPA Logic](./Why%20I%20Created%20CEPA%20Logic.md)
 
 ---
 
