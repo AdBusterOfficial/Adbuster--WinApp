@@ -12,7 +12,7 @@ This page provides a central index of published audio editions, with direct link
 
 ### 9. A Month of AdBuster Research Notes: What I Learned
 
-[▶ Listen on Spotify](https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w)
+[▶ Listen on Spotify](https://open.spotify.com/episode/0G9e8ymIDSTDVvim9Rr2QW?si=RZEgh7AhSh2AHUVyT8Dmow)
 
 ### 8. AdBuster 3.0 — Inside the Hybrid Prototype
 
