@@ -30,8 +30,30 @@ This experience will also influence how I approach future publications. I want t
 
 Thank you to everyone who has taken the time to read, follow or simply explore the material published so far.
 
-**Project website:**  
-https://sites.google.com/view/adbuster-winapp
+---
 
-**Complete project documentation:**  
-https://github.com/AdBusterOfficial/Adbuster--WinApp
+## About AdBuster Research Notes
+
+AdBuster Research Notes explores my ongoing work on AdBuster PRO, system stability, contextual analysis and the development of CEPA Logic.
+
+The newsletter covers experimental development, technical observations and the engineering questions involved in building more stable, context-aware systems. Prototype observations are presented in the context of ongoing development, not as proof of independently validated system-level reliability.
+
+## Project and Technical Documentation
+
+Explore the AdBuster project, CEPA Logic framework and related technical documentation.
+
+- **Website:** [AdBuster PRO — Official Project Website](https://sites.google.com/view/adbuster-winapp)
+- **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+- **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
+
+I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
+
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
