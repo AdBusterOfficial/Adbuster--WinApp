@@ -16,6 +16,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## ✅ Editions
 
+- **2026-11-10** – [A Month of AdBuster Research Notes: What I Learned](./A%20Month%20of%20AdBuster%20Research%20Notes.md)
 - **2026-11-06** – [AdBuster 3.0 - Inside the Hybrid Prototype](./AdBuster%203.0%20-%20Inside%20the%20Hybrid%20Prototype.md)
 - **2026-11-02** – [Why Context Matters in Intelligent Decision-Making](./Why%20Context%20Matters%20in%20Intelligent%20Decision-Making.md)
 - **2026-10-28** – [Why Stability Matters More Than Accuracy](./Why%20Stability%20Matters%20More%20Than%20Accuracy.md)
@@ -37,8 +38,7 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – A Month of AdBuster Research Notes: What I Learned
-- From Integration to Evidence: Why Repeatable Testing Matters
+- **Coming Next** – From Integration to Evidence: Why Repeatable Testing Matters
 - The Hidden Engineering Behind a Simple Volume Adjustment
 - From Detection Flags to Decisions: Reading the AdBuster PRO Logs
 
