@@ -10,6 +10,10 @@ This page provides a central index of published audio editions, with direct link
 
 ## Available Episodes
 
+### 9. A Month of AdBuster Research Notes: What I Learned
+
+[▶ Listen on Spotify](xxx)
+
 ### 8. AdBuster 3.0 — Inside the Hybrid Prototype
 
 [▶ Listen on Spotify](https://open.spotify.com/episode/0wbNGeOweEOH8nX4pWpxcE?si=bpu3mIAwRfaqHtC3YM3MgA)
