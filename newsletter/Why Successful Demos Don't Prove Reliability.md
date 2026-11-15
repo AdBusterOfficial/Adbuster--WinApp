@@ -265,11 +265,22 @@ That is the direction of my current work with AdBuster: moving beyond successful
 
 **AdBuster Research Notes** documents my ongoing exploration of real\-time audio analysis, system stability, testing methodologies and automated volume\-control technologies.
 
-**Website:** [https://sites.google.com/view/adbuster\-winapp](https://sites.google.com/view/adbuster-winapp)
+## Project and Technical Documentation
 
-**GitHub:** [https://github.com/AdBusterOfficial/Adbuster\-\-WinApp](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+Explore the AdBuster project, CEPA Logic framework and related technical documentation.
 
-**LinkedIn Newsletter:** AdBuster Research Notes
+- **Website:** [AdBuster PRO — Official Project Website](https://sites.google.com/view/adbuster-winapp)
+- **GitHub:** [Complete Project Documentation](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+- **LinkedIn Newsletter:** [AdBuster Research Notes](https://www.linkedin.com/newsletters/adbuster-research-notes-7515027727326916608/)
 
-© 2026 D.P\-G. \| AdBuster Research Labs, Dublin
+I welcome constructive discussions with engineers and researchers working in machine learning, real-time systems, signal analysis and intelligent automation.
 
+---
+
+© 2026 D.P-G. | AdBuster Research Labs, Dublin
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/Adbuster--WinApp/main/footer.png" alt="Footer" width="100%">
+</p>
