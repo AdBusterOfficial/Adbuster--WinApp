@@ -38,7 +38,7 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – From Integration to Evidence: Why Repeatable Testing Matters
+- **Coming Next** – Why Successful Demos Don't Prove Reliability
 - The Hidden Engineering Behind a Simple Volume Adjustment
 - From Detection Flags to Decisions: Reading the AdBuster PRO Logs
 
