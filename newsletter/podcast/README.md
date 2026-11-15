@@ -12,7 +12,7 @@ This page provides a central index of published audio editions, with direct link
 
 ### 10. Why Successful Demos Don't Prove Reliability
 
-[▶ Listen on Spotify](xxx)
+[▶ Listen on Spotify](https://open.spotify.com/episode/51YRESCJIlkvztBoYW8TdK?si=LAM1ptQMSMOE6htJUSZ2Zw)
 
 ### 9. A Month of AdBuster Research Notes: What I Learned
 
