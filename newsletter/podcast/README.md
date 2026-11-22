@@ -12,7 +12,7 @@ This page provides a central index of published audio editions, with direct link
 
 ### 11. The Last Mile Problem in Real-Time Systems
 
-[▶ Listen on Spotify]()
+[▶ Listen on Spotify](https://open.spotify.com/episode/4ArDlr1133oaH1onNG4jlC?si=cbd0fedb0c3b4b33)
 
 ### 10. Why Successful Demos Don't Prove Reliability
 
