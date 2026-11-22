@@ -39,7 +39,7 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – The Hidden Engineering Behind a Simple Volume Adjustment
+- **Coming Next** – The Last Mile Problem in Real-Time Systems
 - From Detection Flags to Decisions: Reading the AdBuster PRO Logs
 
 --- 
