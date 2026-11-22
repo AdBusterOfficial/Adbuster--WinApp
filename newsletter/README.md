@@ -16,6 +16,7 @@ AdBuster Research Notes documents the ongoing development of AdBuster and CEPA L
 
 ## ✅ Editions
 
+- **2026-11-22** (11) –  [The Last Mile Problem in Real-Time Systems](./The%20Verification%20Gap.md)
 - **2026-11-15** (10) –  [Why Successful Demos Don't Prove Reliability](./Why%20Successful%20Demos%20Don't%20Prove%20Reliability.md)
 - **2026-11-10** (9) –  [A Month of AdBuster Research Notes: What I Learned](./A%20Month%20of%20AdBuster%20Research%20Notes.md)
 - **2026-11-06** (8) –  [AdBuster 3.0 - Inside the Hybrid Prototype](./AdBuster%203.0%20-%20Inside%20the%20Hybrid%20Prototype.md)
@@ -39,8 +40,8 @@ Prefer listening to reading? Listen to AdBuster Research Notes on Spotify.
 
 ## 🔼 Upcoming Editions
 
-- **Coming Next** – The Last Mile Problem in Real-Time Systems
-- From Detection Flags to Decisions: Reading the AdBuster PRO Logs
+- **Coming Next** – From Detection Flags to Decisions: Reading the AdBuster PRO Logs
+- ?
 
 --- 
 
